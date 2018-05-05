@@ -1,7 +1,7 @@
 ---
 layout: default
-title: PD2AF Converter
-permalink: /pd2af/
+title: Translation rules
+permalink: /rules/
 ---
 
 # PD2AF Converter
