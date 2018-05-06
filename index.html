@@ -2,12 +2,9 @@
 layout: default
 ---
 
-<p style="font-size:100%;">Welcome to the SBGN Bricks project, an effort focused on describing recurring patterns in biological networks that correspond to such biological concepts as metabolic reaction, catalysis, inhibition, protein phosphorylation, complex formation, transcription, translation etc.</p>
+<p>PD2AF converter is an open-source application designed to enable communication between the Process Description and the Activity Flow languages of the SBGN standard. The PD2AF tool is built on and further develops the logic of the previously published template-based translation from PD to AF (Vogt et al., 2013, doi: 10.1186/1752-0509-7-115) which is accessible as a functionality of the SBGN-ED add-on of the VANTED editor.</p>
 
-<h2>Brick highlight</h2>
+<p>The purpose of the new tool is to translate PD to AF in such a way so it is possible to avoid using complexes in the resulting AF version and therefore be as close as possible to manually designed AF diagrams and the corresponding logical models. The converter uses the concept of the SBGN Bricks and additionally detects advanced network patterns such as, for example, "hidden" inhibition, when the mechanism is shown in details and no inhibition arcs are used.</p>
 
-<div class="parent">
-    <div class="img"><a href="/pd/"><img src="../bricks/catalysis/Catalysis-PD01.02-IRR-2x2.png"/></a></div>
-    <div class="text"><strong>Catalysis: multiple substrates and products.</strong> The enzyme catalyses an irreversible metabolic process which consumes two substrates S1 and S2 and produces two products P1 and P2.</div>
-</div>
+<p>The code is written in Lisp.</p>
 
