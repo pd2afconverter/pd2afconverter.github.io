@@ -27,7 +27,7 @@ To contribute and discuss the project please use this email address: [pd2af@goog
 
 <table>
 <tr>
-<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/DenisShirshov.jpg" width="160"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/DenisShirshov.jpg" width="160"/></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/AlexanderMazein.jpg" width="160"/></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/AnatolySorokin.jpg" width="160"/></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/IrinaBalaur.jpg" width="160"/></p></td>
