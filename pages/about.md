@@ -24,6 +24,9 @@ Github: [https://github.com/prozion/pd2af](https://github.com/prozion/pd2af)
 
 To contribute and discuss the project please use this email address: [pd2af@googlegroups.com](mailto:pd2af@googlegroups.com)  
 
+Denis Shirshov, Lead Developer [denis.shirshov@gmail.com](mailto:denis.shirshov@gmail.com)
+Alexander Mazein, Project Coordinator [amazein@eisbm.org](mailto:amazein@eisbm.org)
+
 ## Project Team
 
 <table>
