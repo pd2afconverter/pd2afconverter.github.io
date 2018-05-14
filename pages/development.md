@@ -21,6 +21,8 @@ The development is planned in a stepwise manner and assumes the following milest
 
 #### PD2AF Milestone #1 Basic - "Enhanced" version - Automatic
 
+The first milestone version is designed to provide an accessible and improved open-source code for the convertion from PD to AF. Also, at this step we can strat creating a collection of PD-AF pairs of bricks that correspond to each other and compare the results to maps in AF-like format.
+
 #### PD2AF Milestone #2 Intermediate - "Adviser" version - Semi-automatic
 
 #### PD2AF Milestone #3 Advanced - "Informed guess" version - Automatic
