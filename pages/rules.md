@@ -25,84 +25,51 @@ permalink: /rules/
 </table>
 
 ### Advanced patterns: "hidden" inhibition
-<!-- TODO: add link to SBGN-ML -->
 
-#### Inhibition pattern 1: inhibition by activation of a competitive process
-
-Condition: the macromolecule B in states B0 and B2 do not have outgoing regulatory links (are not active).
-
+<h3>Metabolic Inhibition</h3>
+<h5>#002</h5>
+<em><span class="not_implemented">not implemented</span></em>
 <table>
 	<tr style="font-size:90%;">
-		<td style="width:375px; text-align:center; font-size:90%;">
-			<img src="../examples/inhibition-1/spec.pd.png" width="370"/>
+		<td style="text-align:center; font-size:90%;">
+			<img src="../rules/met-inh/pd.png" width="230" />
 			<br />
-			<a href="../examples/inhibition-1/spec.pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/examples/inhibition-1/spec.pd.sbgn" target="_blank">Newt</a>
+			<a href="../rules/met-inh/pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/met-inh/pd.sbgn" target="_blank">Newt</a>
 		</td>
-		<td style="width:200px; text-align:center; font-size:90%;">
-			<img src="../examples/inhibition-1/spec.af.png" width="77"/>
+		<td style="text-align:center; font-size:90%;">
+			<img src="../rules/met-inh/af.png" width="80" />
 			<br />
-			<a href="../examples/inhibition-1/spec.af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/examples/inhibition-1/spec.af.sbgn" target="_blank">Newt</a>
+			<a href="../rules/met-inh/af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/met-inh/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 	<tr style="line-height: 3em">
-		<td colspan="2" style="text-align:center; font-size:90%;">Variant 1</td>
+		<td colspan="2" style="text-align:left; font-size:90%;">Macromolecule A inhibits reaction B to C</td>
+	</tr>
+	<tr style="line-height: 3em">
+		<td colspan="2" style="text-align:left; font-size:90%;"></td>
 	</tr>
 </table>
 
+<h3>Metabolic Stimulation</h3>
+<h5>#001</h5>
+<em><span class="not_implemented">not implemented</span></em>
 <table>
 	<tr style="font-size:90%;">
 		<td style="text-align:center; font-size:90%;">
-			<img src="../examples/inhibition-2/spec.pd.png" height="210"/>
+			<img src="../rules/met-sti/pd.png" width="430" />
 			<br />
-			<a href="../examples/inhibition-2/spec.pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/examples/inhibition-2/spec.pd.sbgn" target="_blank">Newt</a>
+			<a href="../rules/met-sti/pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/met-sti/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="text-align:center; font-size:90%;">
-			<img src="../examples/inhibition-2/spec.af.png" height="210"/>
+			<img src="../rules/met-sti/af.png" width="430" />
 			<br />
-			<a href="../examples/inhibition-2/spec.af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/examples/inhibition-2/spec.af.sbgn" target="_blank">Newt</a>
+			<a href="../rules/met-sti/af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/met-sti/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 	<tr style="line-height: 3em">
-		<td colspan="2" style="text-align:center; font-size:90%;">Variant 2</td>
-	</tr>
-</table>
-
-#### Inhibition by complex formation
-
-<table>
-	<tr style="font-size:90%;">
-		<td style="text-align:center; font-size:90%;">
-			<img src="../examples/inhibition-3/spec.pd.png" height="280"/>
-			<br />
-			<a href="../examples/inhibition-3/spec.pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/examples/inhibition-3/spec.pd.sbgn" target="_blank">Newt</a>
-		</td>
-		<td style="text-align:center; font-size:90%;">
-			<img src="../examples/inhibition-3/spec.af.png" height="210"/>
-			<br />
-			<a href="../examples/inhibition-3/spec.af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/examples/inhibition-3/spec.af.sbgn" target="_blank">Newt</a>
-		</td>
+		<td colspan="2" style="text-align:left; font-size:90%;">Macromolecule A stimulates reaction B to C</td>
 	</tr>
 	<tr style="line-height: 3em">
-		<td colspan="2" style="text-align:center; font-size:90%;">Implicit inhibition by complex formation</td>
-	</tr>
-</table>
-
-
-#### Multiple active states for the same element
-<table>
-	<tr style="font-size:90%;">
-		<td style="text-align:center; font-size:90%;">
-			<img src="../examples/inhibition-4/spec.pd.png" height="350"/>
-			<br />
-			<a href="../examples/inhibition-4/spec.pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/examples/inhibition-4/spec.pd.sbgn" target="_blank">Newt</a>
-		</td>
-		<td style="text-align:center; font-size:90%;">
-			<img src="../examples/inhibition-4/spec.af.png" height="350"/>
-			<br />
-			<a href="../examples/inhibition-4/spec.af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/examples/inhibition-4/spec.af.sbgn" target="_blank">Newt</a>
-		</td>
-	</tr>
-	<tr style="line-height: 3em">
-		<td colspan="2" style="text-align:center; font-size:90%;">Two active states</td>
+		<td colspan="2" style="text-align:left; font-size:90%;"></td>
 	</tr>
 </table>
