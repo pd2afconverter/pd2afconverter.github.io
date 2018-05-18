@@ -27,18 +27,17 @@ permalink: /rules/
 
 
 <h3>Metabolic Inhibition</h3>
-<h5>#002</h5>
 <table>
 	<tr style="font-size:90%;">
 		<td style="text-align:center; font-size:90%;">
 			<img src="../rules/met-inh/pd.png" width="230" />
 			<br />
-			<a href="../rules/met-inh/pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/met-inh/pd.sbgn" target="_blank">Newt</a>
+			<a href="../rules/met-inh/pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/rules/met-inh/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="text-align:center; font-size:90%;">
-			<img src="../rules/met-inh/af.png" width="80" />
+			<img src="../rules/met-inh/af.png" width="230" />
 			<br />
-			<a href="../rules/met-inh/af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/met-inh/af.sbgn" target="_blank">Newt</a>
+			<a href="../rules/met-inh/af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/rules/met-inh/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 	<tr style="line-height: 3em">
@@ -48,20 +47,18 @@ permalink: /rules/
 		<td colspan="2" style="text-align:left; font-size:90%;"></td>
 	</tr>
 </table>
-
 <h3>Metabolic Stimulation</h3>
-<h5>#001</h5>
 <table>
 	<tr style="font-size:90%;">
 		<td style="text-align:center; font-size:90%;">
 			<img src="../rules/met-sti/pd.png" width="230" />
 			<br />
-			<a href="../rules/met-sti/pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/met-sti/pd.sbgn" target="_blank">Newt</a>
+			<a href="../rules/met-sti/pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/rules/met-sti/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="text-align:center; font-size:90%;">
 			<img src="../rules/met-sti/af.png" width="230" />
 			<br />
-			<a href="../rules/met-sti/af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/met-sti/af.sbgn" target="_blank">Newt</a>
+			<a href="../rules/met-sti/af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/rules/met-sti/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 	<tr style="line-height: 3em">
@@ -73,19 +70,19 @@ permalink: /rules/
 </table>
 
 <h2>How To Treat Stimulation In Signalling Pathways</h2>
+
 <h3>Stimulation With Active Substrate</h3>
-<h5>#004</h5>
 <table>
 	<tr style="font-size:90%;">
 		<td style="text-align:center; font-size:90%;">
 			<img src="../rules/sig-sti-a-0/pd.png" width="230" />
 			<br />
-			<a href="../rules/sig-sti-a-0/pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/sig-sti-a-0/pd.sbgn" target="_blank">Newt</a>
+			<a href="../rules/sig-sti-a-0/pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/rules/sig-sti-a-0/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="text-align:center; font-size:90%;">
 			<img src="../rules/sig-sti-a-0/af.png" width="230" />
 			<br />
-			<a href="../rules/sig-sti-a-0/af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/sig-sti-a-0/af.sbgn" target="_blank">Newt</a>
+			<a href="../rules/sig-sti-a-0/af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/rules/sig-sti-a-0/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 	<tr style="line-height: 3em">
@@ -95,20 +92,18 @@ permalink: /rules/
 		<td colspan="2" style="text-align:left; font-size:90%;"></td>
 	</tr>
 </table>
-
 <h3>Stimulation With Inactive Reactants</h3>
-<h5>#003</h5>
 <table>
 	<tr style="font-size:90%;">
 		<td style="text-align:center; font-size:90%;">
 			<img src="../rules/sig-sti-0-0/pd.png" width="230" />
 			<br />
-			<a href="../rules/sig-sti-0-0/pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/sig-sti-0-0/pd.sbgn" target="_blank">Newt</a>
+			<a href="../rules/sig-sti-0-0/pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/rules/sig-sti-0-0/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="text-align:center; font-size:90%;">
 			<img src="../rules/sig-sti-0-0/af.png" width="230" />
 			<br />
-			<a href="../rules/sig-sti-0-0/af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/sig-sti-0-0/af.sbgn" target="_blank">Newt</a>
+			<a href="../rules/sig-sti-0-0/af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/rules/sig-sti-0-0/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 	<tr style="line-height: 3em">
@@ -118,20 +113,18 @@ permalink: /rules/
 		<td colspan="2" style="text-align:left; font-size:90%;">IMPORTANT: not obvious rule and potentially wrong translation</td>
 	</tr>
 </table>
-
 <h3>Stimulation With Active Product</h3>
-<h5>#005</h5>
 <table>
 	<tr style="font-size:90%;">
 		<td style="text-align:center; font-size:90%;">
 			<img src="../rules/sig-sti-0-a/pd.png" width="230" />
 			<br />
-			<a href="../rules/sig-sti-0-a/pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/sig-sti-0-a/pd.sbgn" target="_blank">Newt</a>
+			<a href="../rules/sig-sti-0-a/pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/rules/sig-sti-0-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="text-align:center; font-size:90%;">
 			<img src="../rules/sig-sti-0-a/af.png" width="230" />
 			<br />
-			<a href="../rules/sig-sti-0-a/af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/sig-sti-0-a/af.sbgn" target="_blank">Newt</a>
+			<a href="../rules/sig-sti-0-a/af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/rules/sig-sti-0-a/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 	<tr style="line-height: 3em">
@@ -141,20 +134,18 @@ permalink: /rules/
 		<td colspan="2" style="text-align:left; font-size:90%;"></td>
 	</tr>
 </table>
-
 <h3>Stimulation With Active Substrate And Product</h3>
-<h5>#006</h5>
 <table>
 	<tr style="font-size:90%;">
 		<td style="text-align:center; font-size:90%;">
 			<img src="../rules/sig-sti-a-a/pd.png" width="230" />
 			<br />
-			<a href="../rules/sig-sti-a-a/pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/sig-sti-a-a/pd.sbgn" target="_blank">Newt</a>
+			<a href="../rules/sig-sti-a-a/pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/rules/sig-sti-a-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="text-align:center; font-size:90%;">
 			<img src="../rules/sig-sti-a-a/af.png" width="230" />
 			<br />
-			<a href="../rules/sig-sti-a-a/af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/sig-sti-a-a/af.sbgn" target="_blank">Newt</a>
+			<a href="../rules/sig-sti-a-a/af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/rules/sig-sti-a-a/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 	<tr style="line-height: 3em">
@@ -166,19 +157,19 @@ permalink: /rules/
 </table>
 
 <h2>Translocation</h2>
+
 <h3>Simple Translocation</h3>
-<h5>#007</h5>
 <table>
 	<tr style="font-size:90%;">
 		<td style="text-align:center; font-size:90%;">
 			<img src="../rules/transloc-sti/pd.png" width="230" />
 			<br />
-			<a href="../rules/transloc-sti/pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/transloc-sti/pd.sbgn" target="_blank">Newt</a>
+			<a href="../rules/transloc-sti/pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/rules/transloc-sti/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="text-align:center; font-size:90%;">
 			<img src="../rules/transloc-sti/af.png" width="230" />
 			<br />
-			<a href="../rules/transloc-sti/af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/transloc-sti/af.sbgn" target="_blank">Newt</a>
+			<a href="../rules/transloc-sti/af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/rules/transloc-sti/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 	<tr style="line-height: 3em">
