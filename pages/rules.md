@@ -35,7 +35,7 @@ permalink: /rules/
 			<a href="../rules/met-inh/pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/rules/met-inh/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="text-align:center; font-size:90%;">
-			<img src="../rules/met-inh/af.png" width="230" />
+			<img src="../rules/met-inh/af.png" width="80" />
 			<br />
 			<a href="../rules/met-inh/af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/rules/met-inh/af.sbgn" target="_blank">Newt</a>
 		</td>
@@ -80,7 +80,7 @@ permalink: /rules/
 			<a href="../rules/sig-sti-a-0/pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/rules/sig-sti-a-0/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="text-align:center; font-size:90%;">
-			<img src="../rules/sig-sti-a-0/af.png" width="230" />
+			<img src="../rules/sig-sti-a-0/af.png" width="80" />
 			<br />
 			<a href="../rules/sig-sti-a-0/af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/rules/sig-sti-a-0/af.sbgn" target="_blank">Newt</a>
 		</td>
@@ -101,7 +101,7 @@ permalink: /rules/
 			<a href="../rules/sig-sti-0-0/pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/rules/sig-sti-0-0/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="text-align:center; font-size:90%;">
-			<img src="../rules/sig-sti-0-0/af.png" width="230" />
+			<img src="../rules/sig-sti-0-0/af.png" width="80" />
 			<br />
 			<a href="../rules/sig-sti-0-0/af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/rules/sig-sti-0-0/af.sbgn" target="_blank">Newt</a>
 		</td>
@@ -122,7 +122,7 @@ permalink: /rules/
 			<a href="../rules/sig-sti-0-a/pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/rules/sig-sti-0-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="text-align:center; font-size:90%;">
-			<img src="../rules/sig-sti-0-a/af.png" width="230" />
+			<img src="../rules/sig-sti-0-a/af.png" width="80" />
 			<br />
 			<a href="../rules/sig-sti-0-a/af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/rules/sig-sti-0-a/af.sbgn" target="_blank">Newt</a>
 		</td>
@@ -167,7 +167,7 @@ permalink: /rules/
 			<a href="../rules/transloc-sti/pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/rules/transloc-sti/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="text-align:center; font-size:90%;">
-			<img src="../rules/transloc-sti/af.png" width="230" />
+			<img src="../rules/transloc-sti/af.png" width="150" />
 			<br />
 			<a href="../rules/transloc-sti/af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/rules/transloc-sti/af.sbgn" target="_blank">Newt</a>
 		</td>
