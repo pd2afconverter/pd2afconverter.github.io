@@ -24,9 +24,18 @@ permalink: /rules/
     </tr>
 </table>
 
+<h3>Inhibition of an irreversible metabolic reaction</h3>
 
+Associated GO term: [GO:0009892 negative regulation of metabolic process](http://amigo.geneontology.org/amigo/term/GO:0009892)
 
-<h3>Metabolic Inhibition</h3>
+<table>
+    <tr style="font-size:90%;">
+    <td style="width:220px; text-align:center; font-size:90%;"><img src="../rules/met-inh/pd.png" width="205"/><br /><a href="../rules/met-inh/pd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/rules/met-inh/pd.sbgn" target="_blank">Newt</a></td>
+    <td style="width:220px; text-align:center; font-size:90%;"><img src="../rules/met-inh/af.png" width="80"/><br /><a href="../rules/met-inh/af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/rules/met-inh/af.sbgn" target="_blank">Newt</a></td>
+    </tr>
+</table>
+
+<h3>Inhibition of an irreversible metabolic reaction</h3>
 <table>
 	<tr style="font-size:90%;">
 		<td style="text-align:center; font-size:90%;">
@@ -34,6 +43,7 @@ permalink: /rules/
 			<br />
 			<a href="../rules/met-inh/pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/rules/met-inh/pd.sbgn" target="_blank">Newt</a>
 		</td>
+		<td style="vertical-align: middle; padding-left: 1em;">
 		<td style="text-align:center; font-size:90%;">
 			<img src="../rules/met-inh/af.png" width="80" />
 			<br />
@@ -47,7 +57,10 @@ permalink: /rules/
 		<td colspan="2" style="text-align:left; font-size:90%;"></td>
 	</tr>
 </table>
+
+
 <h3>Metabolic Stimulation</h3>
+
 <table>
 	<tr style="font-size:90%;">
 		<td style="text-align:center; font-size:90%;">
