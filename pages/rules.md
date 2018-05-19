@@ -43,7 +43,6 @@ Associated GO term: [GO:0009892 negative regulation of metabolic process](http:/
 			<br />
 			<a href="../rules/met-inh/pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/rules/met-inh/pd.sbgn" target="_blank">Newt</a>
 		</td>
-		<td style="vertical-align: middle; padding-left: 1em;">
 		<td style="text-align:center; font-size:90%;">
 			<img src="../rules/met-inh/af.png" width="80" />
 			<br />
@@ -57,10 +56,7 @@ Associated GO term: [GO:0009892 negative regulation of metabolic process](http:/
 		<td colspan="2" style="text-align:left; font-size:90%;"></td>
 	</tr>
 </table>
-
-
 <h3>Metabolic Stimulation</h3>
-
 <table>
 	<tr style="font-size:90%;">
 		<td style="text-align:center; font-size:90%;">
