@@ -35,6 +35,8 @@ Associated GO term: [GO:0009892 negative regulation of metabolic process](http:/
     </tr>
 </table>
 
+IMPORTANT: The assumption is that simple chemical C is the important "active" molecule and not simple chemical B. In case simple chemical B is the main entity (participates in other reactions or is an active signalling molecule), then in AF the _negative influence_ arc would be replaced by _positive influence_ arc.
+
 <h3>Metabolic Inhibition</h3>
 <table>
 	<tr style="font-size:90%;">
