@@ -35,7 +35,7 @@ Associated GO term: [GO:0009892 negative regulation of metabolic process](http:/
     </tr>
 </table>
 
-<h3>Inhibition of an irreversible metabolic reaction</h3>
+<h3>Metabolic Inhibition</h3>
 <table>
 	<tr style="font-size:90%;">
 		<td style="text-align:center; font-size:90%;">
