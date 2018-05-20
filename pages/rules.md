@@ -24,7 +24,19 @@ permalink: /rules/
     </tr>
 </table>
 
-<h3>Inhibition of an irreversible metabolic reaction</h3>
+### Catalysis
+
+Associated GO term: [GO:0009892 positive regulation of metabolic process](http://amigo.geneontology.org/amigo/term/GO:0009893)
+
+<table>
+    <tr style="font-size:90%;">
+    <td style="width:220px; text-align:center; font-size:90%;"><img src="../rules/met-inh/pd.png" width="205"/><br /><a href="../rules/met-inh/pd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/rules/met-sti/pd.sbgn" target="_blank">Newt</a></td>
+    <td style="width:220px; text-align:center; font-size:90%;"><img src="../rules/met-inh/af.png" width="80"/><br /><a href="../rules/met-inh/af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/rules/met-sti/af.sbgn" target="_blank">Newt</a></td>
+    <td style="vertical-align: middle; padding-left: 1em;"> </td>
+    </tr>
+</table>
+
+### Inhibition of irreversible metabolic reaction
 
 Associated GO term: [GO:0009892 negative regulation of metabolic process](http://amigo.geneontology.org/amigo/term/GO:0009892)
 
