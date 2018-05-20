@@ -6,6 +6,8 @@ permalink: /rules/
 
 # Translation rules
 
+Translation rules take into account not only a partical SBGN brick but also the surrounding connected bricks - contextual network iformation. By _active entity_ we mean an entity that participate in following steps of the pathway/network. It is a glyph that has outgoing regulatory arcs (activation, inhibition) or connected to other processes via a consumption arc.  
+
 ### Protein activation by phosphorylation
 
 <table>
@@ -48,6 +50,13 @@ Associated GO term: [GO:0009892 negative regulation of metabolic process](http:/
     </tr>
 </table>
 
+### Activation of state transition: active outcome state (most common pattern)
+
+### Activation of state transition: active incoming state
+
+### Activation of state transition: both states are active
+
+
 ### Activation of protein phosphorylation: active phosphorylated state
 
 Associated GO term: [GO:0001934 positive regulation of protein phosphorylation](http://amigo.geneontology.org/amigo/term/GO:0001934)
@@ -56,7 +65,7 @@ Associated GO term: [GO:0001934 positive regulation of protein phosphorylation](
 
 Associated GO term: [GO:0001934 positive regulation of protein phosphorylation](http://amigo.geneontology.org/amigo/term/GO:0001934)
 
-### Activation of protein phosphorylation: both states are avtive
+### Activation of protein phosphorylation: both states are active
 
 Associated GO term: [GO:0001934 positive regulation of protein phosphorylation](http://amigo.geneontology.org/amigo/term/GO:0001934)
 
