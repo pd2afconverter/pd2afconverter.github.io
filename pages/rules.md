@@ -48,6 +48,12 @@ Associated GO term: [GO:0009892 negative regulation of metabolic process](http:/
     </tr>
 </table>
 
+### Activation of protein phosphorylation: active phosphorylated state
+
+### Activation of protein phosphorylation: active unphosphorylated state
+
+### Activation of protein phosphorylation: both states are avtive
+
 <h3>Metabolic Inhibition</h3>
 <table>
 	<tr style="font-size:90%;">
