@@ -6,7 +6,7 @@ permalink: /rules/
 
 # Translation rules
 
-Translation rules take into account not only a partical SBGN brick but also the surrounding connected bricks - contextual network iformation. By _active entity_ we mean an entity that participate in following steps of the pathway/network. It is a glyph that has outgoing regulatory arcs (activation, inhibition) or connected to other processes via a consumption arc.  
+Translation rules take into account not only a partical SBGN brick but also the surrounding connected bricks - contextual network iformation. By _active entity_ we mean an entity that participate in following steps of the pathway/network. It is a glyph that has outgoing regulatory arcs (catalysis, stimulation, inhibition) or connected to other processes via a consumption arc.  
 
 ### Protein activation by phosphorylation
 
