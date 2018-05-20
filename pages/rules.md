@@ -50,9 +50,17 @@ Associated GO term: [GO:0009892 negative regulation of metabolic process](http:/
 
 ### Activation of protein phosphorylation: active phosphorylated state
 
+Associated GO term: [GO:0001934 positive regulation of protein phosphorylation](http://amigo.geneontology.org/amigo/term/GO:0001934)
+
 ### Activation of protein phosphorylation: active unphosphorylated state
 
+Associated GO term: [GO:0001934 positive regulation of protein phosphorylation](http://amigo.geneontology.org/amigo/term/GO:0001934)
+
 ### Activation of protein phosphorylation: both states are avtive
+
+Associated GO term: [GO:0001934 positive regulation of protein phosphorylation](http://amigo.geneontology.org/amigo/term/GO:0001934)
+
+
 
 <h3>Metabolic Inhibition</h3>
 <table>
