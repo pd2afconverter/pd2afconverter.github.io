@@ -6,6 +6,8 @@ permalink: /rules/
 
 # Translation rules
 
+Translation rules take into account not only a partical SBGN brick but also the surrounding connected bricks - contextual network iformation. By _active entity_ we mean an entity that participate in following steps of the pathway/network. It is a glyph that has outgoing regulatory arcs (catalysis, stimulation, inhibition) or connected to other processes via a consumption arc.  
+
 ### Protein activation by phosphorylation
 
 <table>
@@ -30,8 +32,8 @@ Associated GO term: [GO:0009893 positive regulation of metabolic process](http:/
 
 <table>
     <tr style="font-size:90%;">
-    <td style="width:220px; text-align:center; font-size:90%;"><img src="../rules/met-sti/pd.png" width="205"/><br /><a href="../rules/met-inh/pd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/rules/met-sti/pd.sbgn" target="_blank">Newt</a></td>
-    <td style="width:220px; text-align:center; font-size:90%;"><img src="../rules/met-sti/af.png" width="215"/><br /><a href="../rules/met-inh/af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/rules/met-sti/af.sbgn" target="_blank">Newt</a></td>
+    <td style="width:220px; text-align:center; font-size:90%;"><img src="../rules/met-sti/pd.png" width="205"/><br /><a href="../rules/met-sti/pd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/rules/met-sti/pd.sbgn" target="_blank">Newt</a></td>
+    <td style="width:220px; text-align:center; font-size:90%;"><img src="../rules/met-sti/af.png" width="215"/><br /><a href="../rules/met-sti/af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/rules/met-sti/af.sbgn" target="_blank">Newt</a></td>
     <td style="vertical-align: middle; padding-left: 1em;"> </td>
     </tr>
 </table>
@@ -47,6 +49,27 @@ Associated GO term: [GO:0009892 negative regulation of metabolic process](http:/
     <td style="vertical-align: middle; padding-left: 1em;">The assumption is that simple chemical C is the important "active" molecule and not simple chemical B. In case simple chemical B is the main entity (participates in other reactions or is an active signalling molecule), then in AF the <i>negative influence</i> arc would be replaced by <i>positive influence</i> arc leading to B, and the activity of C could be ignored.</td>
     </tr>
 </table>
+
+### Activation of state transition: active outcome state (most common pattern)
+
+### Activation of state transition: active incoming state
+
+### Activation of state transition: both states are active
+
+
+### Activation of protein phosphorylation: active phosphorylated state
+
+Associated GO term: [GO:0001934 positive regulation of protein phosphorylation](http://amigo.geneontology.org/amigo/term/GO:0001934)
+
+### Activation of protein phosphorylation: active unphosphorylated state
+
+Associated GO term: [GO:0001934 positive regulation of protein phosphorylation](http://amigo.geneontology.org/amigo/term/GO:0001934)
+
+### Activation of protein phosphorylation: both states are active
+
+Associated GO term: [GO:0001934 positive regulation of protein phosphorylation](http://amigo.geneontology.org/amigo/term/GO:0001934)
+
+
 
 <h3>Metabolic Inhibition</h3>
 <table>
