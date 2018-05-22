@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Translation rules
-permalink: /rules/
+permalink: /rulesdraft/
 ---
 
 # Translation rules
