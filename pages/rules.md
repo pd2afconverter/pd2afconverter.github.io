@@ -20,6 +20,14 @@ Associated GO term: [GO:0009893 positive regulation of metabolic process](http:/
     </tr>
 </table>
 
+<table>
+    <tr style="font-size:90%;">
+    <td style="width:220px; text-align:center; font-size:90%;"><img src="../bricks/catalysis/Catalysis-PD01.02-IRR-2x2.png" width="205"/><br /><a href="../rules/met-sti/pd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/rules/met-sti/pd.sbgn" target="_blank">Newt</a></td>
+    <td style="width:220px; text-align:center; font-size:90%;"><img src="../rules/met-sti/af.png" width="215"/><br /><a href="../rules/met-sti/af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/rules/met-sti/af.sbgn" target="_blank">Newt</a></td>
+    <td style="vertical-align: middle; padding-left: 1em;"> </td>
+    </tr>
+</table>
+
 ### Inhibition of irreversible metabolic reaction
 
 Associated GO term: [GO:0009892 negative regulation of metabolic process](http://amigo.geneontology.org/amigo/term/GO:0009892)
