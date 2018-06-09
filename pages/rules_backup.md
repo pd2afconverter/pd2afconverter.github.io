@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Translation rules
-permalink: /rules/
+permalink: /rules_backup/
 ---
 
-# Translation rules
+# Translation rules (backup)
 
 Translation rules take into account not only a partical SBGN brick but also the surrounding connected bricks - contextual network iformation. By _active entity_ we mean an entity that participate in following steps of the pathway/network. It is a glyph that has outgoing regulatory arcs (catalysis, stimulation, inhibition) or connected to other processes via a consumption arc.  
 
