@@ -8,7 +8,7 @@ permalink: /rules/
 
 Translation rules take into account not only a partical SBGN brick but also the surrounding connected bricks - contextual network iformation. By _active entity_ we mean an entity that participate in following steps of the pathway/network. It is a glyph that has outgoing regulatory arcs (catalysis, stimulation, inhibition) or connected to other processes via a consumption arc.  
 
-### Catalysis
+### Catalysis of irreversible metabolic reaction
 
 Associated GO term: [GO:0009893 positive regulation of metabolic process](http://amigo.geneontology.org/amigo/term/GO:0009893)
 
