@@ -14,33 +14,21 @@ Associated GO term: [GO:0009893 positive regulation of metabolic process](http:/
 
 <table>
     <tr style="font-size:90%;">
-    <td style="width:300px; text-align:center; font-size:90%;"><img src="../images/rules/R001.cat.pd.png" width="205"/><br /><a href="../rules/met-sti/pd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/rules/met-sti/pd.sbgn" target="_blank">Newt</a></td>
+    <td style="width:300px; text-align:center; font-size:90%;"><img src="../images/rules/R001.cat.pd.png" width="205"/><br /><a href="../images/rules/R002.cat.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R002.cat.pd.sbgn" target="_blank">Newt</a></td>
     <td style="width:300px; text-align:center; font-size:90%;"><img src="../images/rules/R001.cat.af.png" width="215"/><br /><a href="../images/rules/R001.cat.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R001.cat.af.sbgn" target="_blank">Newt</a></td>
     </tr>
 </table>
 
 <br />
 
-
-
-
-
-
 <table>
     <tr style="font-size:90%;">
-    <td style="width:220px; text-align:center; font-size:90%;"><img src="../rules/met-sti/pd.png" width="205"/><br /><a href="../rules/met-sti/pd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/rules/met-sti/pd.sbgn" target="_blank">Newt</a></td>
-    <td style="width:220px; text-align:center; font-size:90%;"><img src="../rules/met-sti/af.png" width="215"/><br /><a href="../rules/met-sti/af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/rules/met-sti/af.sbgn" target="_blank">Newt</a></td>
-    <td style="vertical-align: middle; padding-left: 1em;"> </td>
+    <td style="width:300px; text-align:center; font-size:90%;"><img src="../images/rules/R002.cat.pd.png" width="205"/><br /><a href="../images/rules/R002.catpd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R002.cat.pd.sbgn" target="_blank">Newt</a></td>
+    <td style="width:300px; text-align:center; font-size:90%;"><img src="../images/rules/R002.cat.af.png" width="215"/><br /><a href="../images/rules/R002.cat.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R001.cat.af.sbgn" target="_blank">Newt</a></td>
     </tr>
 </table>
 
-<table>
-    <tr style="font-size:90%;">
-    <td style="width:220px; text-align:center; font-size:90%;"><img src="../bricks/catalysis/Catalysis-PD01.02-IRR-2x2.png" width="205"/><br /><a href="../rules/met-sti/pd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/rules/met-sti/pd.sbgn" target="_blank">Newt</a></td>
-    <td style="width:220px; text-align:center; font-size:90%;"><img src="../images/rules/catalysis.2x2.af.png" width="215"/><br /><a href="../images/rules/catalysis.2x2.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/catalysis.2x2.af.sbgn" target="_blank">Newt</a></td>
-    <td style="vertical-align: middle; padding-left: 1em;"> </td>
-    </tr>
-</table>
+<br />
 
 ### Inhibition of irreversible metabolic reaction
 
