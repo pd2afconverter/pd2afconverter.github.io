@@ -24,7 +24,7 @@ Associated GO term: [GO:0009893 positive regulation of metabolic process](http:/
 <table>
     <tr style="font-size:90%;">
     <td style="width:300px; text-align:center; font-size:90%;"><img src="../images/rules/R002.cat.pd.png" width="205"/><br /><a href="../images/rules/R002.catpd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R002.cat.pd.sbgn" target="_blank">Newt</a></td>
-    <td style="width:300px; text-align:center; font-size:90%;"><img src="../images/rules/R002.cat.af.png" width="215"/><br /><a href="../images/rules/R002.cat.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R001.cat.af.sbgn" target="_blank">Newt</a></td>
+    <td style="width:300px; text-align:center; font-size:90%;"><img src="../images/rules/R002.cat.af.png" width="215"/><br /><a href="../images/rules/R002.cat.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R002.cat.af.sbgn" target="_blank">Newt</a></td>
     </tr>
 </table>
 
