@@ -109,6 +109,15 @@ An example case is the [phosphorylation of bifuntional enzyme PFKFB2 by PKA](htt
 
 IMPORTANT: This rules assumes that the resulting state is the active one. It is not a strict rule and potentially can cause wrong translation.
 
+### Oligomerisation
+
+<table>
+    <tr style="font-size:90%;">
+    <td style="width:280px; text-align:center; font-size:90%;"><img src="../images/rules/R011.Olig.pd.png" width="234"/><br /><a href="../images/rules/R011.Olig.pd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R011.Olig.pd.sbgn" target="_blank">Newt</a></td>
+    <td style="width:280px; text-align:center; font-size:90%;"><img src="../images/rules/R011.Olig.af.png" width="200"/><br /><a href="../images/rules/R011.Olig.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R011.Olig.af.sbgn" target="_blank">Newt</a></td>
+    </tr>
+</table>
+
 ### Translocation
 
 <table>
