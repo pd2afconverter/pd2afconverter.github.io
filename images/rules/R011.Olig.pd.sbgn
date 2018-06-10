@@ -19,6 +19,10 @@
             </glyph>
         </glyph>
         <arc target="p1.1" source="A1" id="consumption-151" class="consumption">
+            <glyph id="glyph1" class="cardinality">
+                <label text="2"/>
+                <bbox y="32.0" x="102.0" h="17.5" w="22.5"/>
+            </glyph>
             <start y="50.0" x="100.0"/>
             <end y="50.0" x="131.0"/>
         </arc>
