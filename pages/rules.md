@@ -106,25 +106,13 @@ Associated GO term: [GO:0001934 positive regulation of protein phosphorylation](
 ### Activation of protein phosphorylation: both states are inactive (dead end) - assumed active phosphorylated state
 
 <table>
-	<tr style="font-size:90%;">
-		<td style="text-align:center; font-size:90%;">
-			<img src="../rules/sig-sti-0-0/pd.png" width="230" />
-			<br />
-			<a href="../rules/sig-sti-0-0/pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/rules/sig-sti-0-0/pd.sbgn" target="_blank">Newt</a>
-		</td>
-		<td style="text-align:center; font-size:90%;">
-			<img src="../rules/sig-sti-0-0/af.png" width="80" />
-			<br />
-			<a href="../rules/sig-sti-0-0/af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/rules/sig-sti-0-0/af.sbgn" target="_blank">Newt</a>
-		</td>
-	</tr>
-	<tr style="line-height: 3em">
-		<td colspan="2" style="text-align:left; font-size:90%;">A stimulates modification of macromolecule B</td>
-	</tr>
-	<tr style="line-height: 3em">
-		<td colspan="2" style="text-align:left; font-size:90%;">IMPORTANT: not obvious rule and potentially wrong translation</td>
-	</tr>
+    <tr style="font-size:90%;">
+    <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R007.Ph.pd.png" width="215"/><br /><a href="../images/rules/R007.Ph.pd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R007.Ph.pd.sbgn" target="_blank">Newt</a></td>
+    <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R007.Ph.af.png" width="80"/><br /><a href="../images/rules/R007.Ph.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R007.Ph.af.sbgn" target="_blank">Newt</a></td>
+    </tr>
 </table>
+
+IMPORTANT: This rules assumes that the resulting state is the active one. It is not a strict rule and potentially can cause wrong translation.
 
 ### Translocation
 
