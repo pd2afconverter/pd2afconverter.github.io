@@ -15,7 +15,7 @@ permalink: /examples/
     </tr>
 </table>
 
-A comparatively simple case: only one activity corresponds to each protein. The incoming default state is "ignorred" and is not reflected in the Activity Flow view (on the right).
+A comparatively simple case: only one activity corresponds to each protein. The incoming default state is "ignored" and is not reflected in the Activity Flow view (on the right).
 
 ### ELK1 signalling
 
