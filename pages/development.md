@@ -6,6 +6,8 @@ permalink: /development/
 
 # Development
 
+This page intorduces the features of the current version of the converter and outlines the expected future developments and the corresponding milestones.  
+
 ## Current version: PD2AF 1.0
 
 The implemented logic takes into account on the work by Vogt and coauthors (Vogt et al., 2013, [doi: 10.1186/1752-0509-7-115](https://doi.org/10.1186/1752-0509-7-115)) and further develops the logic to minimise the number of complexes in AF version and to introduce pattern recognition functionalities.
