@@ -81,7 +81,7 @@ Associated GO term: [GO:0001934 positive regulation of protein phosphorylation](
     </tr>
 </table>
 
-In case when both states are active (connected to other processes via regulatory arcs), it is important to show both entities, otherwise the translation will introduce wrong statements. This version of converstion is done via the use of the _AND operator_.
+In case when both states are active (connected to other processes via regulatory arcs), it is important to show two activities of the same protien, otherwise the translation will introduce wrong statements. This version of converstion is done via the use of the _AND operator_.
 
 <table>
     <tr style="font-size:90%;">
@@ -90,7 +90,9 @@ In case when both states are active (connected to other processes via regulatory
     </tr>
 </table>
 
-An alternative translation that shows the inhibition of the ingoing state of the protein using the _inhibition arc_. 
+An alternative translation that shows the inhibition of the ingoing state of the protein using the _inhibition arc_.  
+
+An example case is the [phosphorylation of bifuntional enzyme PFKFB2 by PKA](http://metabolismregulation.org/glycolysis/).
 
 ### Activation of protein phosphorylation: both states are inactive (dead end) - assumed active phosphorylated state
 
