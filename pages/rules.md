@@ -19,7 +19,7 @@ Associated GO term: [GO:0009893 positive regulation of metabolic process](http:/
     </tr>
 </table>
 
-<br />
+A convertion of a reaction with one substrate and one product. In contrast to macromolecule state transition representation, all metabolites are kept in the Activity Flow veiw.
 
 <table>
     <tr style="font-size:90%;">
@@ -28,7 +28,9 @@ Associated GO term: [GO:0009893 positive regulation of metabolic process](http:/
     </tr>
 </table>
 
-<br />
+A convertion of a reaction with multiple substrates and products. There might be an option (curently not available yet) in which "currency" metabolites such as ATP, ADP, NADPH, NADP+, H2O etc. are ommited in the Activity Flow view.
+
+IMPORTNAT: Demerging outgoing arcs are not allowed in the current Process Description specification.
 
 ### Inhibition of irreversible metabolic reaction
 
