@@ -109,32 +109,9 @@ IMPORTANT: This rules assumes that the resulting state is the active one. It is 
 
 <table>
     <tr style="font-size:90%;">
-    <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R010.Trans.pd.png" width="215"/><br /><a href="../images/rules/R010.Trans.pd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R010.Trans.pd.sbgn" target="_blank">Newt</a></td>
-    <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R010.Trans.af.png" width="80"/><br /><a href="../images/rules/R010.Trans.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R010.Trans.af.sbgn" target="_blank">Newt</a></td>
+    <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R010.Trans.pd.png" width="202"/><br /><a href="../images/rules/R010.Trans.pd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R010.Trans.pd.sbgn" target="_blank">Newt</a></td>
+    <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R010.Trans.af.png" width="202"/><br /><a href="../images/rules/R010.Trans.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R010.Trans.af.sbgn" target="_blank">Newt</a></td>
     </tr>
-</table>
-
-
-
-<table>
-	<tr style="font-size:90%;">
-		<td style="text-align:center; font-size:90%;">
-			<img src="../rules/transloc-sti/pd.png" width="230" />
-			<br />
-			<a href="../rules/transloc-sti/pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/rules/transloc-sti/pd.sbgn" target="_blank">Newt</a>
-		</td>
-		<td style="text-align:center; font-size:90%;">
-			<img src="../rules/transloc-sti/af.png" width="150" />
-			<br />
-			<a href="../rules/transloc-sti/af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/rules/transloc-sti/af.sbgn" target="_blank">Newt</a>
-		</td>
-	</tr>
-	<tr style="line-height: 3em">
-		<td colspan="2" style="text-align:left; font-size:90%;">A stimulates translocation of B, from compartment C1 to compartment C2</td>
-	</tr>
-	<tr style="line-height: 3em">
-		<td colspan="2" style="text-align:left; font-size:90%;"></td>
-	</tr>
 </table>
 
 Protein A stimulates the translocation of protein B from compartment C1 to compartment C2.
