@@ -49,32 +49,12 @@ Associated GO term: [GO:0001934 positive regulation of protein phosphorylation](
 
 <table>
     <tr style="font-size:90%;">
-    <td style="width:220px; text-align:center; font-size:90%;"><img src="../bricks/proteinphosphorylation/ProteinPhosphorylation-PD01.02-Y.png" width="205"/><br /><a href="/bricks/proteinphosphorylation/ProteinPhosphorylation-PD01.02-Y.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/bricks/proteinphosphorylation/ProteinPhosphorylation-PD01.02-Y.sbgn" target="_blank">Newt</a></td>
-    <td style="width:220px; text-align:center; font-size:90%;"><img src="../bricks/proteinphosphorylation/ProteinPhosphorylation-AF01.01.png" width="80"/><br /><a href="/bricks/proteinphosphorylation/ProteinPhosphorylation-AF01.01.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/bricks/proteinphosphorylation/ProteinPhosphorylation-AF01.01.sbgn" target="_blank">Newt</a></td>
-    <td style="vertical-align: middle; padding-left: 1em;">This translation is conditional. It assumes that 1) the unphosphorylated state is not active, i.e. there are no outgoing regulatory arcs, 2) the resulting state is active towards another process, i.e. there are outgoing regulatory arcs or there could be (might not be shown on the diagram).</td>
+    <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R005.Ph.pd.png" width="215"/><br /><a href="../images/rules/R005.Ph.pd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R005.Ph.pd.sbgn" target="_blank">Newt</a></td>
+    <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R005.Ph.af.png" width="80"/><br /><a href="../images/rules/R005.Ph.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R005.Ph.af.sbgn" target="_blank">Newt</a></td>
     </tr>
 </table>
 
-<table>
-	<tr style="font-size:90%;">
-		<td style="text-align:center; font-size:90%;">
-			<img src="../rules/sig-sti-0-a/pd.png" width="230" />
-			<br />
-			<a href="../rules/sig-sti-0-a/pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/rules/sig-sti-0-a/pd.sbgn" target="_blank">Newt</a>
-		</td>
-		<td style="text-align:center; font-size:90%;">
-			<img src="../rules/sig-sti-0-a/af.png" width="80" />
-			<br />
-			<a href="../rules/sig-sti-0-a/af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/rules/sig-sti-0-a/af.sbgn" target="_blank">Newt</a>
-		</td>
-	</tr>
-	<tr style="line-height: 3em">
-		<td colspan="2" style="text-align:left; font-size:90%;">A stimulates modification of macromolecule B, where product of reaction is active</td>
-	</tr>
-	<tr style="line-height: 3em">
-		<td colspan="2" style="text-align:left; font-size:90%;"></td>
-	</tr>
-</table>
+This translation is conditional. It assumes that 1) the unphosphorylated state is not active, i.e. there are no outgoing regulatory arcs, 2) the resulting state is active towards another process, i.e. there are outgoing regulatory arcs or there could be (might not be shown on the diagram).
 
 
 ### Activation of protein phosphorylation: active unphosphorylated state
@@ -83,7 +63,7 @@ Associated GO term: [GO:0001934 positive regulation of protein phosphorylation](
 
 <table>
     <tr style="font-size:90%;">
-    <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R006.Inh.pd.png" width="215"/><br /><a href="../images/rules/R006.Inh.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R006.Inh.pd.sbgn" target="_blank">Newt</a></td>
+    <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R006.Inh.pd.png" width="215"/><br /><a href="../images/rules/R006.Inh.pd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R006.Inh.pd.sbgn" target="_blank">Newt</a></td>
     <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R006.Inh.af.png" width="80"/><br /><a href="../images/rules/R006.Inh.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R006.Inh.af.sbgn" target="_blank">Newt</a></td>
     </tr>
 </table>
