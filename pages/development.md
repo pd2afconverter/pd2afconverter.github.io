@@ -23,7 +23,7 @@ The development is planned in a stepwise manner and assumes the following milest
 
 The first milestone version is designed to provide an accessible open-source code and an online service. Milestone 1 has minimal translation functionalities enhanced by the identification of active entities. This identification allows improving the conversation while taking into account the context - the connected events. In particular, cases of "hidden" inhibition can be identified and converted to the Activity Flow view.  
 
-After completing this step, a collection of PD-AF pairs of bricks can be initiated. In the future this collection of pairs will ensure stable conversion between Process Description and Activity Flow languages in both directions.   
+After completing this step, a collection of PD-AF pairs of bricks can be initiated. In the future this collection of pairs will ensure stable conversion between the Process Description and Activity Flow languages in both directions.   
 
 #### PD2AF Milestone #2 Intermediate - "Adviser" version - Semi-automatic
 
