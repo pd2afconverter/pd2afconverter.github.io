@@ -76,32 +76,21 @@ Associated GO term: [GO:0001934 positive regulation of protein phosphorylation](
 
 <table>
     <tr style="font-size:90%;">
-    <td style="width:220px; text-align:center; font-size:90%;"><img src="../bricks/proteinphosphorylation/ProteinPhosphorylation-PD01.02-Y.png" width="205"/><br /><a href="/bricks/proteinphosphorylation/ProteinPhosphorylation-PD01.02-Y.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/bricks/proteinphosphorylation/ProteinPhosphorylation-PD01.02-Y.sbgn" target="_blank">Newt</a></td>
-    <td style="width:220px; text-align:center; font-size:90%;"><img src="../pd2af/ProteinPhosphorylation-PD01.02-PD2AF02.png" width="215"/><br /><a href="/pd2af/ProteinPhosphorylation-PD01.02-PD2AF02.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/pd2af/ProteinPhosphorylation-PD01.02-PD2AF02.sbgn" target="_blank">Newt</a></td>
-    <td style="vertical-align: middle; padding-left: 1em;">Translation of the case when it is necessary to show two activities of the same protein, i.e. there are outgoing regulatory arcs from both states in PD. An example case is the  <a href="http://metabolismregulation.org/glycolysis/" target="_blank">phosphorylation of bifuntional enzyme PFK by PKA</a>.</td>
+    <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R008.Ph.pd.png" width="215"/><br /><a href="../images/rules/R008.Ph.pd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R008.Ph.pd.sbgn" target="_blank">Newt</a></td>
+    <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R008.Ph.af.png" width="80"/><br /><a href="../images/rules/R008.Ph.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R008.Ph.af.sbgn" target="_blank">Newt</a></td>
     </tr>
 </table>
 
+In case when both states are active (connected to other processes via regulatory arcs), it is important to show both entities, otherwise the translation will introduce wrong statements. This version of converstion is done via the use of the _AND operator_.
+
 <table>
-	<tr style="font-size:90%;">
-		<td style="text-align:center; font-size:90%;">
-			<img src="../rules/sig-sti-a-a/pd.png" width="230" />
-			<br />
-			<a href="../rules/sig-sti-a-a/pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/rules/sig-sti-a-a/pd.sbgn" target="_blank">Newt</a>
-		</td>
-		<td style="text-align:center; font-size:90%;">
-			<img src="../rules/sig-sti-a-a/af.png" width="230" />
-			<br />
-			<a href="../rules/sig-sti-a-a/af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/rules/sig-sti-a-a/af.sbgn" target="_blank">Newt</a>
-		</td>
-	</tr>
-	<tr style="line-height: 3em">
-		<td colspan="2" style="text-align:left; font-size:90%;">A stimulates modification of macromolecule B, where both reactant are active</td>
-	</tr>
-	<tr style="line-height: 3em">
-		<td colspan="2" style="text-align:left; font-size:90%;"></td>
-	</tr>
+    <tr style="font-size:90%;">
+    <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R009.Ph.pd.png" width="215"/><br /><a href="../images/rules/R009.Ph.pd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R009.Ph.pd.sbgn" target="_blank">Newt</a></td>
+    <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R009.Ph.af.png" width="80"/><br /><a href="../images/rules/R009.Ph.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R009.Ph.af.sbgn" target="_blank">Newt</a></td>
+    </tr>
 </table>
+
+An alternative translation that shows the inhibition of the ingoing state of the protein using the _inhibition arc_. 
 
 ### Activation of protein phosphorylation: both states are inactive (dead end) - assumed active phosphorylated state
 
