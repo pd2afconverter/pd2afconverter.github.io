@@ -23,3 +23,5 @@ permalink: /examples/
     <td style="width:300px; text-align:center; font-size:90%;"><img src="../images/examples/E002.af.png" width="203"/><br /><a href="../images/examples/E002.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/examples/E002.af.sbgn" target="_blank">Newt</a></td>
     </tr>
 </table>
+
+Please note how the relationships between UBC9 and ELK1 are shown in Process Description (on the left) and Activity Flow (on the right).
