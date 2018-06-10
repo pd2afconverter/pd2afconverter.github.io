@@ -32,7 +32,7 @@ A convertion of a reaction with one substrate and one product. In contrast to ma
 
 A convertion of a reaction with multiple substrates and products. There might be an option (curently not available yet) in which "currency" metabolites such as ATP, ADP, NADPH, NADP+, H2O etc. are ommited in the Activity Flow view.
 
-IMPORTNAT: Demerging outgoing arcs are not allowed in the current Process Description specification.
+IMPORTNAT: Demerging outgoing arcs are not allowed according the current version of SBGN Process Description specification. The demerging arcs are proposed, and there is the corresponding discussion within the SBGN community.
 
 ### Inhibition of irreversible metabolic reaction
 
