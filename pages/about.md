@@ -16,7 +16,7 @@ The code is written in Lisp.
 
 Online conversion (experimantal version): [http://pd2af.me/](http://pd2af.me/)  
 Online conversion (stable version): [http://pd2af.org/](http://pd2af.org/)  
-Github: [https://github.com/prozion/pd2af](https://github.com/prozion/pd2af)  
+Github: [https://github.com/eisbm/pd2af](https://github.com/eisbm/pd2af)  
 
 ## Contact
 
