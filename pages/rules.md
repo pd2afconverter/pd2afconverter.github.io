@@ -6,7 +6,7 @@ permalink: /rules/
 
 # Translation rules
 
-Translation rules take into account not only a partical SBGN brick but also the surrounding connected bricks - contextual network iformation. By _active entity_ we mean an entity that participate in following steps of the pathway/network. It is a glyph that has outgoing regulatory arcs (catalysis, stimulation, inhibition) or connected to other processes via a consumption arc.  
+Translation rules take into account not only a partical SBGN brick but also the surrounding connected bricks - contextual network iformation. By **active entity** we mean an entity that participate in following steps of the pathway/network. It is a glyph that has outgoing regulatory arcs (catalysis, stimulation, inhibition) or connected to other processes via a consumption arc.  
 
 ### Catalysis of irreversible metabolic reaction
 
@@ -86,7 +86,7 @@ In case when both states are active (connected to other processes via regulatory
 <table>
     <tr style="font-size:90%;">
     <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R009.Ph.pd.png" width="215"/><br /><a href="../images/rules/R009.Ph.pd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R009.Ph.pd.sbgn" target="_blank">Newt</a></td>
-    <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R009.Ph.af.png" width="80"/><br /><a href="../images/rules/R009.Ph.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R009.Ph.af.sbgn" target="_blank">Newt</a></td>
+    <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R009.Ph.af.png" width="225"/><br /><a href="../images/rules/R009.Ph.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R009.Ph.af.sbgn" target="_blank">Newt</a></td>
     </tr>
 </table>
 
@@ -99,7 +99,7 @@ An example case is the [phosphorylation of bifuntional enzyme PFKFB2 by PKA](htt
 <table>
     <tr style="font-size:90%;">
     <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R007.Ph.pd.png" width="215"/><br /><a href="../images/rules/R007.Ph.pd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R007.Ph.pd.sbgn" target="_blank">Newt</a></td>
-    <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R007.Ph.af.png" width="80"/><br /><a href="../images/rules/R007.Ph.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R007.Ph.af.sbgn" target="_blank">Newt</a></td>
+    <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R007.Ph.af.png" width="225"/><br /><a href="../images/rules/R007.Ph.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R007.Ph.af.sbgn" target="_blank">Newt</a></td>
     </tr>
 </table>
 
