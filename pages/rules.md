@@ -16,8 +16,8 @@ Associated GO term: [GO:0009893 positive regulation of metabolic process](http:/
 
 <table>
     <tr style="font-size:90%;">
-    <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R001.cat.pd.png" width="225"/><br /><a href="../images/rules/R002.cat.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R002.cat.pd.sbgn" target="_blank">Newt</a></td>
-    <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R001.cat.af.png" width="225"/><br /><a href="../images/rules/R001.cat.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R001.cat.af.sbgn" target="_blank">Newt</a></td>
+    <td style="width:280px; text-align:center; font-size:90%;"><img src="../images/rules/R001.cat.pd.png" width="225"/><br /><a href="../images/rules/R002.cat.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R002.cat.pd.sbgn" target="_blank">Newt</a></td>
+    <td style="width:280px; text-align:center; font-size:90%;"><img src="../images/rules/R001.cat.af.png" width="225"/><br /><a href="../images/rules/R001.cat.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R001.cat.af.sbgn" target="_blank">Newt</a></td>
     </tr>
 </table>
 
@@ -25,8 +25,8 @@ A convertion of a reaction with one substrate and one product. In contrast to ma
 
 <table>
     <tr style="font-size:90%;">
-    <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R002.cat.pd.png" width="225"/><br /><a href="../images/rules/R002.catpd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R002.cat.pd.sbgn" target="_blank">Newt</a></td>
-    <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R002.cat.af.png" width="225"/><br /><a href="../images/rules/R002.cat.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R002.cat.af.sbgn" target="_blank">Newt</a></td>
+    <td style="width:280px; text-align:center; font-size:90%;"><img src="../images/rules/R002.cat.pd.png" width="225"/><br /><a href="../images/rules/R002.catpd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R002.cat.pd.sbgn" target="_blank">Newt</a></td>
+    <td style="width:280px; text-align:center; font-size:90%;"><img src="../images/rules/R002.cat.af.png" width="225"/><br /><a href="../images/rules/R002.cat.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R002.cat.af.sbgn" target="_blank">Newt</a></td>
     </tr>
 </table>
 
@@ -40,8 +40,8 @@ Associated GO term: [GO:0009892 negative regulation of metabolic process](http:/
 
 <table>
     <tr style="font-size:90%;">
-    <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R003.Inh.pd.png" width="225"/><br /><a href="../images/rules/R003.Inh.pd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/rules/R003.Inh.pd.sbgn" target="_blank">Newt</a></td>
-    <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R003.Inh.af.png" width="80"/><br /><a href="../images/rules/R003.Inh.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/rules/R003.Inh.af.sbgn" target="_blank">Newt</a></td>
+    <td style="width:280px; text-align:center; font-size:90%;"><img src="../images/rules/R003.Inh.pd.png" width="225"/><br /><a href="../images/rules/R003.Inh.pd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/rules/R003.Inh.pd.sbgn" target="_blank">Newt</a></td>
+    <td style="width:280px; text-align:center; font-size:90%;"><img src="../images/rules/R003.Inh.af.png" width="80"/><br /><a href="../images/rules/R003.Inh.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/rules/R003.Inh.af.sbgn" target="_blank">Newt</a></td>
     </tr>
 </table>
 
@@ -53,8 +53,8 @@ Associated GO term: [GO:0001934 positive regulation of protein phosphorylation](
 
 <table>
     <tr style="font-size:90%;">
-    <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R005.Ph.pd.png" width="215"/><br /><a href="../images/rules/R005.Ph.pd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R005.Ph.pd.sbgn" target="_blank">Newt</a></td>
-    <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R005.Ph.af.png" width="80"/><br /><a href="../images/rules/R005.Ph.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R005.Ph.af.sbgn" target="_blank">Newt</a></td>
+    <td style="width:280px; text-align:center; font-size:90%;"><img src="../images/rules/R005.Ph.pd.png" width="215"/><br /><a href="../images/rules/R005.Ph.pd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R005.Ph.pd.sbgn" target="_blank">Newt</a></td>
+    <td style="width:280px; text-align:center; font-size:90%;"><img src="../images/rules/R005.Ph.af.png" width="80"/><br /><a href="../images/rules/R005.Ph.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R005.Ph.af.sbgn" target="_blank">Newt</a></td>
     </tr>
 </table>
 
@@ -67,8 +67,8 @@ Associated GO term: [GO:0001934 positive regulation of protein phosphorylation](
 
 <table>
     <tr style="font-size:90%;">
-    <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R006.Inh.pd.png" width="215"/><br /><a href="../images/rules/R006.Inh.pd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R006.Inh.pd.sbgn" target="_blank">Newt</a></td>
-    <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R006.Inh.af.png" width="80"/><br /><a href="../images/rules/R006.Inh.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R006.Inh.af.sbgn" target="_blank">Newt</a></td>
+    <td style="width:280px; text-align:center; font-size:90%;"><img src="../images/rules/R006.Inh.pd.png" width="215"/><br /><a href="../images/rules/R006.Inh.pd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R006.Inh.pd.sbgn" target="_blank">Newt</a></td>
+    <td style="width:280px; text-align:center; font-size:90%;"><img src="../images/rules/R006.Inh.af.png" width="80"/><br /><a href="../images/rules/R006.Inh.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R006.Inh.af.sbgn" target="_blank">Newt</a></td>
     </tr>
 </table>
 
@@ -80,8 +80,8 @@ Associated GO term: [GO:0001934 positive regulation of protein phosphorylation](
 
 <table>
     <tr style="font-size:90%;">
-    <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R008.Ph.pd.png" width="215"/><br /><a href="../images/rules/R008.Ph.pd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R008.Ph.pd.sbgn" target="_blank">Newt</a></td>
-    <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R008.Ph.af.png" width="218"/><br /><a href="../images/rules/R008.Ph.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R008.Ph.af.sbgn" target="_blank">Newt</a></td>
+    <td style="width:280px; text-align:center; font-size:90%;"><img src="../images/rules/R008.Ph.pd.png" width="215"/><br /><a href="../images/rules/R008.Ph.pd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R008.Ph.pd.sbgn" target="_blank">Newt</a></td>
+    <td style="width:280px; text-align:center; font-size:90%;"><img src="../images/rules/R008.Ph.af.png" width="218"/><br /><a href="../images/rules/R008.Ph.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R008.Ph.af.sbgn" target="_blank">Newt</a></td>
     </tr>
 </table>
 
@@ -89,8 +89,8 @@ In case when both states are active (connected to other processes via regulatory
 
 <table>
     <tr style="font-size:90%;">
-    <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R009.Ph.pd.png" width="215"/><br /><a href="../images/rules/R009.Ph.pd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R009.Ph.pd.sbgn" target="_blank">Newt</a></td>
-    <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R009.Ph.af.png" width="218"/><br /><a href="../images/rules/R009.Ph.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R009.Ph.af.sbgn" target="_blank">Newt</a></td>
+    <td style="width:280px; text-align:center; font-size:90%;"><img src="../images/rules/R009.Ph.pd.png" width="215"/><br /><a href="../images/rules/R009.Ph.pd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R009.Ph.pd.sbgn" target="_blank">Newt</a></td>
+    <td style="width:280px; text-align:center; font-size:90%;"><img src="../images/rules/R009.Ph.af.png" width="218"/><br /><a href="../images/rules/R009.Ph.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R009.Ph.af.sbgn" target="_blank">Newt</a></td>
     </tr>
 </table>
 
@@ -102,8 +102,8 @@ An example case is the [phosphorylation of bifuntional enzyme PFKFB2 by PKA](htt
 
 <table>
     <tr style="font-size:90%;">
-    <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R007.Ph.pd.png" width="215"/><br /><a href="../images/rules/R007.Ph.pd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R007.Ph.pd.sbgn" target="_blank">Newt</a></td>
-    <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R007.Ph.af.png" width="80"/><br /><a href="../images/rules/R007.Ph.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R007.Ph.af.sbgn" target="_blank">Newt</a></td>
+    <td style="width:280px; text-align:center; font-size:90%;"><img src="../images/rules/R007.Ph.pd.png" width="215"/><br /><a href="../images/rules/R007.Ph.pd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R007.Ph.pd.sbgn" target="_blank">Newt</a></td>
+    <td style="width:280px; text-align:center; font-size:90%;"><img src="../images/rules/R007.Ph.af.png" width="80"/><br /><a href="../images/rules/R007.Ph.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R007.Ph.af.sbgn" target="_blank">Newt</a></td>
     </tr>
 </table>
 
@@ -113,8 +113,8 @@ IMPORTANT: This rules assumes that the resulting state is the active one. It is 
 
 <table>
     <tr style="font-size:90%;">
-    <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R010.Trans.pd.png" width="202"/><br /><a href="../images/rules/R010.Trans.pd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R010.Trans.pd.sbgn" target="_blank">Newt</a></td>
-    <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R010.Trans.af.png" width="202"/><br /><a href="../images/rules/R010.Trans.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R010.Trans.af.sbgn" target="_blank">Newt</a></td>
+    <td style="width:280px; text-align:center; font-size:90%;"><img src="../images/rules/R010.Trans.pd.png" width="202"/><br /><a href="../images/rules/R010.Trans.pd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R010.Trans.pd.sbgn" target="_blank">Newt</a></td>
+    <td style="width:280px; text-align:center; font-size:90%;"><img src="../images/rules/R010.Trans.af.png" width="202"/><br /><a href="../images/rules/R010.Trans.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R010.Trans.af.sbgn" target="_blank">Newt</a></td>
     </tr>
 </table>
 
