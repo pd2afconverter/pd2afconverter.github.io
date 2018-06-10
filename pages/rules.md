@@ -107,7 +107,15 @@ IMPORTANT: This rules assumes that the resulting state is the active one. It is 
 
 ### Translocation
 
-<h3>Simple Translocation</h3>
+<table>
+    <tr style="font-size:90%;">
+    <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R010.Trans.pd.png" width="215"/><br /><a href="../images/rules/R010.Trans.pd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R010.Trans.pd.sbgn" target="_blank">Newt</a></td>
+    <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R010.Trans.af.png" width="80"/><br /><a href="../images/rules/R010.Trans.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R010.Trans.af.sbgn" target="_blank">Newt</a></td>
+    </tr>
+</table>
+
+
+
 <table>
 	<tr style="font-size:90%;">
 		<td style="text-align:center; font-size:90%;">
@@ -128,3 +136,5 @@ IMPORTANT: This rules assumes that the resulting state is the active one. It is 
 		<td colspan="2" style="text-align:left; font-size:90%;"></td>
 	</tr>
 </table>
+
+Protein A stimulates the translocation of protein B from compartment C1 to compartment C2.
