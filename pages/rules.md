@@ -126,7 +126,7 @@ Both monomer and the corresponding oligomer (for example, homodimer) are kept in
 
 ### Translocation
 
-Associated GO terms: [GO:0006810 transport](http://amigo.geneontology.org/amigo/term/GO:0006810), [GO:0051050 positive regulation of transport](http://amigo.geneontology.org/amigo/term/GO:0051050)
+Associated GO terms: [GO:0006810 transport](http://amigo.geneontology.org/amigo/term/GO:0006810); [GO:0051050 positive regulation of transport](http://amigo.geneontology.org/amigo/term/GO:0051050)
 
 <table>
     <tr style="font-size:90%;">
