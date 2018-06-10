@@ -24,4 +24,4 @@ permalink: /examples/
     </tr>
 </table>
 
-Please note how the relationships between UBC9 and ELK1 are shown in Process Description (on the left) and Activity Flow (on the right).
+Please note how the relationships between UBC9 and ELK1 are shown in Process Description (on the left) and Activity Flow (on the right). This conversion rule corresponds to the enhanced pattern-recognition funtionality of the PD2AF converter.
