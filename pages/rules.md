@@ -100,6 +100,8 @@ An example case is the [phosphorylation of bifuntional enzyme PFKFB2 by PKA](htt
 
 ### Activation of protein phosphorylation: both states are inactive (dead end) - assumed active phosphorylated state
 
+Associated GO term: [GO:0001934 positive regulation of protein phosphorylation](http://amigo.geneontology.org/amigo/term/GO:0001934)
+
 <table>
     <tr style="font-size:90%;">
     <td style="width:280px; text-align:center; font-size:90%;"><img src="../images/rules/R007.Ph.pd.png" width="215"/><br /><a href="../images/rules/R007.Ph.pd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R007.Ph.pd.sbgn" target="_blank">Newt</a></td>
@@ -111,6 +113,8 @@ IMPORTANT: This rules assumes that the resulting state is the active one. It is 
 
 ### Oligomerisation
 
+Associated GO term: [GO:0051259 protein complex oligomerization](http://amigo.geneontology.org/amigo/term/GO:0051259)
+
 <table>
     <tr style="font-size:90%;">
     <td style="width:280px; text-align:center; font-size:90%;"><img src="../images/rules/R011.Olig.pd.png" width="234"/><br /><a href="../images/rules/R011.Olig.pd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R011.Olig.pd.sbgn" target="_blank">Newt</a></td>
@@ -121,6 +125,8 @@ IMPORTANT: This rules assumes that the resulting state is the active one. It is 
 Both monomer and the corresponding oligomer (for example, homodimer) are kept in the conversion.
 
 ### Translocation
+
+Associated GO terms: [GO:0006810 transport](http://amigo.geneontology.org/amigo/term/GO:0006810), [GO:0051050 positive regulation of transport](http://amigo.geneontology.org/amigo/term/GO:0051050)
 
 <table>
     <tr style="font-size:90%;">
