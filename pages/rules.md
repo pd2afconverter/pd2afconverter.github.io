@@ -6,7 +6,7 @@ permalink: /rules/
 
 # Translation rules
 
-Translation rules take into account not only a partical SBGN brick but also the surrounding connected bricks - contextual network iformation. By **active entity** we mean an entity that participate in following steps of the pathway/network. It is a glyph that has outgoing regulatory arcs (catalysis, stimulation, inhibition) or connected to other processes via a consumption arc.  
+Translation rules take into account not only a partial SBGN brick but also the surrounding connected bricks - contextual network information. By **active entity** we mean an entity that participate in following steps of the pathway/network. It is a glyph that has outgoing regulatory arcs (catalysis, stimulation, inhibition) or connected to other processes via a consumption arc.  
 
 ### Catalysis of irreversible metabolic reaction
 
@@ -81,7 +81,7 @@ Associated GO term: [GO:0001934 positive regulation of protein phosphorylation](
     </tr>
 </table>
 
-In case when both states are active (connected to other processes via regulatory arcs), it is important to show two activities of the same protien, otherwise the translation will introduce wrong statements. This version of converstion is done via the use of the _AND operator_.
+In case when both states are active (connected to other processes via regulatory arcs), it is important to show two activities of the same protein, otherwise the translation will introduce wrong statements. This version of conversion is done via the use of the _AND operator_.
 
 <table>
     <tr style="font-size:90%;">
