@@ -81,33 +81,13 @@ Associated GO term: [GO:0001934 positive regulation of protein phosphorylation](
 Associated GO term: [GO:0001934 positive regulation of protein phosphorylation](http://amigo.geneontology.org/amigo/term/GO:0001934)
 
 <table>
-	<tr style="font-size:90%;">
-		<td style="text-align:center; font-size:90%;">
-			<img src="../rules/sig-sti-a-0/pd.png" width="230" />
-			<br />
-			<a href="../rules/sig-sti-a-0/pd.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/rules/sig-sti-a-0/pd.sbgn" target="_blank">Newt</a>
-		</td>
-		<td style="text-align:center; font-size:90%;">
-			<img src="../rules/sig-sti-a-0/af.png" width="80" />
-			<br />
-			<a href="../rules/sig-sti-a-0/af.sbgn">SBGN-ML</a>&ensp;			<a href="http://web.newteditor.org/?URL=https://pd2af.github.io/rules/sig-sti-a-0/af.sbgn" target="_blank">Newt</a>
-		</td>
-	</tr>
-	<tr style="line-height: 3em">
-		<td colspan="2" style="text-align:left; font-size:90%;">A stimulates modification of macromolecule B, where substrate of reaction is active</td>
-	</tr>
-	<tr style="line-height: 3em">
-		<td colspan="2" style="text-align:left; font-size:90%;"></td>
-	</tr>
-</table>
-
-<table>
     <tr style="font-size:90%;">
     <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R006.Inh.pd.png" width="205"/><br /><a href="../images/rules/R006.Inh.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R006.Inh.pd.sbgn" target="_blank">Newt</a></td>
     <td style="width:260px; text-align:center; font-size:90%;"><img src="../images/rules/R006.Inh.af.png" width="80"/><br /><a href="../images/rules/R006.Inh.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R006.Inh.af.sbgn" target="_blank">Newt</a></td>
     </tr>
 </table>
 
+This is a case of a "hidden" inhibition: from the Process Description version it is not obvious that this is an inhibition because the mechanism is shown in details and the inhibition arc is not used. Protein A stimulates a process of protein B deactivation (the state of the left is shown as active), and therefore in Activity Flow it is represented by the protein A activity inhibiting the protein B activity.  
 
 ### Activation of protein phosphorylation: both states are active
 
