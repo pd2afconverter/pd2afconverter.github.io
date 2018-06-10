@@ -118,6 +118,8 @@ IMPORTANT: This rules assumes that the resulting state is the active one. It is 
     </tr>
 </table>
 
+Both monomer and the corresponding oligomer (for example, homodimer) are kept in the conversion.
+
 ### Translocation
 
 <table>
