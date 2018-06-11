@@ -96,7 +96,7 @@ In case when both states are active (connected to other processes via regulatory
 
 An alternative translation that shows the inhibition of the ingoing state of the protein using the _inhibition arc_.  
 
-An example case is the [phosphorylation of bifuntional enzyme PFKFB2 by PKA](http://metabolismregulation.org/glycolysis/).
+An example case is the [phosphorylation of bifuntional enzyme PFKFB2 by PKA](../examples/).
 
 ### Activation of protein phosphorylation: both states are inactive (dead end) - assumed active phosphorylated state
 
