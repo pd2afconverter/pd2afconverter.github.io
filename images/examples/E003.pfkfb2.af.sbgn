@@ -39,7 +39,7 @@
             </glyph>
         </glyph>
         <glyph id="glyph1" class="biological activity">
-            <label text="Fru-2,6-BP"/>
+            <label text="Fru-2,6-P2"/>
             <bbox y="345.0" x="100.0" h="40.0" w="80.0"/>
             <glyph id="glyph1a" class="unit of information">
                 <entity name="unspecified entity"/>
