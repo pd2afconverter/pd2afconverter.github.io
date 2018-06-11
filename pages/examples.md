@@ -32,8 +32,8 @@ Please note how the relationships between UBC9 and ELK1 are shown in Process Des
 
 <table>
     <tr style="font-size:90%;">
-    <td style="width:400px; text-align:center; font-size:90%;"><img src="../images/examples/E003.pfkfb2.pd.png" width="388"/><br /><a href="../images/examples/E003.pfkfb2.pd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/examples/E003.pfkfb2.pd.sbgn" target="_blank">Newt</a></td>
-    <td style="width:400px; text-align:center; font-size:90%;"><img src="../images/examples/E003.pfkfb2.af.png" width="388"/><br /><a href="../images/examples/E003.pfkfb2.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/examples/E003.pfkfb2.af.sbgn" target="_blank">Newt</a></td>
+    <td style="width:500px; text-align:center; font-size:90%;"><img src="../images/examples/E003.pfkfb2.pd.png" width="211"/><br /><a href="../images/examples/E003.pfkfb2.pd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/examples/E003.pfkfb2.pd.sbgn" target="_blank">Newt</a></td>
+    <td style="width:300px; text-align:center; font-size:90%;"><img src="../images/examples/E003.pfkfb2.af.png" width="207"/><br /><a href="../images/examples/E003.pfkfb2.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/examples/E003.pfkfb2.af.sbgn" target="_blank">Newt</a></td>
     </tr>
 </table>
 
