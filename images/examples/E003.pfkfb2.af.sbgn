@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<sbgn xmlns="http://sbgn.org/libsbgn/0.2">
+    <map language="process description">
+        <glyph id="B" class="simple chemical">
+            <label text="Fru-6-P"/>
+            <bbox y="95.0" x="15.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="glyph1" class="and">
+            <bbox y="67.0" x="142.0" h="36.0" w="36.0"/>
+            <port y="85.0" x="124.0" id="glyph1.1"/>
+        </glyph>
+        <glyph id="C" class="simple chemical">
+            <label text="Fru-2,6-P2"/>
+            <bbox y="95.0" x="215.0" h="40.0" w="80.0"/>
+        </glyph>
+        <glyph id="glyph2" class="and">
+            <bbox y="127.0" x="137.0" h="36.0" w="36.0"/>
+            <port y="145.0" x="191.0" id="glyph2.2"/>
+        </glyph>
+        <arc target="glyph1.1" source="B" id="arc1" class="logic arc">
+            <start y="107.025475" x="91.6828"/>
+            <end y="85.0" x="124.0"/>
+        </arc>
+        <arc target="glyph2.2" source="C" id="arc2" class="logic arc">
+            <start y="123.48868" x="218.78165"/>
+            <end y="145.0" x="191.0"/>
+        </arc>
+    </map>
+</sbgn>
