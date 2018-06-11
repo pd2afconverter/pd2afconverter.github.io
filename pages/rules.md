@@ -25,7 +25,7 @@ A convertion of a reaction with one substrate and one product. In contrast to ma
 
 <table>
     <tr style="font-size:90%;">
-    <td style="width:280px; text-align:center; font-size:90%;"><img src="../images/rules/R002.cat.pd.png" width="225"/><br /><a href="../images/rules/R002.catpd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R002.cat.pd.sbgn" target="_blank">Newt</a></td>
+    <td style="width:280px; text-align:center; font-size:90%;"><img src="../images/rules/R002.cat.pd.png" width="225"/><br /><a href="../images/rules/R002.cat.pd.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R002.cat.pd.sbgn" target="_blank">Newt</a></td>
     <td style="width:280px; text-align:center; font-size:90%;"><img src="../images/rules/R002.cat.af.png" width="225"/><br /><a href="../images/rules/R002.cat.af.sbgn">SBGN-ML</a> &ensp; <a href="http://web.newteditor.org/?URL=http://pd2af.github.io/images/rules/R002.cat.af.sbgn" target="_blank">Newt</a></td>
     </tr>
 </table>
