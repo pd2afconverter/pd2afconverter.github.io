@@ -14,11 +14,10 @@ The code is written in Lisp.
 
 ## Availability
 
-Online conversion (experimental version): [http://pd2af.me/](http://pd2af.me/)  
-Online conversion (stable version): [http://web.pd2af.org/](http://web.pd2af.org/)  
-Github: [https://github.com/prozion/pd2af](https://github.com/prozion/pd2af)  
-Github: [https://github.com/pd2af/converter](https://github.com/pd2af/converter)
-Github: [https://github.com/pd2af/pd2af](https://github.com/pd2af/pd2af)
+Online conversion (experimental version): [http://pd2af.me](http://pd2af.me/)  
+Online conversion (stable version): [http://web.pd2af.org](http://web.pd2af.org/)  
+GitHub (original repository): [https://github.com/prozion/pd2af](https://github.com/prozion/pd2af/)  
+GitHub: [https://github.com/pd2af](https://github.com/pd2af/)
 
 ## Contact
 
