@@ -8,7 +8,7 @@ permalink: /rules/
 
 Translation rules take into account not only a partial SBGN brick but also the surrounding connected bricks - contextual network information. By **active entity** we mean an entity that participate in following steps of the pathway/network. It is a glyph that has outgoing regulatory arcs (catalysis, stimulation, inhibition) or connected to other processes via a consumption arc.  
 
-For each pair of images, the Process Description view is shown on the left side and the Activity Flow view is shown on the right side.
+For each pair of diagrams, the Process Description view is shown on the left side and the Activity Flow view is shown on the right side.
 
 ### Catalysis of irreversible metabolic reaction
 
