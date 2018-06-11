@@ -18,7 +18,6 @@ Online conversion (experimental version): [http://pd2af.me](http://pd2af.me/)
 Online conversion (stable version): [http://web.pd2af.org](http://web.pd2af.org/)  
 Converter (original repository): [https://github.com/prozion/pd2af](https://github.com/prozion/pd2af/)  
 Converter (official repository): [https://github.com/pd2af/converter](https://github.com/pd2af/converter/)  
-Project GitHub: [https://github.com/pd2af](https://github.com/pd2af/)  
 
 ## Contact
 
