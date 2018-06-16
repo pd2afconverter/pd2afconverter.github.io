@@ -6,8 +6,8 @@ permalink: /rules/
 
 # Translation rules
 
-Translation rules take into account not only a partial SBGN brick but also the surrounding connected bricks - contextual network information. By **active entity** we mean an entity that participate in following steps of the pathway/network. It is a glyph that has outgoing regulatory arcs (catalysis, stimulation, inhibition) or connected to other processes via a consumption arc.  
-
+Translation rules are based on the concept of SBGN Bricks (Junker et al., 2012, [PMID: 22979995](https://www.ncbi.nlm.nih.gov/pubmed/22979995)). The enhanced technology takes into account not only a particular SBGN brick in each case but also the surrounding connected bricks - contextual network information. To explain how it works we introduce a concept of _active entity_ vs. _inactive entity_. By _active entity_ we mean an entity that participates in following steps of the pathway/network. It is a glyph that has outgoing regulatory arcs (catalysis, stimulation, inhibition) or connected to other processes via a consumption arc. The translation rules depend on the active/inactive status of the entities involved in a process. This approach ensures that knowledge captured in the Process Description representation are adequately reflected in the Activity Flow.  
+  
 For each pair of diagrams, the Process Description view is shown on the left side and the Activity Flow view is shown on the right side.
 
 ### Catalysis of irreversible metabolic reaction
