@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Rules Auto
-permalink: /rules_auto/
+permalink: /specification/
 ---
 
-# Translation rules
+# Specification
 
