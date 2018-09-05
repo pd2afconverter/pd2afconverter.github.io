@@ -46,18 +46,18 @@ Alexander Mazein, Project Coordinator [amazein@eisbm.org](mailto:amazein@eisbm.o
 
 <table>
 <tr>
+<td style="width: 200px;"><br /><p style="margin:4px;"><img src="/images/team/AdrienRougny.jpg" width="160"/></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/JohannPellet.jpg" width="160"/></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/CharlesAuffray.jpg" width="160"/></p></td>
-<td style="width: 200px;"><br /> </td>
 <td style="width: 200px;"><br /> </td>
 </tr>
 </table>
 
 <table>
 <tr>
+<td style="width: 200px;"><p style="margin:4px;"><strong>Adrien Rougny</strong></p><p style="margin:4px; line-height:100%;"><font size="2">National Institute of Advanced Industrial Science and Technology, Tokyo, Japan</font></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Johann Pellet</strong></p><p style="margin:4px; line-height:100%;"><font size="2">European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Charles Auffray</strong></p><p style="margin:4px; line-height:100%;"><font size="2">European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
-<td style="width: 200px;"> </td>
 <td style="width: 200px;"> </td>
 </tr>
 </table>
