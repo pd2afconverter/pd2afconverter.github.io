@@ -30,7 +30,7 @@ Alexander Mazein, Project Coordinator [amazein@eisbm.org](mailto:amazein@eisbm.o
 <tr>
 <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/DenisShirshov.jpg" width="160"/></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/AlexanderMazein.jpg" width="160"/></p></td>
-<td style="width: 200px;"><br /><p style="margin:4px;"><img src="/images/team/AdrienRougny.jpg" width="160"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/AdrienRougny.jpg" width="160"/></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/AnatolySorokin.jpg" width="160"/></p></td>
 </tr>
 </table>
