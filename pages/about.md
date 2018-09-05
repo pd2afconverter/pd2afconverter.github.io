@@ -20,9 +20,7 @@ Converter engine: [https://github.com/pd2af/converter](https://github.com/pd2af/
 
 ## Contact
 
-To contribute and discuss the project please use this email address: [pd2af@googlegroups.com](mailto:pd2af@googlegroups.com)    
-Denis Shirshov, Lead Developer [denis.shirshov@gmail.com](mailto:denis.shirshov@gmail.com)  
-Alexander Mazein, Project Coordinator [amazein@eisbm.org](mailto:amazein@eisbm.org)  
+To contribute and discuss the project please use this email address: [pd2af@googlegroups.com](mailto:pd2af@googlegroups.com)   
 
 ## Project Team
 
@@ -44,6 +42,7 @@ Alexander Mazein, Project Coordinator [amazein@eisbm.org](mailto:amazein@eisbm.o
 </tr>
 </table>
 
+
 <table>
 <tr>
 <td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/IrinaBalaur.jpg" width="160"/></p></td>
@@ -61,3 +60,4 @@ Alexander Mazein, Project Coordinator [amazein@eisbm.org](mailto:amazein@eisbm.o
 <td style="width: 200px;"> </td>
 </tr>
 </table>
+
