@@ -10,12 +10,9 @@ permalink: /about/
 
 The converter uses the concept of the SBGN Bricks and additionally detects advanced network patterns such as, for example, "hidden" inhibition, when the mechanism is shown in details and no inhibition arcs are used.  
 
-The code is written in Lisp.  
-
 ## Availability
 
-Online conversion (experimental version): [http://pd2af.me](http://pd2af.me/)  
-Online conversion (stable version): [http://web.pd2af.org](http://web.pd2af.org/)  
+Online conversion (experimental version): [http://pd2af.me](http://pd2af.me/)   
 Converter engine: [https://github.com/pd2af/converter](https://github.com/pd2af/converter)  
 
 ## Contact
