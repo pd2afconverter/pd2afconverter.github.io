@@ -21,17 +21,17 @@ What is new in the Milestone 1 PD2AF version 1.0:
 
 The development is planned in a stepwise manner with the following milestones.
 
-#### PD2AF Milestone #1 Basic - "Enhanced" version - Automatic
+#### PD2AF Milestone #1 Basic - “Enhanced” version - Automatic
 
-The first milestone version is designed to provide an accessible open-source code and an online service. Milestone 1 has minimal translation functionalities enhanced by the identification of active entities. This identification allows improving the conversation while taking into account the context - the connected events. In particular, cases of "hidden" inhibition can be identified and converted to the Activity Flow view.  
+The first milestone version is designed to provide an accessible open-source code and an online service. Milestone 1 has minimal translation functionalities enhanced by the identification of active entities. This identification allows improving the conversation while taking into account the context - the connected events. In particular, cases of “hidden” inhibition can be identified and converted to the Activity Flow view.
 
-After completing this step, a collection of PD-AF pairs of bricks can be initiated. In the future this collection of pairs will ensure stable conversion between the Process Description and Activity Flow languages in both directions.   
+After completing this step, building a collection of PD-AF pairs of bricks can be initiated. In the future, this collection of pairs will ensure stable conversion between the Process Description and Activity Flow languages in both directions.
 
-#### PD2AF Milestone #2 Intermediate - "Adviser" version - Semi-automatic
+#### PD2AF Milestone #2 Intermediate - “Adviser” version - Semi-automatic
 
-For complex and extensive PD maps it will not be always possible to avoid keeping complexes in AF version. For Milestone 2 we anticipate the development of a version that will not be completely automatic but will offer options for possible conversion of difficult modules. The user would be able to choose the most suitable option from a set.
+For complex and extensive PD maps it will not always be possible to avoid keeping complexes in AF version. For Milestone 2 we anticipate the development of a version that will not be completely automatic but will offer options for possible conversion of difficult modules. The user would be able to choose the most suitable option from a set.
 
-#### PD2AF Milestone #3 Advanced - "Informed guess" version - Automatic
+#### PD2AF Milestone #3 Advanced - “Informed guess” version - Automatic
 
-Milestone 3 aims to allow the algorithm making decision for difficult modules while taking into account information from selected pathway and protein-protein interaction databases. This "informed guess" functionality will allow minimising manual check for conversion of extensive maps.
+Milestone 3 aims to allow the algorithm to make a decision for difficult modules while taking into account information from selected pathway and protein-protein interaction databases. This “informed guess” functionality will allow minimising manual check for conversion of extensive maps.
 
