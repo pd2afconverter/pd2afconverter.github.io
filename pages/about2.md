@@ -45,9 +45,9 @@ To contribute and discuss the project please use this email address: [pd2af@goog
 <table>
 <tr>
 <td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/IrinaBalaur.jpg" width="160"/></p></td>
-<td style="width: 200px;"> </p></td>
-<td style="width: 200px;"></p></td>
-<td style="width: 200px;"><br /> </td>
+<td style="width: 200px;"> </td>
+<td style="width: 200px;"> </td>
+<td style="width: 200px;"> </td>
 </tr>
 </table>
 
