@@ -55,12 +55,7 @@ To contribute and discuss the project please use this email address: [pd2af@goog
 <tr>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Irina Balaur</strong></p><p style="margin:4px; line-height:100%;"><font size="2">European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
 <td style="width: 200px;"> </td>
+<td style="width: 200px;"><p style="margin:4px;"><strong>Johann Pellet</strong></p><p style="margin:4px; line-height:100%;"><font size="2">European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><strong>Charles Auffray</strong></p><p style="margin:4px; line-height:100%;"><font size="2">European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
 </tr>
 </table>
-
-<!--<td style="width: 200px;"><p style="margin:4px;"><strong>Johann Pellet</strong></p><p style="margin:4px; line-height:100%;"><font size="2">European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><strong>Charles Auffray</strong></p><p style="margin:4px; line-height:100%;"><font size="2">European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>-->
-
-## Acknowledgements
-
-The project was initiated with a support from the European Institute for Systems Biology and Medicine: Dr. Charles Auffray, the Founding Director of the EISBM, and Mr. Johann Pellet, a Bioinformatician and Project Manager at the EISBM. The initial phase of the project was led by Mr. Denis Shirshov, a volunteer Software Developer at the EISBM.
