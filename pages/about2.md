@@ -62,4 +62,4 @@ To contribute and discuss the project please use this email address: [pd2af@goog
 
 ## Acknowledgements
 
-The project was initiated with a support from the European Institute for Systems Biology and Medicine: Dr. Charles Auffray, the Founding Director of the EISBM, and Mr. Johann Pellet, a Bioinformatician and Project Manager at the EISBM. The initial phase of the project was led by Mr. Denis Shirshov, a volunteer Software Developer at the EISBM.
+The project was initiated with a support from the European Institute for Systems Biology and Medicine (EISBM), Lyon, France: Dr. Charles Auffray, the Founding Director of the EISBM, and Mr. Johann Pellet, a Bioinformatician and Project Manager at the EISBM. The initial phase of the project was led by Mr. Denis Shirshov, a volunteer Software Developer at the EISBM.
