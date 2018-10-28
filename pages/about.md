@@ -12,8 +12,10 @@ The converter uses the concept of the SBGN Bricks and additionally detects advan
 
 ## Availability
 
-Online conversion (experimental version): [http://pd2af.me](http://pd2af.me/)   
-Converter engine: [https://github.com/pd2af/converter](https://github.com/pd2af/converter)  
+The tools is under construction. The code is available at [https://github.com/pd2af/converter](https://github.com/pd2af/converter). An initial version of the converter is available online at [http://pd2af.me](http://pd2af.me/).
+
+<!--Online conversion (experimental version): [http://pd2af.me](http://pd2af.me/)   
+Converter engine: [https://github.com/pd2af/converter](https://github.com/pd2af/converter)  -->
 
 ## Contact
 
@@ -52,9 +54,13 @@ To contribute and discuss the project please use this email address: [pd2af@goog
 <table>
 <tr>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Irina Balaur</strong></p><p style="margin:4px; line-height:100%;"><font size="2">European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><strong>Johann Pellet</strong></p><p style="margin:4px; line-height:100%;"><font size="2">European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><strong>Charles Auffray</strong></p><p style="margin:4px; line-height:100%;"><font size="2">European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
 <td style="width: 200px;"> </td>
 </tr>
 </table>
 
+<!--<td style="width: 200px;"><p style="margin:4px;"><strong>Johann Pellet</strong></p><p style="margin:4px; line-height:100%;"><font size="2">European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><strong>Charles Auffray</strong></p><p style="margin:4px; line-height:100%;"><font size="2">European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>-->
+
+## Acknowledgements
+
+The project was initiated with a support from the European Institute for Systems Biology and Medicine: Dr. Charles Auffray, the Founding Director of the EISBM, and Mr. Johann Pellet, a Bioinformatician and Project Manager at the EISBM. The initial phase of the project was led by Mr. Denis Shirshov, a volunteer Software Developer at the EISBM.
