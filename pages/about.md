@@ -35,7 +35,7 @@ To contribute and discuss the project please use this email address: [pd2af@goog
 <table>
 <tr>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Denis Shirshov</strong></p><p style="margin:4px; line-height:100%;"><font size="2">European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><strong>Alexander Mazein</strong></p><p style="margin:4px; line-height:100%;"><font size="2">European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><strong>Alexander Mazein</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg</font></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Adrien Rougny</strong></p><p style="margin:4px; line-height:100%;"><font size="2">National Institute of Advanced Industrial Science and Technology, Tokyo, Japan</font></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Anatoly Sorokin</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Institute of Cell Biophysics, Russian Academy of Science, Pushchino, Russia</font></p></td>
 </tr>
