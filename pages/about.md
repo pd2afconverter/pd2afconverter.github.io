@@ -10,12 +10,12 @@ PD2AF converter is an open-source application designed to enable communication b
 
 The converter uses the concept of the SBGN Bricks and additionally detects advanced network patterns such as, for example, "hidden" inhibition, when the mechanism is shown in details and no inhibition arcs are used.  
 
+<!--
 ## Availability
-
-The tools is under construction. The code is available at [https://github.com/pd2af](https://github.com/pd2af). 
-
-<!--Online conversion (experimental version): [http://pd2af.me](http://pd2af.me/)   
-Converter engine: [https://github.com/pd2af/converter](https://github.com/pd2af/converter)  -->
+The code is available at [https://github.com/pd2af](https://github.com/pd2af). 
+Online conversion (experimental version): [http://pd2af.me](http://pd2af.me/)   
+Converter engine: [https://github.com/pd2af/converter](https://github.com/pd2af/converter)  
+-->
 
 ## Contact
 
