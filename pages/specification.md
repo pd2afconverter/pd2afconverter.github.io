@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rules Auto
-permalink: /specification/
+permalink: /specification
 ---
 
 # Specification
