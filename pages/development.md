@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Development
-permalink: /development/
+permalink: /development
 ---
 
 # Development
