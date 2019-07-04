@@ -4,7 +4,7 @@ title: Rules Auto
 permalink: /specification2
 ---
 
-<html>
+
   <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="styles.css">
@@ -597,4 +597,3 @@ permalink: /specification2
 
    </div>
   </body>
-</html>
