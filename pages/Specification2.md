@@ -4,7 +4,6 @@ title: Rules Auto
 permalink: /specification2
 ---
 
-
   <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="styles.css">
@@ -14,7 +13,7 @@ permalink: /specification2
 
    <h1>Specification of translation rules</h1>
 	
-   <p>Here is the detailed specification for the translation rules</p>
+   <p>Here is the detailed specification for the translation rules</p><br />
 
       
 
@@ -45,7 +44,7 @@ permalink: /specification2
 			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/i-sti-i/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
-</table>
+</table><br />
 
 	
 
@@ -74,7 +73,7 @@ permalink: /specification2
 			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/i-cat-i/af.sbgn" target="_blank">Newt</a>
 		</td>
         </tr>
-</table>
+</table><br />
 
 	
 
@@ -103,7 +102,7 @@ permalink: /specification2
 			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/i-nsti-i/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
-</table>
+</table><br />
 
 	
 
@@ -132,7 +131,7 @@ permalink: /specification2
 			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/i-mod-i/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
-</table>
+</table><br />
 	
 
 	
@@ -160,7 +159,7 @@ permalink: /specification2
 			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/i-inh-i/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
-</table>
+</table><br />
 	
 
 	
@@ -188,7 +187,7 @@ permalink: /specification2
 			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/i-sti-a/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
-</table>
+</table><br />
 	
 
 	
@@ -216,7 +215,7 @@ permalink: /specification2
 			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/i-cat-a/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
-</table>
+</table><br />
 
 	
 
@@ -245,7 +244,7 @@ permalink: /specification2
 			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/i-nsti-a/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
-</table>
+</table><br />
 
 	
 
@@ -274,7 +273,7 @@ permalink: /specification2
 			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/i-mod-a/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
-</table>
+</table><br />
 
 	
 
@@ -303,7 +302,7 @@ permalink: /specification2
 			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/i-inh-a/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
-</table>
+</table><br />
 
 	
 
@@ -332,7 +331,7 @@ permalink: /specification2
 			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/a-sti-i/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
-</table>
+</table><br />
 	
 
 	
@@ -360,7 +359,7 @@ permalink: /specification2
 			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/a-cat-i/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
-</table>
+</table><br />
 
 	
 
@@ -389,7 +388,7 @@ permalink: /specification2
 			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/a-nsti-i/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
-</table>
+</table><br />
 
 	
 
@@ -418,7 +417,7 @@ permalink: /specification2
 			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/a-mod-i/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
-</table>
+</table><br />
 
 	
 
@@ -447,7 +446,7 @@ permalink: /specification2
 			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/a-inh-i/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
-</table>
+</table><br />
 
 	
 
@@ -476,7 +475,7 @@ permalink: /specification2
 			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/a-sti-a/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
-</table>
+</table><br />
 	
 
 	
@@ -504,7 +503,7 @@ permalink: /specification2
 			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/a-cat-a/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
-</table>
+</table><br />
 
 	
 
@@ -533,7 +532,7 @@ permalink: /specification2
 			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/a-nsti-a/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
-</table>
+</table><br />
 
 	
 
@@ -562,7 +561,7 @@ permalink: /specification2
 			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/a-mod-a/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
-</table>
+</table><br />
 
 	
 
