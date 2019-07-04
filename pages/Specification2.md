@@ -7,7 +7,6 @@ permalink: /specification2
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Specification</title>
     <link rel="stylesheet" href="styles.css">
   </head>
   <body>
@@ -35,20 +34,13 @@ permalink: /specification2
 	<td>
 <img src="../images/specification/i-sti-i/af.png" width="77.60000000000001px" />
 	</td>
-</tr>
-        <tr style="font-size:90%">
-          <td>
+
+   <td>
             <a href="../images/specification/i-sti-i/pd.sbgn">SBGN-ML</a>&ensp;<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/i-sti-i/pd.sbgn" target="_blank">Newt</a>
-          </td>
-          <td>
+   </td>
+   <td>
             <a href="../images/specification/i-sti-i/af.sbgn">SBGN-ML</a>&ensp;<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/i-sti-i/af.sbgn" target="_blank">Newt</a>
-          </td>
-        </tr>
-<tr style="line-height: 3em;">
-	<td colspan="2" style="text-align:left;"></td>
-</tr>
-<tr style="line-height: 3em;">
-	<td colspan="2" style="text-align:left;"></td>
+   </td>
 </tr>
 	</table>
 
