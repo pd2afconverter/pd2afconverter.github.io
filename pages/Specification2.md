@@ -463,7 +463,7 @@ permalink: /specification2
 			<div><img src="../images/specification/a-sti-a/pd.png" width="246.4px" /></div>
 		</td>
 		<td>
-			<img src="../images/specification/a-sti-a/af.png" width="77.60000000000001px" />
+			<img src="../images/specification/a-sti-a/af.png" width="400px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
