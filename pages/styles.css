@@ -85,7 +85,7 @@ table.rules-table {
   text-align:center;
   width: 300px;
   
-  font-size:90%
+  style="font-size:90%"
  }
 
 table.examples-table {
@@ -98,7 +98,7 @@ table.examples-table {
   text-align:center;
   width: 800px;
   
-  font-size:90%
+  style="font-size:90%"
  }
 
  .examples-table td h5 {
