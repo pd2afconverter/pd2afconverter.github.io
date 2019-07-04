@@ -44,7 +44,7 @@ permalink: /specification2
 		<a href="../images/specification/i-sti-i/af.sbgn">SBGN-ML</a> &ensp;
 		<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/i-sti-i/af.sbgn" target="_blank">Newt</a>
 	</td>
-	</table>
+</table>
 
 	
 
