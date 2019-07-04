@@ -36,7 +36,7 @@ permalink: /specification2
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="font-size:200%">
+		<td>
 			<a href="../images/specification/i-sti-i/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/i-sti-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
