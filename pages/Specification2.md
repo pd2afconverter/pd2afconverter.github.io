@@ -85,33 +85,27 @@ permalink: /specification2
 	
 
    <h3>3. i-nsti-i</h3>
-      <div><span class="translation-not-passed">translation failed</span>
-      </div>
+      <div><span class="translation-not-passed">Translation failed</span>
+      </div><br />
 
 <table class="rules-table">
-<tr>
-	<td>
-<div><img src="../images/specification/i-nsti-i/pd.png" width="246.4px" /></div>
-	</td>
-	<td>
-<img src="../images/specification/i-nsti-i/af.png" width="77.60000000000001px" />
-	</td>
-</tr>
+	<tr>
+		<td>
+			<div><img src="../images/specification/i-nsti-i/pd.png" width="246.4px" /></div>
+		</td>
+		<td>
+			<img src="../images/specification/i-nsti-i/af.png" width="77.60000000000001px" />
+		</td>
+	</tr>
         <tr style="font-size:90%">
-          <td>
-            <a href="../images/specification/i-nsti-i/pd.sbgn">SBGN-ML</a>&ensp;<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/i-nsti-i/pd.sbgn" target="_blank">Newt</a>
-          </td>
-          <td>
-            <a href="../images/specification/i-nsti-i/af.sbgn">SBGN-ML</a>&ensp;<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/i-nsti-i/af.sbgn" target="_blank">Newt</a>
-          </td>
+		<td>
+			<a href="../images/specification/i-nsti-i/pd.sbgn">SBGN-ML</a>&ensp;<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/i-nsti-i/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td>
+			<a href="../images/specification/i-nsti-i/af.sbgn">SBGN-ML</a>&ensp;<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/i-nsti-i/af.sbgn" target="_blank">Newt</a>
+		</td>
         </tr>
-<tr style="line-height: 3em;">
-	<td colspan="2" style="text-align:left;"></td>
-</tr>
-<tr style="line-height: 3em;">
-	<td colspan="2" style="text-align:left;"></td>
-</tr>
-	</table>
+</table>
 
 	
 
