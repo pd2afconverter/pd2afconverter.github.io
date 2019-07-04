@@ -84,8 +84,6 @@ table.rules-table {
   vertical-align: top;
   text-align:center;
   width: 300px;
-  
-  font-size:200%;
  }
 
 table.examples-table {
@@ -97,8 +95,6 @@ table.examples-table {
   vertical-align: top;
   text-align:center;
   width: 800px;
-  
-  font-size:90%;
  }
 
  .examples-table td h5 {
