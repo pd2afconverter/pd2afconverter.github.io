@@ -27,23 +27,24 @@ permalink: /specification2
 </div><br />
 
 <table class="rules-table">
-<tr style="font-size:90%">
-	<td>
-		<div><img src="../images/specification/i-sti-i/pd.png" width="246.4px" /></div>
-	</td>
-	<td>
-		<img src="../images/specification/i-sti-i/af.png" width="77.60000000000001px" />
-	</td>
-</tr>
-<tr style="font-size:90%">
-	<td>
-		<a href="../images/specification/i-sti-i/pd.sbgn">SBGN-ML</a> &ensp;
-		<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/i-sti-i/pd.sbgn" target="_blank">Newt</a>
-	</td>
-	<td>
-		<a href="../images/specification/i-sti-i/af.sbgn">SBGN-ML</a> &ensp;
-		<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/i-sti-i/af.sbgn" target="_blank">Newt</a>
-	</td>
+	<tr style="font-size:90%">
+		<td>
+			<div><img src="../images/specification/i-sti-i/pd.png" width="246.4px" /></div>
+		</td>
+		<td>
+			<img src="../images/specification/i-sti-i/af.png" width="77.60000000000001px" />
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td>
+			<a href="../images/specification/i-sti-i/pd.sbgn">SBGN-ML</a> &ensp;
+			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/i-sti-i/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td>
+			<a href="../images/specification/i-sti-i/af.sbgn">SBGN-ML</a> &ensp;
+			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/i-sti-i/af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
 </table>
 
 	
