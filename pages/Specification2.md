@@ -29,10 +29,10 @@ permalink: /specification2
 <table class="rules-table">
 <tr style="font-size:90%">
 	<td>
-	<img src="../images/specification/i-sti-i/pd.png" width="246.4px" />
+		<div><img src="../images/specification/i-sti-i/pd.png" width="246.4px" /></div>
 	</td>
 	<td>
-	<img src="../images/specification/i-sti-i/af.png" width="77.60000000000001px" />
+		<img src="../images/specification/i-sti-i/af.png" width="77.60000000000001px" />
 	</td>
 </tr>
 <tr style="font-size:90%">
