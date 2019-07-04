@@ -22,9 +22,9 @@ permalink: /specification2
 
 	
 
-   <h3>1. i-sti-i</h3>
-      <div><span class="translation-not-passed">Translation failed.</span>
-      </div>
+<h3>1. i-sti-i</h3>
+<div><span class="translation-not-passed">Translation failed</span>
+</div><br />
 
 <table class="rules-table">
 <tr style="font-size:90%">
@@ -52,7 +52,7 @@ permalink: /specification2
 
    <h3>2. i-cat-i</h3>
       <div><span class="translation-not-passed">translation failed</span>
-      </div><br />
+      </div>
 
 <table class="rules-table">
 <tr>
