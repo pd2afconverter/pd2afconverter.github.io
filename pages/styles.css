@@ -1,7 +1,4 @@
 body {
-  background:black; 
-  opacity: 0.5;
-  font-family:Open Sans,Arial,Helvetica,sans serif;
   font-size:11pt;
   line-height:20pt;
 }
@@ -9,7 +6,6 @@ body {
 h1 {
   font-size:32px;
   line-height:42px;
-  font-family:Arial,Helvetica,sans serif;
   text-align: left;
   margin: 1.5em 0;
 }
@@ -17,7 +13,6 @@ h1 {
 h2 {
   font-size:24px;
   line-height:32px;
-  font-family:Arial,Helvetica,sans serif;
   margin: 1em 0;
 }
 
@@ -28,7 +23,6 @@ h2 {
 
 header {
   font-size:12pt;
-  font-family:Arial,Helvetica,sans serif;
   color:#ccc;
   margin-bottom:2em;
 }
@@ -119,8 +113,6 @@ table.examples-table {
 .labels {
   font-size: 28;
   font-weight: normal;
-  font-family: Calibri;
-  fill: grey;
   text-anchor: middle;
 }
 
@@ -136,12 +128,9 @@ table.examples-table {
 .job_title {
   font-size: 32;
   font-weight: normal;
-  font-family: Calibri;
-  fill: white;
   text-anchor: left;
 }
 
 .convergence_line {
   stroke-width: 2.5;
-  stroke: black;
 }
