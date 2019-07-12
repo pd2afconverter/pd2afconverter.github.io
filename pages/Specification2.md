@@ -6,7 +6,7 @@ permalink: /specification2
 
   <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="/pd2af.github.io/pages/style.css">
   </head>
   <body>
     <div class="container">
@@ -51,7 +51,7 @@ permalink: /specification2
 	
 
    <h3>2. i-cat-i</h3>
-<div><span class="translation-not-passed">translation failed</span>
+<div><span class="translation-not-passed">Translation failed</span>
 </div>
 
 <table class="rules-table">
