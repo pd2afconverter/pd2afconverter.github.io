@@ -29,7 +29,7 @@ permalink: /specification2
 			<div><img src="../images/specification/i-sti-i/pd.png" width="246.4px"/></div>
 		</td>
 		<td style="width:300px">
-			<img src="../images/specification/i-sti-i/af.png" width="69.6px" style="margin-left: 54.5px"/>
+			<img src="../images/specification/i-sti-i/af.png" width="69.6px" style="margin-left: 27.25px"/>
 		</td>
 	</tr>
 	<tr style="font-size:90%">
