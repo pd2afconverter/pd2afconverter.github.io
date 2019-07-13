@@ -28,7 +28,7 @@ permalink: /specification2
 		<td style="width:300px; text-align:center;">
 			<div><img src="../images/specification/i-sti-i/pd.png" width="246.4px" /></div>
 		</td>
-		<td style="width:300px">
+		<td style="width:300px; text-align:center;">
 			<img src="../images/specification/i-sti-i/af.png" width="69.6px" />
 		</td>
 	</tr>
@@ -37,7 +37,7 @@ permalink: /specification2
 			<a href="../images/specification/i-sti-i/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/i-sti-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
-		<td style="width:300px">
+		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/i-sti-i/af.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/i-sti-i/af.sbgn" target="_blank">Newt</a>
 		</td>
