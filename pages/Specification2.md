@@ -38,7 +38,7 @@ permalink: /specification2
 			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/i-sti-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px">
-			<a href="../images/specification/i-sti-i/af.sbgn" style="margin-left: 54.5px">SBGN-ML</a>&ensp;
+			<a href="../images/specification/i-sti-i/af.sbgn" style="margin-left: 19.7px">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/i-sti-i/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
