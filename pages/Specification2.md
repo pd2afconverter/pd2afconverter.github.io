@@ -26,10 +26,10 @@ permalink: /specification2
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:300px; text-align:center;">
-			<div><img src="../images/specification/i-sti-i/pd.png" width="246.4px" /></div>
+			<div><img src="../images/specification/i-sti-i/pd.png" width="246.4px"/></div>
 		</td>
-		<td style="width:300px; text-align:center;">
-			<img src="../images/specification/i-sti-i/af.png" width="69.6px" />
+		<td style="width:300px">
+			<img src="../images/specification/i-sti-i/af.png" width="69.6px" style="margin-left: 54.5px"/>
 		</td>
 	</tr>
 	<tr style="font-size:90%">
@@ -37,8 +37,8 @@ permalink: /specification2
 			<a href="../images/specification/i-sti-i/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/i-sti-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
-		<td style="width:300px; text-align:center;">
-			<a href="../images/specification/i-sti-i/af.sbgn">SBGN-ML</a>&ensp;
+		<td style="width:300px">
+			<a href="../images/specification/i-sti-i/af.sbgn" style="margin-left: 54.5px">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/i-sti-i/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
