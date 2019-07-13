@@ -35,11 +35,11 @@ permalink: /specification2
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style=text-align:center;>
+		<td style="text-align:center;">
 			<a href="../images/specification/i-sti-i/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/i-sti-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
-		<td style=text-align:center;>
+		<td style="text-align:center;">
 			<a href="../images/specification/i-sti-i/af.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=http://sbgnbricks.github.io/images/specification/i-sti-i/af.sbgn" target="_blank">Newt</a>
 		</td>
