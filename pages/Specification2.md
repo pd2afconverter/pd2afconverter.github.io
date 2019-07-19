@@ -1,13 +1,10 @@
 ---
 layout: default
-title: Rules Auto
+title: Specification
 permalink: /specification2
 ---
 
-  <head>
-    <meta charset="utf-8">
-    <link rel="stylesheet" href="/pd2af.github.io/pages/style.css">
-  </head>
+
   <body>
     <div class="container">
 
