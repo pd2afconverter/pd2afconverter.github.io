@@ -21,7 +21,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/i-sti-i/pd.png" width="246.4px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -29,7 +29,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/i-sti-i/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/i-sti-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -56,7 +56,7 @@ permalink: /specification
 		</td>
 	</tr>
         <tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/i-cat-i/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/i-cat-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -75,7 +75,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/i-nsti-i/pd.png" width="246.4px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -83,7 +83,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/i-nsti-i/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/i-nsti-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -102,7 +102,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/i-mod-i/pd.png" width="246.4px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -110,7 +110,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/i-mod-i/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/i-mod-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -128,7 +128,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/i-inh-i/pd.png" width="246.4px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -136,7 +136,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/i-inh-i/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/i-inh-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -154,7 +154,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/i-sti-a/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -162,7 +162,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/i-sti-a/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/i-sti-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -180,7 +180,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/i-cat-a/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -188,7 +188,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/i-cat-a/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/i-cat-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -207,7 +207,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/i-nsti-a/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -215,7 +215,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/i-nsti-a/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/i-nsti-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -234,7 +234,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/i-mod-a/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -242,7 +242,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/i-mod-a/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/i-mod-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -261,7 +261,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/i-inh-a/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -269,7 +269,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/i-inh-a/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/i-inh-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -288,7 +288,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/a-sti-i/pd.png" width="236px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -296,7 +296,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/a-sti-i/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-sti-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -314,7 +314,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/a-cat-i/pd.png" width="236px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -322,7 +322,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/a-cat-i/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-cat-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -341,7 +341,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/a-nsti-i/pd.png" width="236px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -349,7 +349,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/a-nsti-i/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-nsti-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -368,7 +368,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/a-mod-i/pd.png" width="244px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -376,7 +376,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/a-mod-i/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-mod-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -395,7 +395,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/a-inh-i/pd.png" width="236px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -403,7 +403,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/a-inh-i/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-inh-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -422,7 +422,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/a-sti-a/pd.png" width="234.4px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -430,7 +430,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/a-sti-a/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-sti-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -448,7 +448,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/a-cat-a/pd.png" width="234.4px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -456,7 +456,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/a-cat-a/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-cat-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -475,7 +475,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/a-nsti-a/pd.png" width="242.4px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -483,7 +483,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/a-nsti-a/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-nsti-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -502,7 +502,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/a-mod-a/pd.png" width="242.4px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -510,7 +510,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/a-mod-a/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-mod-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -529,7 +529,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/a-inh-a/pd.png" width="234.4px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -537,7 +537,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/a-inh-a/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-inh-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -562,7 +562,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/m-sti-m/pd.png" width="229.6px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -570,7 +570,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/m-sti-m/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/m-sti-m/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -590,7 +590,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/m-cat-m/pd.png" width="229.6px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -598,7 +598,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/m-cat-m/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/m-cat-m/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -618,7 +618,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/m-nsti-m/pd.png" width="229.6px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -626,7 +626,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/m-nsti-m/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/m-nsti-m/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -646,7 +646,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/m-mod-m/pd.png" width="229.6px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -654,7 +654,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/m-mod-m/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/m-mod-m/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -674,7 +674,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/m-inh-m/pd.png" width="229.6px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -682,7 +682,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/m-inh-m/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/m-inh-m/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -707,7 +707,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/a-catr-a/pd.png" width="234.4px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -715,7 +715,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/a-catr-a/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-catr-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -735,7 +735,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/a-catr-i/pd.png" width="236px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -743,7 +743,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/a-catr-i/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-catr-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -763,7 +763,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/i-inhr-a/pd.png" width="232px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -771,7 +771,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/i-inhr-a/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/i-inhr-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -791,7 +791,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/m-catr-m/pd.png" width="229.6px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -799,7 +799,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/m-catr-m/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/m-catr-m/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -820,7 +820,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/m-inhr-m/pd.png" width="229.6px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -828,7 +828,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/m-inhr-m/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/m-inhr-m/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -865,7 +865,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/ss-sti-i/pd.png" width="224px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -873,7 +873,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/ss-sti-i/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/ss-sti-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -892,7 +892,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/i-sti-ss/pd.png" width="217.6px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -900,7 +900,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/i-sti-ss/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/i-sti-ss/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -919,7 +919,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/a-cat-ss/pd.png" width="217.6px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -927,7 +927,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/a-cat-ss/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-cat-ss/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -946,7 +946,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/a-inh-ss/pd.png" width="217.6px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -954,7 +954,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/a-inh-ss/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-inh-ss/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -979,7 +979,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/dimerization_x2/pd.png" width="78.4px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -987,7 +987,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/dimerization_x2/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/dimerization_x2/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -1006,7 +1006,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/oligomerization_x3/pd.png" width="78.4px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -1014,7 +1014,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/oligomerization_x3/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/oligomerization_x3/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -1033,7 +1033,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/oligomerization_x4/pd.png" width="78.4px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -1041,7 +1041,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/oligomerization_x4/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/oligomerization_x4/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -1060,7 +1060,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/oligomerization_x5/pd.png" width="78.4px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -1068,7 +1068,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/oligomerization_x5/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/oligomerization_x5/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -1087,7 +1087,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/oligomerization_x6/pd.png" width="78.4px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -1095,7 +1095,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/oligomerization_x6/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/oligomerization_x6/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -1114,7 +1114,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/oligomerization_x7/pd.png" width="78.4px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -1122,7 +1122,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/oligomerization_x7/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/oligomerization_x7/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -1141,7 +1141,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/oligomerization_x8/pd.png" width="78.4px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -1149,7 +1149,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/oligomerization_x8/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/oligomerization_x8/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -1168,7 +1168,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/oligomerization_x9/pd.png" width="78.4px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -1176,7 +1176,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/oligomerization_x9/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/oligomerization_x9/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -1195,7 +1195,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/oligomerization_x10/pd.png" width="78.4px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -1203,7 +1203,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/oligomerization_x10/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/oligomerization_x10/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -1222,7 +1222,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/multimerization_1/pd.png" width="78.4px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -1230,7 +1230,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/multimerization_1/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/multimerization_1/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -1249,7 +1249,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/multimerization_2/pd.png" width="78.4px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -1257,7 +1257,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/multimerization_2/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/multimerization_2/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -1276,7 +1276,7 @@ permalink: /specification
 
 <table class="rules-table">
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<div><img src="../images/specification/oligomerization_x6_r/pd.png" width="153.6px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
@@ -1284,7 +1284,7 @@ permalink: /specification
 		</td>
 	</tr>
 	<tr style="font-size:90%">
-		<td style="width:300px; text-align:center;">
+		<td style="width:400px; text-align:center;">
 			<a href="../images/specification/oligomerization_x6_r/pd.sbgn">SBGN-ML</a>&ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/oligomerization_x6_r/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -1293,7 +1293,411 @@ permalink: /specification
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/oligomerization_x6_r/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
+</table><br /><br /><br />
+
+
+
+
+
+<h2>Translocation</h2><br />
+	
+
+	
+
+
+   <h3>4.1 Translocation 1</h3>
+
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<div><img src="../images/specification/translocation_1/pd.png" width="124px" /></div>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<img src="../images/specification/translocation_1/af.png" width="124px" />
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<a href="../images/specification/translocation_1/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/translocation_1/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<a href="../images/specification/translocation_1/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/translocation_1/af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
 </table><br />
+	
+
+	
+
+
+   <h3>4.2 Translocation 2</h3>
+
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<div><img src="../images/specification/translocation_2/pd.png" width="204px" /></div>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<img src="../images/specification/translocation_2/af.png" width="284px" />
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<a href="../images/specification/translocation_2/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/translocation_2/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<a href="../images/specification/translocation_2/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/translocation_2/af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
+</table><br /><br /><br />
+
+
+
+
+
+<h2>Complexes</h2><br />
+	
+
+	
+
+
+   <h3>5.1 Complex association with complex name</h3>
+
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<div><img src="../images/specification/complex_association_with_complex_name/pd.png" width="245.6px" /></div>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<img src="../images/specification/complex_association_with_complex_name/af.png" width="229.6px" />
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<a href="../images/specification/complex_association_with_complex_name/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/complex_association_with_complex_name/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<a href="../images/specification/complex_association_with_complex_name/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/complex_association_with_complex_name/af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
+</table><br />
+	
+
+	
+
+
+   <h3>5.2 Complex association</h3>
+
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<div><img src="../images/specification/complex_association/pd.png" width="257.6px" /></div>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<img src="../images/specification/complex_association/af.png" width="229.6px" />
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<a href="../images/specification/complex_association/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/complex_association/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<a href="../images/specification/complex_association/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/complex_association/af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
+</table><br />
+	
+
+	
+
+
+   <h3>5.3 Complex association regulated</h3>
+
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<div><img src="../images/specification/complex_association_regulated/pd.png" width="245.6px" /></div>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<img src="../images/specification/complex_association_regulated/af.png" width="189.6px" />
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<a href="../images/specification/complex_association_regulated/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/complex_association_regulated/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<a href="../images/specification/complex_association_regulated/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/complex_association_regulated/af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
+</table><br />
+	
+
+	
+
+
+   <h3>5.4 Complex dissociation</h3>
+
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<div><img src="../images/specification/complex_dissociation/pd.png" width="229.6px" /></div>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<img src="../images/specification/complex_dissociation/af.png" width="229.6px" />
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<a href="../images/specification/complex_dissociation/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/complex_dissociation/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<a href="../images/specification/complex_dissociation/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/complex_dissociation/af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
+</table><br /><br /><br />
+
+
+
+
+
+<h2>Hidden Inhibition</h2><br />
+	
+
+	
+
+
+   <h3>6.1 Hidden inhibition 1</h3>
+
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<div><img src="../images/specification/hidden_inhibition_1/pd.png" width="392px" /></div>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<img src="../images/specification/hidden_inhibition_1/af.png" width="69.6px" />
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<a href="../images/specification/hidden_inhibition_1/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/hidden_inhibition_1/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<a href="../images/specification/hidden_inhibition_1/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/hidden_inhibition_1/af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
+</table><br />
+   
+
+
+
+	
+   <h3>6.2 Hidden inhibition 2</h3>
+
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<div><img src="../images/specification/hidden_inhibition_2/pd.png" width="392px" /></div>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<img src="../images/specification/hidden_inhibition_2/af.png" width="69.6px" />
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<a href="../images/specification/hidden_inhibition_2/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/hidden_inhibition_2/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<a href="../images/specification/hidden_inhibition_2/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/hidden_inhibition_2/af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
+</table><br /><br /><br />
+   
+
+
+
+
+<h2>Patterns</h2><br /><br /><br />
+   
+
+
+
+
+<h2>Simple Schemes</h2><br />
+	
+
+	
+
+
+   <h3>8.1 raf-mek-erk</h3>
+
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<div><img src="../images/specification/raf-mek-erk/pd.png" width="309.6px" /></div>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<img src="../images/specification/raf-mek-erk/af.png" width="69.6px" />
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<a href="../images/specification/raf-mek-erk/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/raf-mek-erk/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<a href="../images/specification/raf-mek-erk/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/raf-mek-erk/af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
+</table><br />
+	
+
+	
+
+
+   <h3 style="color:red">8.2 Elk signalling</h3><br /><br /><br />
+      
+
+
+
+
+<h2>New Schemes</h2><br />
+	
+
+	
+
+
+   <h3>9.1 Currency metabolites 1</h3>
+
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<div><img src="../images/specification/currency_metabolites_1/pd.png" width="232px" /></div>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<img src="../images/specification/currency_metabolites_1/af.png" width="69.6px" />
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<a href="../images/specification/currency_metabolites_1/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/currency_metabolites_1/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<a href="../images/specification/currency_metabolites_1/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/currency_metabolites_1/af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
+</table><br />
+	
+
+	
+
+
+   <h3>9.2 Noncurrency metabolites 1</h3>
+
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<div><img src="../images/specification/noncurrency_metabolites_1/pd.png" width="232px" /></div>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<img src="../images/specification/noncurrency_metabolites_1/af.png" width="289.6px" />
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<a href="../images/specification/noncurrency_metabolites_1/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/noncurrency_metabolites_1/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<a href="../images/specification/noncurrency_metabolites_1/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/noncurrency_metabolites_1/af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
+</table><br />
+	
+
+	
+
+
+   <h3>9.3 Regulation combining 1</h3>
+
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<div><img src="../images/specification/regulation_combining_1/pd.png" width="232px" /></div>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<img src="../images/specification/regulation_combining_1/af.png" width="229.6px" />
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<a href="../images/specification/regulation_combining_1/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/regulation_combining_1/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<a href="../images/specification/regulation_combining_1/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/regulation_combining_1/af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
+</table><br /><br /><br />
+      
+
+
+
+
+<h2>Metabolism Regulation Maps</h2><br />
+	
+
+	
+
+
+   <h3 style="color:red">10.1 MR001-glycolysis</h3><br />
+   	
+
+	
+
+
+   <h3 style="color:red">10.2 MR002-glycolysis-alt</h3><br />
+   	
+
+	
+
+
+   <h3 style="color:red">10.3 MR003-eicosanoids</h3><br />
+   	
+
+	
+
+
+   <h3 style="color:red">10.4 MR004-mevalonate</h3><br />
+   	
+
+	
+
+
+   <h3 style="color:red">10.5 MR007-inos</h3><br />
+
+
 
    </div>
   </body>
