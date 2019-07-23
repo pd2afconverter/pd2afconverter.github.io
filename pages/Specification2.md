@@ -8,11 +8,11 @@ permalink: /specification2
   <body>
     <div class="container">
 
-   # Specification of translation rules
+   <h1>Specification of translation rules</h1><br />
 	
    <p>Here is the detailed specification for the translation rules</p><br />
 
-   ### Posttranslational modification   
+   <h2>Posttranslational modification</h2><br />
 
 	
 
@@ -550,7 +550,7 @@ permalink: /specification2
 
 
 	
-### Metabolic reactions
+<h2>Metabolic reactions</h2><br />
 
 	
 
