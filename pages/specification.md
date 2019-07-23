@@ -10,7 +10,7 @@ permalink: /specification
 
    <h1>Specification of translation rules</h1>
 	
-   <p>Here is the detailed specification for the translation rules</p><br /><br />
+   <p>Here is the detailed specification for the translation rules</p><br />
 
    <h2>Posttranslational modification</h2><br />
 
@@ -549,10 +549,14 @@ permalink: /specification
 </table><br /><br />
 
 
-	
+
+
+
 <h2>Metabolic reactions</h2><br />
 
 	
+
+
 
    <h3>1.21 m-sti-m</h3>
 
@@ -845,7 +849,121 @@ permalink: /specification
 
 
 	
-   <h3 style="color:red">1.33 logical gates or</h3><br />
+   <h3 style="color:red">1.33 logical gates or</h3><br /><br />
+   
+   
+   
+   
+   
+<h2>Source And Sinks</h2>
+	
+
+	
+
+
+   <h3>2.1 ss-sti-i</h3>
+
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:300px; text-align:center;">
+			<div><img src="../images/specification/ss-sti-i/pd.png" width="224px" /></div>
+		</td>
+		<td style="width:130px; text-align:center;">
+			<img src="../images/specification/ss-sti-i/af.png" width="69.6px" />
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:300px; text-align:center;">
+			<a href="../images/specification/ss-sti-i/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/ss-sti-i/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="width:130px; text-align:center;">
+			<a href="../images/specification/ss-sti-i/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/ss-sti-i/af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
+</table><br />
+
+	
+
+	
+
+   <h3>2.2 i-sti-ss</h3>
+
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:300px; text-align:center;">
+			<div><img src="../images/specification/i-sti-ss/pd.png" width="217.6px" /></div>
+		</td>
+		<td style="width:130px; text-align:center;">
+			<img src="../images/specification/i-sti-ss/af.png" width="69.6px" />
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:300px; text-align:center;">
+			<a href="../images/specification/i-sti-ss/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/i-sti-ss/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="width:130px; text-align:center;">
+			<a href="../images/specification/i-sti-ss/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/i-sti-ss/af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
+</table><br />
+
+	
+
+	
+
+   <h3>2.3 a-cat-ss</h3>
+
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:300px; text-align:center;">
+			<div><img src="../images/specification/a-cat-ss/pd.png" width="217.6px" /></div>
+		</td>
+		<td style="width:130px; text-align:center;">
+			<img src="../images/specification/a-cat-ss/af.png" width="69.6px" />
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:300px; text-align:center;">
+			<a href="../images/specification/a-cat-ss/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-cat-ss/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="width:130px; text-align:center;">
+			<a href="../images/specification/a-cat-ss/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-cat-ss/af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
+</table><br />
+
+	
+
+	
+
+   <h3>2.4 a-inh-ss</h3>
+
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:300px; text-align:center;">
+			<div><img src="../images/specification/a-inh-ss/pd.png" width="217.6px" /></div>
+		</td>
+		<td style="width:130px; text-align:center;">
+			<img src="../images/specification/a-inh-ss/af.png" width="69.6px" />
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:300px; text-align:center;">
+			<a href="../images/specification/a-inh-ss/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-inh-ss/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="width:130px; text-align:center;">
+			<a href="../images/specification/a-inh-ss/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-inh-ss/af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
+</table><br />
 
    </div>
   </body>
