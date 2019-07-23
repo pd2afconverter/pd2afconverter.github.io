@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Specification
-permalink: /specification2
+permalink: /specification
 ---
 
 
   <body>
     <div class="container">
 
-   <h1>Specification of translation rules</h1><br />
+   <h1>Specification of translation rules</h1>
 	
-   <p>Here is the detailed specification for the translation rules</p><br />
+   <p>Here is the detailed specification for the translation rules</p><br /><br />
 
    <h2>Posttranslational modification</h2><br />
 
@@ -31,11 +31,11 @@ permalink: /specification2
 	<tr style="font-size:90%">
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/i-sti-i/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/i-sti-i/pd.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/i-sti-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:130px; text-align:center;">
 			<a href="../images/specification/i-sti-i/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/i-sti-i/af.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/i-sti-i/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 </table><br />
@@ -58,11 +58,11 @@ permalink: /specification2
         <tr style="font-size:90%">
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/i-cat-i/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/i-cat-i/pd.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/i-cat-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:130px; text-align:center;">
 			<a href="../images/specification/i-cat-i/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/i-cat-i/af.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/i-cat-i/af.sbgn" target="_blank">Newt</a>
 		</td>
         </tr>
 </table><br />
@@ -85,11 +85,11 @@ permalink: /specification2
 	<tr style="font-size:90%">
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/i-nsti-i/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/i-nsti-i/pd.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/i-nsti-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:130px; text-align:center;">
 			<a href="../images/specification/i-nsti-i/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/i-nsti-i/af.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/i-nsti-i/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 </table><br />
@@ -112,11 +112,11 @@ permalink: /specification2
 	<tr style="font-size:90%">
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/i-mod-i/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/i-mod-i/pd.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/i-mod-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:130px; text-align:center;">
 			<a href="../images/specification/i-mod-i/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/i-mod-i/af.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/i-mod-i/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 </table><br />
@@ -138,11 +138,11 @@ permalink: /specification2
 	<tr style="font-size:90%">
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/i-inh-i/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/i-inh-i/pd.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/i-inh-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:130px; text-align:center;">
 			<a href="../images/specification/i-inh-i/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/i-inh-i/af.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/i-inh-i/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 </table><br />
@@ -164,11 +164,11 @@ permalink: /specification2
 	<tr style="font-size:90%">
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/i-sti-a/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/i-sti-a/pd.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/i-sti-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:130px; text-align:center;">
 			<a href="../images/specification/i-sti-a/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/i-sti-a/af.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/i-sti-a/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 </table><br />
@@ -190,11 +190,11 @@ permalink: /specification2
 	<tr style="font-size:90%">
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/i-cat-a/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/i-cat-a/pd.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/i-cat-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:130px; text-align:center;">
 			<a href="../images/specification/i-cat-a/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/i-cat-a/af.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/i-cat-a/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 </table><br />
@@ -217,11 +217,11 @@ permalink: /specification2
 	<tr style="font-size:90%">
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/i-nsti-a/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/i-nsti-a/pd.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/i-nsti-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:130px; text-align:center;">
 			<a href="../images/specification/i-nsti-a/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/i-nsti-a/af.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/i-nsti-a/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 </table><br />
@@ -244,11 +244,11 @@ permalink: /specification2
 	<tr style="font-size:90%">
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/i-mod-a/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/i-mod-a/pd.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/i-mod-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:130px; text-align:center;">
 			<a href="../images/specification/i-mod-a/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/i-mod-a/af.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/i-mod-a/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 </table><br />
@@ -271,11 +271,11 @@ permalink: /specification2
 	<tr style="font-size:90%">
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/i-inh-a/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/i-inh-a/pd.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/i-inh-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:130px; text-align:center;">
 			<a href="../images/specification/i-inh-a/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/i-inh-a/af.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/i-inh-a/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 </table><br />
@@ -298,11 +298,11 @@ permalink: /specification2
 	<tr style="font-size:90%">
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/a-sti-i/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/a-sti-i/pd.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-sti-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:130px; text-align:center;">
 			<a href="../images/specification/a-sti-i/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/a-sti-i/af.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-sti-i/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 </table><br />
@@ -324,11 +324,11 @@ permalink: /specification2
 	<tr style="font-size:90%">
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/a-cat-i/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/a-cat-i/pd.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-cat-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:130px; text-align:center;">
 			<a href="../images/specification/a-cat-i/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/a-cat-i/af.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-cat-i/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 </table><br />
@@ -351,11 +351,11 @@ permalink: /specification2
 	<tr style="font-size:90%">
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/a-nsti-i/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/a-nsti-i/pd.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-nsti-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:130px; text-align:center;">
 			<a href="../images/specification/a-nsti-i/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/a-nsti-i/af.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-nsti-i/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 </table><br />
@@ -378,11 +378,11 @@ permalink: /specification2
 	<tr style="font-size:90%">
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/a-mod-i/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/a-mod-i/pd.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-mod-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:130px; text-align:center;">
 			<a href="../images/specification/a-mod-i/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/a-mod-i/af.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-mod-i/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 </table><br />
@@ -405,11 +405,11 @@ permalink: /specification2
 	<tr style="font-size:90%">
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/a-inh-i/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/a-inh-i/pd.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-inh-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:130px; text-align:center;">
 			<a href="../images/specification/a-inh-i/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/a-inh-i/af.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-inh-i/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 </table><br />
@@ -432,11 +432,11 @@ permalink: /specification2
 	<tr style="font-size:90%">
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/a-sti-a/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/a-sti-a/pd.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-sti-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/a-sti-a/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/a-sti-a/af.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-sti-a/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 </table><br />
@@ -458,11 +458,11 @@ permalink: /specification2
 	<tr style="font-size:90%">
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/a-cat-a/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/a-cat-a/pd.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-cat-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/a-cat-a/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/a-cat-a/af.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-cat-a/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 </table><br />
@@ -485,11 +485,11 @@ permalink: /specification2
 	<tr style="font-size:90%">
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/a-nsti-a/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/a-nsti-a/pd.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-nsti-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/a-nsti-a/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/a-nsti-a/af.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-nsti-a/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 </table><br />
@@ -512,11 +512,11 @@ permalink: /specification2
 	<tr style="font-size:90%">
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/a-mod-a/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/a-mod-a/pd.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-mod-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
 	<td style="width:300px; text-align:center;">
 			<a href="../images/specification/a-mod-a/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/a-mod-a/af.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-mod-a/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 </table><br />
@@ -539,14 +539,14 @@ permalink: /specification2
 	<tr style="font-size:90%">
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/a-inh-a/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/a-inh-a/pd.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-inh-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/a-inh-a/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/a-inh-a/af.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-inh-a/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
-</table><br />
+</table><br /><br />
 
 
 	
@@ -568,11 +568,11 @@ permalink: /specification2
 	<tr style="font-size:90%">
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/m-sti-m/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/m-sti-m/pd.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/m-sti-m/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/m-sti-m/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/m-sti-m/af.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/m-sti-m/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 </table><br />
@@ -596,11 +596,11 @@ permalink: /specification2
 	<tr style="font-size:90%">
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/m-cat-m/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/m-cat-m/pd.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/m-cat-m/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/m-cat-m/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/m-cat-m/af.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/m-cat-m/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 </table><br />
@@ -624,11 +624,11 @@ permalink: /specification2
 	<tr style="font-size:90%">
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/m-nsti-m/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/m-nsti-m/pd.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/m-nsti-m/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/m-nsti-m/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/m-nsti-m/af.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/m-nsti-m/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 </table><br />
@@ -652,11 +652,11 @@ permalink: /specification2
 	<tr style="font-size:90%">
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/m-mod-m/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/m-mod-m/pd.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/m-mod-m/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/m-mod-m/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/m-mod-m/af.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/m-mod-m/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 </table><br />
@@ -680,11 +680,11 @@ permalink: /specification2
 	<tr style="font-size:90%">
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/m-inh-m/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/m-inh-m/pd.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/m-inh-m/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/m-inh-m/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/m-inh-m/af.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/m-inh-m/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 </table><br />
@@ -713,11 +713,11 @@ permalink: /specification2
 	<tr style="font-size:90%">
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/a-catr-a/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/a-catr-a/pd.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-catr-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/a-catr-a/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/a-catr-a/af.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-catr-a/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 </table><br />
@@ -741,11 +741,11 @@ permalink: /specification2
 	<tr style="font-size:90%">
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/a-catr-i/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/a-catr-i/pd.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-catr-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/a-catr-i/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/a-catr-i/af.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-catr-i/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 </table><br />
@@ -769,11 +769,11 @@ permalink: /specification2
 	<tr style="font-size:90%">
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/i-inhr-a/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/i-inhr-a/pd.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/i-inhr-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/i-inhr-a/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/i-inhr-a/af.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/i-inhr-a/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 </table><br />
@@ -797,11 +797,11 @@ permalink: /specification2
 	<tr style="font-size:90%">
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/m-catr-m/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/m-catr-m/pd.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/m-catr-m/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/m-catr-m/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/m-catr-m/af.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/m-catr-m/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 </table><br />
@@ -826,11 +826,11 @@ permalink: /specification2
 	<tr style="font-size:90%">
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/m-inhr-m/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/m-inhr-m/pd.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/m-inhr-m/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
 			<a href="../images/specification/m-inhr-m/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=http://188.166.159.222/specification/m-inhr-m/af.sbgn" target="_blank">Newt</a>
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/m-inhr-m/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 </table><br />
