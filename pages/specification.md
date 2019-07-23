@@ -1533,7 +1533,7 @@ permalink: /specification
 
 
 
-<h2>Patterns</h2><br /><br /><br />
+<h2>Patterns</h2><br /><br />
    
 
 
