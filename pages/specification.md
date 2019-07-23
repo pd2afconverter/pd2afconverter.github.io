@@ -546,7 +546,7 @@ permalink: /specification
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-inh-a/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
-</table><br /><br />
+</table><br /><br /><br />
 
 
 
@@ -849,13 +849,13 @@ permalink: /specification
 
 
 	
-   <h3 style="color:red">1.33 logical gates or</h3><br /><br />
+   <h3 style="color:red">1.33 logical gates or</h3><br /><br /><br />
    
    
    
    
    
-<h2>Source And Sinks</h2>
+<h2>Source And Sinks</h2><br />
 	
 
 	
