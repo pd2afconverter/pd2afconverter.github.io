@@ -8,16 +8,16 @@ permalink: /specification2
   <body>
     <div class="container">
 
-   <h1>Specification of translation rules</h1>
+   # Specification of translation rules
 	
    <p>Here is the detailed specification for the translation rules</p><br />
 
-      
+   ### Posttranslational modification   
 
 	
 
 	
-   <h3>1. i-sti-i</h3>
+   <h3>1.1 i-sti-i</h3>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -44,7 +44,7 @@ permalink: /specification2
 
 	
 
-   <h3>2. i-cat-i</h3>
+   <h3>1.2 i-cat-i</h3>
 
 <table class="rules-table">
 	<tr>
@@ -71,7 +71,7 @@ permalink: /specification2
 
 	
 
-   <h3>3. i-nsti-i</h3>
+   <h3>1.3 i-nsti-i</h3>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -98,7 +98,7 @@ permalink: /specification2
 
 	
 
-   <h3>4. i-mod-i</h3>
+   <h3>1.4 i-mod-i</h3>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -124,7 +124,7 @@ permalink: /specification2
 
 	
 
-   <h3>5. i-inh-i</h3>
+   <h3>1.5 i-inh-i</h3>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -150,7 +150,7 @@ permalink: /specification2
 
 	
 
-   <h3>6. i-sti-a</h3>
+   <h3>1.6 i-sti-a</h3>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -176,7 +176,7 @@ permalink: /specification2
 
 	
 
-   <h3>7. i-cat-a</h3>
+   <h3>1.7 i-cat-a</h3>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -203,7 +203,7 @@ permalink: /specification2
 
 	
 
-   <h3>8. i-nsti-a</h3>
+   <h3>1.8 i-nsti-a</h3>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -230,7 +230,7 @@ permalink: /specification2
 
 	
 
-   <h3>9. i-mod-a</h3>
+   <h3>1.9 i-mod-a</h3>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -257,7 +257,7 @@ permalink: /specification2
 
 	
 
-   <h3>10. i-inh-a</h3>
+   <h3>1.10 i-inh-a</h3>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -284,7 +284,7 @@ permalink: /specification2
 
 	
 
-   <h3>11. a-sti-i</h3>
+   <h3>1.11 a-sti-i</h3>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -310,7 +310,7 @@ permalink: /specification2
 
 	
 
-   <h3>12. a-cat-i</h3>
+   <h3>1.12 a-cat-i</h3>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -337,7 +337,7 @@ permalink: /specification2
 
 	
 
-   <h3>13. a-nsti-i</h3>
+   <h3>11.13 a-nsti-i</h3>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -364,7 +364,7 @@ permalink: /specification2
 
 	
 
-   <h3>14. a-mod-i</h3>
+   <h3>1.14 a-mod-i</h3>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -391,7 +391,7 @@ permalink: /specification2
 
 	
 
-   <h3>15. a-inh-i</h3>
+   <h3>1.15 a-inh-i</h3>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -418,7 +418,7 @@ permalink: /specification2
 
 	
 
-   <h3>16. a-sti-a</h3>
+   <h3>1.16 a-sti-a</h3>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -444,7 +444,7 @@ permalink: /specification2
 
 	
 
-   <h3>17. a-cat-a</h3>
+   <h3>1.17 a-cat-a</h3>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -471,7 +471,7 @@ permalink: /specification2
 
 	
 
-   <h3>18. a-nsti-a</h3>
+   <h3>1.18 a-nsti-a</h3>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -498,7 +498,7 @@ permalink: /specification2
 
 	
 
-   <h3>19. a-mod-a</h3>
+   <h3>1.19 a-mod-a</h3>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -525,7 +525,7 @@ permalink: /specification2
 
 	
 
-   <h3>20. a-inh-a</h3>
+   <h3>1.20 a-inh-a</h3>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -550,10 +550,11 @@ permalink: /specification2
 
 
 	
+### Metabolic reactions
 
 	
 
-   <h3>21. m-sti-m</h3>
+   <h3>1.21 m-sti-m</h3>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -581,7 +582,7 @@ permalink: /specification2
 
 	
 
-   <h3>22. m-cat-m</h3>
+   <h3>1.22 m-cat-m</h3>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -609,7 +610,7 @@ permalink: /specification2
 
 	
 
-   <h3>23. m-nsti-m</h3>
+   <h3>1.23 m-nsti-m</h3>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -637,7 +638,7 @@ permalink: /specification2
 
 	
 
-   <h3>24. m-mod-m</h3>
+   <h3>1.24 m-mod-m</h3>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -665,7 +666,7 @@ permalink: /specification2
 
 	
 
-   <h3>25. m-inh-m</h3>
+   <h3>1.25 m-inh-m</h3>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -689,11 +690,16 @@ permalink: /specification2
 </table><br />
 
 
-	
+
 
 	
+   <h3 style="color:red">1.26 aiaimm-cat-aiiamm</h3><br />
 
-   <h3>25. a-catr-a</h3>
+	
+	
+	
+
+   <h3>1.27 a-catr-a</h3>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -721,7 +727,7 @@ permalink: /specification2
 
 	
 
-   <h3>26. a-catr-i</h3>
+   <h3>1.28 a-catr-i</h3>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -749,7 +755,7 @@ permalink: /specification2
 
 	
 
-   <h3>27. i-inhr-a</h3>
+   <h3>1.29 i-inhr-a</h3>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -777,7 +783,7 @@ permalink: /specification2
 
 	
 
-   <h3>28. m-catr-m</h3>
+   <h3>1.30 m-catr-m</h3>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -806,7 +812,7 @@ permalink: /specification2
 
 	
 
-   <h3>29. m-inhr-m</h3>
+   <h3>1.31 m-inhr-m</h3>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -828,6 +834,18 @@ permalink: /specification2
 		</td>
 	</tr>
 </table><br />
+
+
+
+
+	
+   <h3 style="color:red">1.32 logical gates</h3><br />
+   
+
+
+
+	
+   <h3 style="color:red">1.33 logical gates or</h3><br />
 
    </div>
   </body>
