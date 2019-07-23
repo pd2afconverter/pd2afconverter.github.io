@@ -963,6 +963,336 @@ permalink: /specification
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/a-inh-ss/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
+</table><br /><br /><br />
+   
+   
+   
+   
+   
+<h2>Oligomerization</h2><br />
+	
+
+	
+
+
+   <h3>3.1 Dimerization x2</h3>
+
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:130px; text-align:center;">
+			<div><img src="../images/specification/dimerization_x2/pd.png" width="78.4px" /></div>
+		</td>
+		<td style="width:130px; text-align:center;">
+			<img src="../images/specification/dimerization_x2/af.png" width="69.6px" />
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:130px; text-align:center;">
+			<a href="../images/specification/dimerization_x2/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/dimerization_x2/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="width:130px; text-align:center;">
+			<a href="../images/specification/dimerization_x2/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/dimerization_x2/af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
+</table><br />
+	
+
+	
+
+
+   <h3>3.2 Oligomerization x3</h3>
+
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:130px; text-align:center;">
+			<div><img src="../images/specification/oligomerization_x3/pd.png" width="78.4px" /></div>
+		</td>
+		<td style="width:130px; text-align:center;">
+			<img src="../images/specification/oligomerization_x3/af.png" width="69.6px" />
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:130px; text-align:center;">
+			<a href="../images/specification/oligomerization_x3/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/oligomerization_x3/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="width:130px; text-align:center;">
+			<a href="../images/specification/oligomerization_x3/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/oligomerization_x3/af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
+</table><br />
+	
+
+	
+
+
+   <h3>3.3 Oligomerization x4</h3>
+
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:130px; text-align:center;">
+			<div><img src="../images/specification/oligomerization_x4/pd.png" width="78.4px" /></div>
+		</td>
+		<td style="width:130px; text-align:center;">
+			<img src="../images/specification/oligomerization_x4/af.png" width="69.6px" />
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:130px; text-align:center;">
+			<a href="../images/specification/oligomerization_x4/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/oligomerization_x4/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="width:130px; text-align:center;">
+			<a href="../images/specification/oligomerization_x4/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/oligomerization_x4/af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
+</table><br />
+	
+
+	
+
+
+   <h3>3.4 Oligomerization x5</h3>
+
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:130px; text-align:center;">
+			<div><img src="../images/specification/oligomerization_x5/pd.png" width="78.4px" /></div>
+		</td>
+		<td style="width:130px; text-align:center;">
+			<img src="../images/specification/oligomerization_x5/af.png" width="69.6px" />
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:130px; text-align:center;">
+			<a href="../images/specification/oligomerization_x5/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/oligomerization_x5/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="width:130px; text-align:center;">
+			<a href="../images/specification/oligomerization_x5/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/oligomerization_x5/af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
+</table><br />
+	
+
+	
+
+
+   <h3>3.5 Oligomerization x6</h3>
+
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:130px; text-align:center;">
+			<div><img src="../images/specification/oligomerization_x6/pd.png" width="78.4px" /></div>
+		</td>
+		<td style="width:130px; text-align:center;">
+			<img src="../images/specification/oligomerization_x6/af.png" width="69.6px" />
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:130px; text-align:center;">
+			<a href="../images/specification/oligomerization_x6/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/oligomerization_x6/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="width:130px; text-align:center;">
+			<a href="../images/specification/oligomerization_x6/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/oligomerization_x6/af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
+</table><br />
+	
+
+	
+
+
+   <h3>3.6 Oligomerization x7</h3>
+
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:130px; text-align:center;">
+			<div><img src="../images/specification/oligomerization_x7/pd.png" width="78.4px" /></div>
+		</td>
+		<td style="width:130px; text-align:center;">
+			<img src="../images/specification/oligomerization_x7/af.png" width="69.6px" />
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:130px; text-align:center;">
+			<a href="../images/specification/oligomerization_x7/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/oligomerization_x7/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="width:130px; text-align:center;">
+			<a href="../images/specification/oligomerization_x7/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/oligomerization_x7/af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
+</table><br />
+	
+
+	
+
+
+   <h3>3.7 Oligomerization x8</h3>
+
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:130px; text-align:center;">
+			<div><img src="../images/specification/oligomerization_x8/pd.png" width="78.4px" /></div>
+		</td>
+		<td style="width:130px; text-align:center;">
+			<img src="../images/specification/oligomerization_x8/af.png" width="69.6px" />
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:130px; text-align:center;">
+			<a href="../images/specification/oligomerization_x8/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/oligomerization_x8/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="width:130px; text-align:center;">
+			<a href="../images/specification/oligomerization_x8/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/oligomerization_x8/af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
+</table><br />
+	
+
+	
+
+
+   <h3>3.8 Oligomerization x9</h3>
+
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:130px; text-align:center;">
+			<div><img src="../images/specification/oligomerization_x9/pd.png" width="78.4px" /></div>
+		</td>
+		<td style="width:130px; text-align:center;">
+			<img src="../images/specification/oligomerization_x9/af.png" width="69.6px" />
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:130px; text-align:center;">
+			<a href="../images/specification/oligomerization_x9/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/oligomerization_x9/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="width:130px; text-align:center;">
+			<a href="../images/specification/oligomerization_x9/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/oligomerization_x9/af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
+</table><br />
+	
+
+	
+
+
+   <h3>3.9 Oligomerization x10</h3>
+
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:130px; text-align:center;">
+			<div><img src="../images/specification/oligomerization_x10/pd.png" width="78.4px" /></div>
+		</td>
+		<td style="width:130px; text-align:center;">
+			<img src="../images/specification/oligomerization_x10/af.png" width="69.6px" />
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:130px; text-align:center;">
+			<a href="../images/specification/oligomerization_x10/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/oligomerization_x10/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="width:130px; text-align:center;">
+			<a href="../images/specification/oligomerization_x10/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/oligomerization_x10/af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
+</table><br />
+	
+
+	
+
+
+   <h3>3.10 Multimerization 1</h3>
+
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:130px; text-align:center;">
+			<div><img src="../images/specification/multimerization_1/pd.png" width="78.4px" /></div>
+		</td>
+		<td style="width:130px; text-align:center;">
+			<img src="../images/specification/multimerization_1/af.png" width="69.6px" />
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:130px; text-align:center;">
+			<a href="../images/specification/multimerization_1/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/multimerization_1/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="width:130px; text-align:center;">
+			<a href="../images/specification/multimerization_1/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/multimerization_1/af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
+</table><br />
+	
+
+	
+
+
+   <h3>3.11 Multimerization 2</h3>
+
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:130px; text-align:center;">
+			<div><img src="../images/specification/multimerization_2/pd.png" width="78.4px" /></div>
+		</td>
+		<td style="width:130px; text-align:center;">
+			<img src="../images/specification/multimerization_2/af.png" width="69.6px" />
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:130px; text-align:center;">
+			<a href="../images/specification/multimerization_2/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/multimerization_2/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="width:130px; text-align:center;">
+			<a href="../images/specification/multimerization_2/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/multimerization_2/af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
+</table><br />
+	
+
+	
+
+
+   <h3>3.12 Oligomerization x6 r</h3>
+
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:300px; text-align:center;">
+			<div><img src="../images/specification/oligomerization_x6_r/pd.png" width="153.6px" /></div>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<img src="../images/specification/oligomerization_x6_r/af.png" width="165.6px" />
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:300px; text-align:center;">
+			<a href="../images/specification/oligomerization_x6_r/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/oligomerization_x6_r/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<a href="../images/specification/oligomerization_x6_r/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org/images/specification/oligomerization_x6_r/af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
 </table><br />
 
    </div>
