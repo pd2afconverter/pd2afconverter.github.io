@@ -1514,7 +1514,7 @@ permalink: /specification
 			<div><img src="../images/specification/hidden_inhibition_2/pd.png" width="392px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="../images/specification/hidden_inhibition_2/af.png" width="69.6px" />
+			<img src="../images/specification/hidden_inhibition_2/af.png" width="229.6px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
