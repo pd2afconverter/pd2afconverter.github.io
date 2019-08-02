@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Specification
-permalink: /specification
+permalink: /specification_draft
 ---
 
 
   <body>
     <div class="container">
 
-   <h1>Specification of translation rules</h1>
+   <h1>Translation rules specification</h1>
 	
-   <p>Here is the detailed specification for the translation rules</p><br />
+   <p>Here is the specification for the translation rules. We start from most elementary patterns and follow with increasingly complex ones. All these patterns are also test cases for regression testing of the Converter program. With each case we ensure that converter code translates left-hand diagram exactly to the right-hand diagram, while both being considered as standalone schemes.</p><br />
 
    <h2>Posttranslational modification</h2><br />
 
