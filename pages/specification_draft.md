@@ -17,7 +17,7 @@ permalink: /specification_draft
 	
 
 	
-   <h4>1.1 i-sti-i</h4>
+   <h4 style="color:black">1.1 i-sti-i</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -44,7 +44,7 @@ permalink: /specification_draft
 
 	
 
-   <h4>1.2 i-cat-i</h4>
+   <h4 style="color:black">1.2 i-cat-i</h4>
 
 <table class="rules-table">
 	<tr>
@@ -71,7 +71,7 @@ permalink: /specification_draft
 
 	
 
-   <h4>1.3 i-nsti-i</h4>
+   <h4 style="color:black">1.3 i-nsti-i</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -98,7 +98,7 @@ permalink: /specification_draft
 
 	
 
-   <h4>1.4 i-mod-i</h4>
+   <h4 style="color:black">1.4 i-mod-i</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -124,7 +124,7 @@ permalink: /specification_draft
 
 	
 
-   <h4>1.5 i-inh-i</h4>
+   <h4 style="color:black">1.5 i-inh-i</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -150,7 +150,7 @@ permalink: /specification_draft
 
 	
 
-   <h4>1.6 i-sti-a</h4>
+   <h4 style="color:black">1.6 i-sti-a</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -176,7 +176,7 @@ permalink: /specification_draft
 
 	
 
-   <h4>1.7 i-cat-a</h4>
+   <h4 style="color:black">1.7 i-cat-a</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -203,7 +203,7 @@ permalink: /specification_draft
 
 	
 
-   <h4>1.8 i-nsti-a</h4>
+   <h4 style="color:black">1.8 i-nsti-a</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -230,7 +230,7 @@ permalink: /specification_draft
 
 	
 
-   <h4>1.9 i-mod-a</h4>
+   <h4 style="color:black">1.9 i-mod-a</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -257,7 +257,7 @@ permalink: /specification_draft
 
 	
 
-   <h4>1.10 i-inh-a</h4>
+   <h4 style="color:black">1.10 i-inh-a</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -284,7 +284,7 @@ permalink: /specification_draft
 
 	
 
-   <h4>1.11 a-sti-i</h4>
+   <h4 style="color:black">1.11 a-sti-i</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -310,7 +310,7 @@ permalink: /specification_draft
 
 	
 
-   <h4>1.12 a-cat-i</h4>
+   <h4 style="color:black">1.12 a-cat-i</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -337,7 +337,7 @@ permalink: /specification_draft
 
 	
 
-   <h4>11.13 a-nsti-i</h4>
+   <h4 style="color:black">11.13 a-nsti-i</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -364,7 +364,7 @@ permalink: /specification_draft
 
 	
 
-   <h4>1.14 a-mod-i</h4>
+   <h4 style="color:black">1.14 a-mod-i</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -391,7 +391,7 @@ permalink: /specification_draft
 
 	
 
-   <h4>1.15 a-inh-i</h4>
+   <h4 style="color:black">1.15 a-inh-i</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -418,7 +418,7 @@ permalink: /specification_draft
 
 	
 
-   <h4>1.16 a-sti-a</h4>
+   <h4 style="color:black">1.16 a-sti-a</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -444,7 +444,7 @@ permalink: /specification_draft
 
 	
 
-   <h4>1.17 a-cat-a</h4>
+   <h4 style="color:black">1.17 a-cat-a</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -471,7 +471,7 @@ permalink: /specification_draft
 
 	
 
-   <h4>1.18 a-nsti-a</h4>
+   <h4 style="color:black">1.18 a-nsti-a</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -498,7 +498,7 @@ permalink: /specification_draft
 
 	
 
-   <h4>1.19 a-mod-a</h4>
+   <h4 style="color:black">1.19 a-mod-a</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -525,7 +525,7 @@ permalink: /specification_draft
 
 	
 
-   <h4>1.20 a-inh-a</h4>
+   <h4 style="color:black">1.20 a-inh-a</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -558,7 +558,7 @@ permalink: /specification_draft
 
 
 
-   <h4>1.21 m-sti-m</h4>
+   <h4 style="color:black">1.21 m-sti-m</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -586,7 +586,7 @@ permalink: /specification_draft
 
 	
 
-   <h4>1.22 m-cat-m</h4>
+   <h4 style="color:black">1.22 m-cat-m</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -614,7 +614,7 @@ permalink: /specification_draft
 
 	
 
-   <h4>1.23 m-nsti-m</h4>
+   <h4 style="color:black">1.23 m-nsti-m</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -642,7 +642,7 @@ permalink: /specification_draft
 
 	
 
-   <h4>1.24 m-mod-m</h4>
+   <h4 style="color:black">1.24 m-mod-m</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -670,7 +670,7 @@ permalink: /specification_draft
 
 	
 
-   <h4>1.25 m-inh-m</h4>
+   <h4 style="color:black">1.25 m-inh-m</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -697,7 +697,7 @@ permalink: /specification_draft
 	
 	
 
-   <h4>1.27 a-catr-a</h4>
+   <h4 style="color:black">1.27 a-catr-a</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -725,7 +725,7 @@ permalink: /specification_draft
 
 	
 
-   <h4>1.28 a-catr-i</h4>
+   <h4 style="color:black">1.28 a-catr-i</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -753,7 +753,7 @@ permalink: /specification_draft
 
 	
 
-   <h4>1.29 i-inhr-a</h4>
+   <h4 style="color:black">1.29 i-inhr-a</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -781,7 +781,7 @@ permalink: /specification_draft
 
 	
 
-   <h4>1.30 m-catr-m</h4>
+   <h4 style="color:black">1.30 m-catr-m</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -810,7 +810,7 @@ permalink: /specification_draft
 
 	
 
-   <h4>1.31 m-inhr-m</h4>
+   <h4 style="color:black">1.31 m-inhr-m</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -843,7 +843,7 @@ permalink: /specification_draft
 	
 
 
-   <h4>2.1 ss-sti-i</h4>
+   <h4 style="color:black">2.1 ss-sti-i</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -870,7 +870,7 @@ permalink: /specification_draft
 
 	
 
-   <h4>2.2 i-sti-ss</h4>
+   <h4 style="color:black">2.2 i-sti-ss</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -897,7 +897,7 @@ permalink: /specification_draft
 
 	
 
-   <h4>2.3 a-cat-ss</h4>
+   <h4 style="color:black">2.3 a-cat-ss</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -924,7 +924,7 @@ permalink: /specification_draft
 
 	
 
-   <h4>2.4 a-inh-ss</h4>
+   <h4 style="color:black">2.4 a-inh-ss</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -957,7 +957,7 @@ permalink: /specification_draft
 	
 
 
-   <h4>3.1 Dimerization x2</h4>
+   <h4 style="color:black">3.1 Dimerization x2</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -984,7 +984,7 @@ permalink: /specification_draft
 	
 
 
-   <h4>3.2 Oligomerization x3</h4>
+   <h4 style="color:black">3.2 Oligomerization x3</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1011,7 +1011,7 @@ permalink: /specification_draft
 	
 
 
-   <h4>3.3 Oligomerization x4</h4>
+   <h4 style="color:black">3.3 Oligomerization x4</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1038,7 +1038,7 @@ permalink: /specification_draft
 	
 
 
-   <h4>3.4 Oligomerization x5</h4>
+   <h4 style="color:black">3.4 Oligomerization x5</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1065,7 +1065,7 @@ permalink: /specification_draft
 	
 
 
-   <h4>3.5 Oligomerization x6</h4>
+   <h4 style="color:black">3.5 Oligomerization x6</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1092,7 +1092,7 @@ permalink: /specification_draft
 	
 
 
-   <h4>3.6 Oligomerization x7</h4>
+   <h4 style="color:black">3.6 Oligomerization x7</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1119,7 +1119,7 @@ permalink: /specification_draft
 	
 
 
-   <h4>3.7 Oligomerization x8</h4>
+   <h4 style="color:black">3.7 Oligomerization x8</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1146,7 +1146,7 @@ permalink: /specification_draft
 	
 
 
-   <h4>3.8 Oligomerization x9</h4>
+   <h4 style="color:black">3.8 Oligomerization x9</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1173,7 +1173,7 @@ permalink: /specification_draft
 	
 
 
-   <h4>3.9 Oligomerization x10</h4>
+   <h4 style="color:black">3.9 Oligomerization x10</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1200,7 +1200,7 @@ permalink: /specification_draft
 	
 
 
-   <h4>3.10 Multimerization 1</h4>
+   <h4 style="color:black">3.10 Multimerization 1</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1227,7 +1227,7 @@ permalink: /specification_draft
 	
 
 
-   <h4>3.11 Multimerization 2</h4>
+   <h4 style="color:black">3.11 Multimerization 2</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1254,7 +1254,7 @@ permalink: /specification_draft
 	
 
 
-   <h4>3.12 Oligomerization x6 r</h4>
+   <h4 style="color:black">3.12 Oligomerization x6 r</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1287,7 +1287,7 @@ permalink: /specification_draft
 	
 
 
-   <h4>5.1 Complex association with complex name</h4>
+   <h4 style="color:black">5.1 Complex association with complex name</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1314,7 +1314,7 @@ permalink: /specification_draft
 	
 
 
-   <h4>5.2 Complex association</h4>
+   <h4 style="color:black">5.2 Complex association</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1341,7 +1341,7 @@ permalink: /specification_draft
 	
 
 
-   <h4>5.3 Complex association regulated</h4>
+   <h4 style="color:black">5.3 Complex association regulated</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1368,7 +1368,7 @@ permalink: /specification_draft
 	
 
 
-   <h4>5.4 Complex dissociation</h4>
+   <h4 style="color:black">5.4 Complex dissociation</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1401,7 +1401,7 @@ permalink: /specification_draft
 	
 
 
-   <h4>4.1 Translocation 1</h4>
+   <h4 style="color:black">4.1 Translocation 1</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1428,7 +1428,7 @@ permalink: /specification_draft
 	
 
 
-   <h4>4.2 Translocation 2</h4>
+   <h4 style="color:black">4.2 Translocation 2</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1461,7 +1461,7 @@ permalink: /specification_draft
 	
 
 
-   <h4>6.1 Hidden inhibition 1</h4>
+   <h4 style="color:black">6.1 Hidden inhibition 1</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1488,7 +1488,7 @@ permalink: /specification_draft
 
 
 	
-   <h4>6.2 Hidden inhibition 2</h4>
+   <h4 style="color:black">6.2 Hidden inhibition 2</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1521,7 +1521,7 @@ permalink: /specification_draft
 	
 
 
-   <h4>8.1 raf-mek-erk</h4>
+   <h4 style="color:black">8.1 raf-mek-erk</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1554,7 +1554,7 @@ permalink: /specification_draft
 	
 
 
-   <h4>9.1 Currency metabolites 1</h4>
+   <h4 style="color:black">9.1 Currency metabolites 1</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1581,7 +1581,7 @@ permalink: /specification_draft
 	
 
 
-   <h4>9.2 Noncurrency metabolites 1</h4>
+   <h4 style="color:black">9.2 Noncurrency metabolites 1</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1608,7 +1608,7 @@ permalink: /specification_draft
 	
 
 
-   <h4>9.3 Regulation combining 1</h4>
+   <h4 style="color:black">9.3 Regulation combining 1</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
