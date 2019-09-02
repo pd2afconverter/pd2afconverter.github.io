@@ -18,6 +18,10 @@ permalink: /specification_draft
 * [Source and sink](#source-and-sink)
 * [Oligomerisation](#oligomerisation)
 * [Complexes](#complexes)
+* [Translocation](#translocation)
+* [Hidden inhibition](#hidden-inhibition)
+* [Simple schemes](#simple-schemes)
+* [New schemes](#new-schemes)
 
 
 ## Posttranslational modification
@@ -1396,8 +1400,7 @@ permalink: /specification_draft
 
 
 
-
-<h2>Translocation</h2><br />
+## Translocation
 	
 
 	
@@ -1457,7 +1460,7 @@ permalink: /specification_draft
 
 
 
-<h2>Hidden Inhibition</h2><br />
+## Hidden inhibition
 	
 
 	
@@ -1517,7 +1520,7 @@ permalink: /specification_draft
 
 
 
-<h2>Simple Schemes</h2><br />
+## Simple schemes
 	
 
 	
@@ -1550,7 +1553,7 @@ permalink: /specification_draft
 
 
 
-<h2>New Schemes</h2><br />
+## New schemes
 	
 
 	
