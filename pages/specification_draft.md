@@ -4,14 +4,9 @@ title: Specification
 permalink: /specification_draft
 ---
 
-
-  <body>
-    <div class="container">
-
-   <h1>Translation rules specification</h1>
+# Translation rules specification
 	
-   <p>Here is the specification for the translation rules. We start from most elementary patterns and follow with increasingly complex ones. All these patterns are also test cases for regression testing of the Converter program. With each case we ensure that converter code translates left-hand diagram exactly to the right-hand diagram, while both being considered as standalone schemes.</p><br />
-   
+Here is the specification for the translation rules. We start from most elementary patterns and follow with increasingly complex ones. All these patterns are also test cases for regression testing of the Converter program. With each case we ensure that converter code translates left-hand diagram exactly to the right-hand diagram, while both being considered as standalone schemes.
 
 * [Posttranslational modification](#posttranslational-modification)
 * [Metabolic reactions](#metabolic-reactions)
@@ -23,8 +18,11 @@ permalink: /specification_draft
 * [Simple schemes](#simple-schemes)
 * [New schemes](#new-schemes)
 
-
+<body>
+    <div class="container">
+	    
 ## Posttranslational modification
+
 
    <h4 style="color:black">1.1 i-sti-i</h4>
 
