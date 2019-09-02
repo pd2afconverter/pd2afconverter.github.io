@@ -18,8 +18,6 @@ Here is the specification for the translation rules. We start from most elementa
 * [Simple schemes](#simple-schemes)
 * [New schemes](#new-schemes)
 
-<body>
-    <div class="container">
 	    
 ## Posttranslational modification
 
@@ -1635,6 +1633,3 @@ Here is the specification for the translation rules. We start from most elementa
 </table>
 
 
-
-   </div>
-  </body>
