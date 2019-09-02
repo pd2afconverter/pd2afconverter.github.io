@@ -11,12 +11,17 @@ permalink: /specification_draft
    <h1>Translation rules specification</h1>
 	
    <p>Here is the specification for the translation rules. We start from most elementary patterns and follow with increasingly complex ones. All these patterns are also test cases for regression testing of the Converter program. With each case we ensure that converter code translates left-hand diagram exactly to the right-hand diagram, while both being considered as standalone schemes.</p><br />
+   
 
-   <h2>Posttranslational modification</h2><br />
+* [Posttranslational modification](#posttranslational-modification)
+* [Metabolic reactions](#metabolic-reactions)
+* [Source and sink](#source-and-sink)
+* [Oligomerisation](#oligomerisation)
+* [Complexes](#complexes)
 
-	
 
-	
+## Posttranslational modification
+
    <h4 style="color:black">1.1 i-sti-i</h4>
 
 <table class="rules-table">
@@ -552,10 +557,7 @@ permalink: /specification_draft
 
 
 
-<h2>Metabolic reactions</h2><br />
-
-	
-
+## Metabolic reactions
 
 
    <h4 style="color:black">1.21 m-sti-m</h4>
@@ -837,7 +839,7 @@ permalink: /specification_draft
    
    
    
-<h2>Source And Sinks</h2><br />
+## Source and sink
 	
 
 	
@@ -951,7 +953,7 @@ permalink: /specification_draft
    
    
    
-<h2>Oligomerization</h2><br />
+## Oligomerisation
 	
 
 	
@@ -1281,7 +1283,7 @@ permalink: /specification_draft
 
 
 
-<h2>Complexes</h2><br />
+## Complexes
 	
 
 	
