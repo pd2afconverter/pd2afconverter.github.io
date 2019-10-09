@@ -731,6 +731,61 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/i-inhr-a/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
+</table><br />
+
+
+
+
+
+
+   <h4 style="color:black">9.1 Currency metabolites 1</h4>
+
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<div><img src="/images/specification/currency_metabolites_1/pd.png" width="232px" /></div>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<img src="/images/specification/currency_metabolites_1/af.png" width="69.6px" />
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<a href="/images/specification/currency_metabolites_1/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/currency_metabolites_1/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<a href="/images/specification/currency_metabolites_1/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/currency_metabolites_1/af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
+</table><br />
+	
+
+	
+
+
+   <h4 style="color:black">9.2 Noncurrency metabolites 1</h4>
+
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<div><img src="/images/specification/noncurrency_metabolites_1/pd.png" width="232px" /></div>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<img src="/images/specification/noncurrency_metabolites_1/af.png" width="289.6px" />
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<a href="/images/specification/noncurrency_metabolites_1/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/noncurrency_metabolites_1/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<a href="/images/specification/noncurrency_metabolites_1/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/noncurrency_metabolites_1/af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
 </table><br /><br /><br />
 
 
@@ -1665,103 +1720,14 @@ Associated terms: [SBO:0000185](https://identifiers.org/sbo/SBO:0000185) tranloc
 		</td>
 	</tr>
 </table><br /><br /><br />
-   
 
-
-
-
-## Simple schemes
-	
-
-	
-<span style="color:red">I don't think this is a rule, not sure it should be in this list.</span>
-
-   <h4 style="color:black">8.1 raf-mek-erk</h4>
-
-<table class="rules-table">
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/raf-mek-erk/pd.png" width="309.6px" /></div>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/raf-mek-erk/af.png" width="69.6px" />
-		</td>
-	</tr>
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/raf-mek-erk/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/raf-mek-erk/pd.sbgn" target="_blank">Newt</a>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/raf-mek-erk/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/raf-mek-erk/af.sbgn" target="_blank">Newt</a>
-		</td>
-	</tr>
-</table><br />
       
 
 
 
 
 ## New schemes
-	
 
-	
-
-
-   <h4 style="color:black">9.1 Currency metabolites 1</h4>
-
-<span style="color:red">I think this is rule should be moved to the "Posttranslational modifications".</span>
-
-<table class="rules-table">
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/currency_metabolites_1/pd.png" width="232px" /></div>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/currency_metabolites_1/af.png" width="69.6px" />
-		</td>
-	</tr>
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/currency_metabolites_1/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/currency_metabolites_1/pd.sbgn" target="_blank">Newt</a>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/currency_metabolites_1/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/currency_metabolites_1/af.sbgn" target="_blank">Newt</a>
-		</td>
-	</tr>
-</table><br />
-	
-
-	
-
-
-   <h4 style="color:black">9.2 Noncurrency metabolites 1</h4>
-
-<span style="color:red">I think this is rule should be moved to the "Posttranslational modifications".</span>
-
-<table class="rules-table">
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/noncurrency_metabolites_1/pd.png" width="232px" /></div>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/noncurrency_metabolites_1/af.png" width="289.6px" />
-		</td>
-	</tr>
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/noncurrency_metabolites_1/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/noncurrency_metabolites_1/pd.sbgn" target="_blank">Newt</a>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/noncurrency_metabolites_1/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/noncurrency_metabolites_1/af.sbgn" target="_blank">Newt</a>
-		</td>
-	</tr>
-</table><br />
 	
 
 	
