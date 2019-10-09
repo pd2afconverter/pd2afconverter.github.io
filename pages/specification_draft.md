@@ -741,7 +741,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 
 Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metabolic process
 
-<span style="color:red">There is a problem with the drawings of the reversible processes. We should redraw them. Also for 1.27, 1.28, 1.29</span>
+<span style="color:red">There is a problem with the drawings of the reversible processes. We should redraw them. (Also for 1.27, 1.28, 1.29)</span>
 
 
    <h4 style="color:black">1.21 m-sti-m</h4>
@@ -939,9 +939,7 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
    
    
    
-## Source and sink
-	
-<span style="color:red">Could we rename this section to "Production and degradation"?</span>
+## Production and degradation
 
 Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degradation
 	
