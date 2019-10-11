@@ -1222,7 +1222,7 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 	</tr>
 </table><br /><br /><br />
 
-### Oligomerisation
+### Multimerisation
 	
 <span style="color:red">In the same section we have multimerisation so couldn't we simply rename the section by "Multimerisation"?</span>
 
