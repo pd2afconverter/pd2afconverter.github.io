@@ -50,18 +50,18 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
 
 <table>
 <tr>
+<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/VasundraToure.jpg" width="160"/></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/IrinaBalaur.jpg" width="160"/></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/JohannPellet.jpg" width="160"/></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/CharlesAuffray.jpg" width="160"/></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/VasundraToure.jpg" width="160"/></p></td>
 </tr>
 </table>
 
 <table>
 <tr>
+<td style="width: 200px;"><p style="margin:4px;"><strong>Vasundra Toure</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Norwegian University of Science and Technology, Trondheim, Norway</font></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Irina Balaur</strong></p><p style="margin:4px; line-height:100%;"><font size="2">European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Johann Pellet</strong></p><p style="margin:4px; line-height:100%;"><font size="2">European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Charles Auffray</strong></p><p style="margin:4px; line-height:100%;"><font size="2">European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><strong>Vasundra Toure</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Norwegian University of Science and Technology, Trondheim, Norway</font></p></td>
 </tr>
 </table>
