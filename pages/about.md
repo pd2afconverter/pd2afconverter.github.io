@@ -6,9 +6,13 @@ permalink: /about
 
 # About
 
-PD2AF converter is an open-source application designed to enable communication between the Process Description and the Activity Flow languages of the SBGN standard. The PD2AF tool is built on and further develops the logic of the previously published template-based translation from PD to AF (Vogt et al., 2013, [doi:10.1186/1752-0509-7-115](https://doi.org/10.1186/1752-0509-7-115)) which is accessible as a functionality of the SBGN-ED add-on of the VANTED editor.  
+PD2AF converter is an open-source application designed to enable communication between the Process Description and the Activity Flow languages of the SBGN standard.   
 
-The converter uses the concept of the SBGN Bricks and additionally detects advanced network patterns such as, for example, "hidden" inhibition, when the mechanism is shown in details and no inhibition arcs are used.  
+The converter uses the concept of the SBGN Bricks and additionally detects advanced network patterns such as, for example, "hidden" inhibition, when the mechanism of inhibition is shown in details and no inhibition arcs are used.  
+
+## Acknowledgements
+
+The PD2AF tool is built on and further develops the logic of the previously published template-based translation from PD to AF (Vogt et al., 2013, [doi:10.1186/1752-0509-7-115](https://doi.org/10.1186/1752-0509-7-115)) which is accessible as a functionality of the SBGN-ED add-on of the VANTED editor.
 
 ## Availability
 
