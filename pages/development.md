@@ -6,7 +6,7 @@ permalink: /development
 
 # Development
 
-This page intorduces the features of the current version of the converter and outlines the expected future developments and the corresponding milestones.  
+This page describes the key features of the current version of the converter. <!--and outlines the expected future developments and the corresponding milestones.-->  
 
 ## Current version: PD2AF 1.0
 
