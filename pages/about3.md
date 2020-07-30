@@ -91,19 +91,19 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
 
 <table>
 <tr>
+<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/YohanJarosz.jpg" width="160"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/ChristopheTrefois.jpg" width="160"/></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/MarekOstaszewski.jpg" width="160"/></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/ReinhardSchneider.jpg" width="160"/></p></td>
-<td style="width: 200px;"> </td>
-<td style="width: 200px;"> </td>
 </tr>
 </table>
 
 <table>
 <tr>
+<td style="width: 200px;"><p style="margin:4px;"><strong>Yohan Jarosz</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg</font></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><strong>Christophe Trefois</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg</font></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Marek Ostaszewski</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg</font></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Reinhard Schneider</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg</font></p></td>
-<td style="width: 200px;"> </td>
-<td style="width: 200px;"> </td>
 </tr>
 </table>
 
