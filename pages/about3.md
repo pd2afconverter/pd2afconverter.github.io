@@ -67,7 +67,7 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
 </tr>
 </table>
 
-### CaSQ team
+### Collaborators from the CaSQ team
 
 <table>
 <tr>
