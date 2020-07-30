@@ -29,6 +29,8 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
 
 ## Project Team
 
+### Development and conversion rules
+
 <table>
 <tr>
 <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/DenisShirshov.jpg" width="160"/></p></td>
@@ -47,13 +49,12 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
 </tr>
 </table>
 
-
 <table>
 <tr>
 <td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/VasundraToure.jpg" width="160"/></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/IrinaBalaur.jpg" width="160"/></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/JohannPellet.jpg" width="160"/></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/CharlesAuffray.jpg" width="160"/></p></td>
+<td style="width: 200px;"> </td>
+<td style="width: 200px;"> </td>
 </tr>
 </table>
 
@@ -61,8 +62,68 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
 <tr>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Vasundra Toure</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Norwegian University of Science and Technology, Trondheim, Norway</font></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Irina Balaur</strong></p><p style="margin:4px; line-height:100%;"><font size="2">European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
+<td style="width: 200px;"> </td>
+<td style="width: 200px;"> </td>
+</tr>
+</table>
+
+### CaSQ team
+
+<table>
+<tr>
+<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/AnnaNiarakis.jpg" width="160"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/SylvainSoliman.jpg" width="160"/></p></td>
+<td style="width: 200px;"> </td>
+<td style="width: 200px;"> </td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td style="width: 200px;"><p style="margin:4px;"><strong>Anna Niarakis</strong></p><p style="margin:4px; line-height:100%;"><font size="2">University of Evry, University of Paris-Saclay, Evry, France</font></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><strong>Sylvain Soliman</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Lifeware Group, Inria Saclay-Île de France, Palaiseau, France</font></p></td>
+<td style="width: 200px;"> </td>
+<td style="width: 200px;"> </td>
+</tr>
+</table>
+
+### Support at the LCSB
+
+<table>
+<tr>
+<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/MarekOstaszewski.jpg" width="160"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/ReinhardSchneider.jpg" width="160"/></p></td>
+<td style="width: 200px;"> </td>
+<td style="width: 200px;"> </td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td style="width: 200px;"><p style="margin:4px;"><strong>Marek Ostaszewski</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg</font></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><strong>Reinhard Schneider</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg</font></p></td>
+<td style="width: 200px;"> </td>
+<td style="width: 200px;"> </td>
+</tr>
+</table>
+
+### Support at the EISBM
+
+<table>
+<tr>
+<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/JohannPellet.jpg" width="160"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/CharlesAuffray.jpg" width="160"/></p></td>
+<td style="width: 200px;"> </td>
+<td style="width: 200px;"> </td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Johann Pellet</strong></p><p style="margin:4px; line-height:100%;"><font size="2">European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Charles Auffray</strong></p><p style="margin:4px; line-height:100%;"><font size="2">European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
+<td style="width: 200px;"> </td>
+<td style="width: 200px;"> </td>
 </tr>
 </table>
 
