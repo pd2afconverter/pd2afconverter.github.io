@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Translation rules
+title: Conversion rules
 permalink: /rules/
 ---
 
