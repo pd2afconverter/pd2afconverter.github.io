@@ -139,6 +139,6 @@ The PD2AF tool is built on and further develops the logic of the previously publ
 
 The PD2AF tool is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/).  
 
-The terms of the [Creative Commons Public Domain (CC0)](https://creativecommons.org/publicdomain/zero/1.0/) License apply to all examples files.  
+<!--The terms of the [Creative Commons Public Domain (CC0) License](https://creativecommons.org/publicdomain/zero/1.0/) apply to all examples files.  -->
 
 
