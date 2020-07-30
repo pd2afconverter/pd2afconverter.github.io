@@ -8,9 +8,7 @@ permalink: /about
 
 PD2AF converter is an open-source application designed to enable communication between the Process Description and the Activity Flow languages of the SBGN standard. The converter uses the concept of the SBGN Bricks and additionally detects advanced network patterns such as, for example, "hidden" inhibition, when the mechanism of inhibition is shown in details and no inhibition arcs are used.  
 
-## Acknowledgements
 
-The PD2AF tool is built on and further develops the logic of the previously published template-based translation from PD to AF (Vogt et al., 2013, [doi:10.1186/1752-0509-7-115](https://doi.org/10.1186/1752-0509-7-115)) which is accessible as a functionality of the SBGN-ED add-on of the VANTED editor.
 
 ## Availability
 
@@ -26,8 +24,6 @@ Converter engine: [https://github.com/pd2af/converter](https://github.com/pd2af/
 ## Contact
 
 To contribute and discuss the project please use this email address: [pd2af@googlegroups.com](mailto:pd2af@googlegroups.com)  
-Lead developer: Denis Shirshov [denis.shirshov@gmail.com ](mailto:denis.shirshov@gmail.com )  
-PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein@gmail.com)  
 
 ## Project Team
 
@@ -67,3 +63,13 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
 <td style="width: 200px;"><p style="margin:4px;"><strong>Charles Auffray</strong></p><p style="margin:4px; line-height:100%;"><font size="2">European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
 </tr>
 </table>
+
+## Funding
+
+This work was supported in part by the Innovative Medicines Initiative Joint Undertaking under grant agreement no. IMI 115446 (eTRIKS), resources of which are composed of financial contribution from the European Union's Seventh Framework Programme (FP7/2007-2013) and EFPIA companies.
+
+## Acknowledgements
+
+The PD2AF tool is built on and further develops the logic of the previously published template-based translation from PD to AF (Vogt et al., 2013, [doi:10.1186/1752-0509-7-115](https://doi.org/10.1186/1752-0509-7-115)) which is accessible as a functionality of the SBGN-ED add-on of the VANTED editor.
+
+
