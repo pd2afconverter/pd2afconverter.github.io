@@ -18,7 +18,7 @@ For convenient development and testing, we have developed the following infrastr
 
 The infrustructure modules:  
 
-- **Webpages generator** processes HTML and CSS templates into the corresponding HTML, CSS and SVG files. It works similar to template engines such as JSP or Django Template Language or SASS and additionally allows inserting Racket code snippets.  
+- **Webpages generator** processes HTML and CSS templates into the corresponding HTML, CSS and SVG files. It works similar to template engines such as JSP or Django template language or SASS and additionally allows inserting Racket code snippets.  
 - **Knowledge tree reader** handles files in .tree format, which is specially invented for the convenient textual encoding of the key-value objects in the hierarchy. This model is useful for structuring knowledge.  
 - **SBGN-Lisp language** employs a special Lisp-like syntax and related tools that allow writing SBGN maps in the form of sexp expressions. This allows coding otherwise graphical diagrams in the form of human-readable text. 
 - **PD2AF converter** translates SBGN Process Description diagrams into SBGN Activity Flow. It also converts SBGN-ML to sexp expressions and sexp expression back to SBGN-ML.  
