@@ -10,9 +10,9 @@ This page outlines the features of the current version of the converter.
 
 ### PD2AF version 1.0
 
-The implemented logic takes into account on the work by Vogt and coauthors (Vogt et al., 2013, [doi: 10.1186/1752-0509-7-115](https://doi.org/10.1186/1752-0509-7-115)) and further develops the logic to minimise the number of complexes in AF version and to introduce pattern recognition functionalities. In particular, the PD2AF tool inlcudes pattern recognition functionality for removing "intermediate" complexes that do not add new information to the AF representation and the corresponding Boolean models. There is also an advnanced functuionality for identifying so-called "hidden" inhibition when inhibition mechanisms is represented without using the _inhibition_ arc.  
+The implemented logic takes into account on the work by Vogt and coauthors (Vogt et al., 2013, [doi: 10.1186/1752-0509-7-115](https://doi.org/10.1186/1752-0509-7-115)) and further develops the logic to minimise the number of complexes in AF version and to introduce pattern recognition functionalities. In particular, the PD2AF tool inlcudes pattern recognition functionality for removing "intermediate" complexes that can be omitted in the AF representation and the corresponding Boolean models. There is also an advnanced functuionality for identifying so-called "hidden" inhibition when inhibition mechanisms is represented without using the _inhibition_ arc.  
 
-For convenient development and testing of the converter, we have developed the following infrastructure.  
+For convenient development and testing, we have developed the following infrastructure.  
 
 ![Figure 2](/images/development/components.png)
 
