@@ -10,7 +10,7 @@ PD2AF converter is an open-source application designed to enable communication b
 
 ## Availability
 
-The tools is available at [http://pd2af.lcsb.uni.lu](http://pd2af.lcsb.uni.lu/). The code is available at [http://git-r3lab.uni.lu/elixir/pd2af](http://git-r3lab.uni.lu/elixir/pd2af).
+The tool is available at [http://pd2af.lcsb.uni.lu](http://pd2af.lcsb.uni.lu/). The code is available at [http://git-r3lab.uni.lu/elixir/pd2af](http://git-r3lab.uni.lu/elixir/pd2af).
 
 <!--
 ## Availability
@@ -22,8 +22,8 @@ Converter engine: [https://github.com/pd2af/converter](https://github.com/pd2af/
 ## Contact
 
 To contribute and discuss the project please use this email address: [pd2af@googlegroups.com](mailto:pd2af@googlegroups.com)  
-Lead developer: Denis Shirshov [denis.shirshov@gmail.com](mailto:denis.shirshov@gmail.com)  
-PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein@gmail.com) 
+<!--Lead developer: Denis Shirshov [denis.shirshov@gmail.com](mailto:denis.shirshov@gmail.com)  
+PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein@gmail.com) -->
 
 ## Project Team
 
