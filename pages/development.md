@@ -10,10 +10,16 @@ This page outlines the features of the current version of the converter.
 
 ### PD2AF version 1.0
 
-The implemented logic takes into account on the work by Vogt and coauthors (Vogt et al., 2013, [doi: 10.1186/1752-0509-7-115](https://doi.org/10.1186/1752-0509-7-115)) and further develops the logic to minimise the number of complexes in AF version and to introduce pattern recognition functionalities.
+The implemented logic takes into account on the work by Vogt and coauthors (Vogt et al., 2013, [doi: 10.1186/1752-0509-7-115](https://doi.org/10.1186/1752-0509-7-115)) and further develops the logic to minimise the number of complexes in AF version and to introduce pattern recognition functionalities. In particular, the PD2AF tool inlcudes pattern recognition functionality for removing "intermediate" complexes that do not add new information to the AF representation and the corresponding Boolean models. There is also an advnanced functuionality for identifying so-called "hidden" inhibition when inhibition mechanisms is represented without using the _inhibition_ arc.  
 
-What is new in the Milestone 1 PD2AF version 1.0:
-1. The code is written in Lisp programming language and is accessible on [GitHub](https://github.com/pd2af/converter).
-1. Added pattern recognition for removing "intermediate" complexes.
-1. Added pattern recognition for so-called "hidden" inhibition when events are shown in details without using the _inhibition_ arc.
+For convenient implementation and testing of  the converter functions, we have developed an infrastructure around it (see the figure below).  
+
+![Figure 1](..images/development/application_components.png)
+
+This infrustructure includes the following modules:  
+
+1. **Webpages generator** processes HTML and CSS templates into the corresponding HTML, CSS and SVG files. It works similar to template engines such as JSP or Django Template Language or SASS and additionally allows inserting Racket code snippets.  
+1. **Knowledge tree reader** handles files in .tree format, which is specially invented for the convenient textual encoding of the key-value objects in the hierarchy. This model is useful for structuring knowledge.  
+1. **SBGN-Lisp language** employs a special Lisp-like syntax and related tools that allow writing SBGN maps in the form of sexp expressions. This allows coding otherwise graphical diagrams in the form of human-readable text. 
+1. **PD2AF converter** translates SBGN Process Description diagrams into SBGN Activity Flow. It also converts SBGN-ML to sexp expressions and sexp expression back to SBGN-ML.  
 
