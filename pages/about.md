@@ -14,7 +14,7 @@ Related friendly efforts include [SBGN Bricks](http://sbgnbricks.org/) (Junker e
 
 ### Availability
 
-The tool is available at [http://pd2af.lcsb.uni.lu](http://pd2af.lcsb.uni.lu/). The code is available at [http://git-r3lab.uni.lu/elixir/pd2af](http://git-r3lab.uni.lu/elixir/pd2af).
+The converter is available at [http://pd2af.lcsb.uni.lu](http://pd2af.lcsb.uni.lu/). The code is available at [http://git-r3lab.uni.lu/elixir/pd2af](http://git-r3lab.uni.lu/elixir/pd2af).
 
 <!--
 ## Availability
