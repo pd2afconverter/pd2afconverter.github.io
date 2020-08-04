@@ -83,8 +83,8 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
 
 <table>
 <tr>
-<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/JohannPellet.jpg" width="160"/></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/CharlesAuffray.jpg" width="160"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/JohannPellet.jpg" width="160"/></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/ChristopheTrefois.jpg" width="160"/></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/ReinhardSchneider.jpg" width="160"/></p></td>
 </tr>
@@ -92,8 +92,8 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
 
 <table>
 <tr>
-<td style="width: 200px;"><p style="margin:4px;"><strong>Johann Pellet</strong></p><p style="margin:4px; line-height:100%;"><font size="2">European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Charles Auffray</strong></p><p style="margin:4px; line-height:100%;"><font size="2">European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><strong>Johann Pellet</strong></p><p style="margin:4px; line-height:100%;"><font size="2">European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Christophe Trefois</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg</font></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Reinhard Schneider</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg</font></p></td>
 </tr>
