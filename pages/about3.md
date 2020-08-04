@@ -10,7 +10,7 @@ PD2AF converter is an open-source application designed to enable communication b
 
 The development was initiated within the [eTRIKS](https://www.etriks.org/) project as a collaboration between the European Institute for Systems Biology and Medicine in France and the Institute of Cell Biophysics in Russia. It includes the defenition and visualisation of the conversion rules and the online converter. The code was developed by Denis Shirshov, a volunteer software developer. Now the converter is supported by the Luxembourg Centre for Systems Biomedicine (LCSB) within the [ELIXIR](https://elixir-europe.org/) framework. 
 
-Related friendly efforts include [CaSQ](https://gitlab.inria.fr/soliman/casq) (Aghamiri et al., 2020, [PMID: 32403123](https://pubmed.ncbi.nlm.nih.gov/32403123/)), the [Newt Editor](http://newteditor.org/) and the [SBGN-ED](http://www.sbgn-ed.org/) tool (Vogt et al., 2013, [PMID: 24176088](https://pubmed.ncbi.nlm.nih.gov/24176088/)).
+Related friendly efforts include [SBGN Bricks](http://sbgnbricks.org/) (Junker et al., 2012, [PMID: 22979995](https://www.ncbi.nlm.nih.gov/pubmed/22979995)), the [Newt Editor](http://newteditor.org/), [CaSQ](https://gitlab.inria.fr/soliman/casq) (Aghamiri et al., 2020, [PMID: 32403123](https://pubmed.ncbi.nlm.nih.gov/32403123/)) and the [SBGN-ED](http://www.sbgn-ed.org/) tool (Vogt et al., 2013, [PMID: 24176088](https://pubmed.ncbi.nlm.nih.gov/24176088/)).
 
 ### Availability
 
