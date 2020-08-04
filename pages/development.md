@@ -16,7 +16,7 @@ For convenient development and testing of the converter, we have developed the f
 
 ![Figure 2](/images/development/components.png)
 
-The infrustructure includes four modules:  
+The infrustructure modules:  
 
 - **Webpages generator** processes HTML and CSS templates into the corresponding HTML, CSS and SVG files. It works similar to template engines such as JSP or Django Template Language or SASS and additionally allows inserting Racket code snippets.  
 - **Knowledge tree reader** handles files in .tree format, which is specially invented for the convenient textual encoding of the key-value objects in the hierarchy. This model is useful for structuring knowledge.  
