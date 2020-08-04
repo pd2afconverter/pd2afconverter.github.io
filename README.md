@@ -1,13 +1,6 @@
-# SBGN Bricks
+# PD2AF website [pd2af.org](https://www.pd2af.org/)
 
-## SBGN Bricks 2.0
+Converter location: [http://pd2af.lcsb.uni.lu](http://pd2af.lcsb.uni.lu)
 
-The changes in comparison to the previously release set of bricks (Junker et al., 2012, [doi: 10.1016/j.tibtech.2012.08.003](http://dx.doi.org/doi: 10.1016/j.tibtech.2012.08.003)):
+The code is available at [http://git-r3lab.uni.lu/elixir/pd2af](http://git-r3lab.uni.lu/elixir/pd2af)
 
-1. Introduced different types of posttranslational modification in addition to _phosphorylation_ bricks  
-1. Added advanced patterns for various types of _inhibition_ (detailed, without using the _inhibition_ arc).
-
-### PD2AF: what is new in comparison to Vogt et al., 2013, doi: 10.1186/1752-0509-7-115
-
-1. Added pattern recognition for removing "intermediate" complexes.
-1. Added pattern recognition for some types of inhibition (detailed, without using the _inhibition_ arc).
