@@ -8,7 +8,7 @@ permalink: /about3/
 
 PD2AF converter is an open-source application designed to enable communication between the Process Description and the Activity Flow languages of the SBGN standard.  
 
-The development was initiated within the [eTRIKS](https://www.etriks.org/) project as a collaboration between the European Institute for Systems Biology and Medicine (EISBM) in France and the Institute of Cell Biophysics (ICB) in Russia. It includes the defenition and visualistation of the conversion rules and the online converter. The code was developed by Denis Shirshov, a volunteer software developer at the EISBM. Now the converter is supported by the Luxembourg Centre for Systems Biomedicine (LCSB) within the [ELIXIR](https://elixir-europe.org/) framework. 
+The development was initiated within the [eTRIKS](https://www.etriks.org/) project as a collaboration between the European Institute for Systems Biology and Medicine (EISBM) in France and the Institute of Cell Biophysics (ICB) in Russia. It includes the defenition and visualisation of the conversion rules and the online converter. The code was developed by Denis Shirshov, a volunteer software developer at the EISBM. Now the converter is supported by the Luxembourg Centre for Systems Biomedicine (LCSB) within the [ELIXIR](https://elixir-europe.org/) framework. 
 
 Related friendly efforts include the [CaSQ](https://gitlab.inria.fr/soliman/casq) tool (Aghamiri et al., 2020, [doi:10.1093/bioinformatics/btaa484](https://doi.org/10.1093/bioinformatics/btaa484)), the [Newt Editor](http://newteditor.org/) and the SBGN-ED tool (Vogt et al., 2013, [doi:10.1186/1752-0509-7-115](https://doi.org/10.1186/1752-0509-7-115)).
 
