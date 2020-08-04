@@ -10,7 +10,7 @@ PD2AF converter is an open-source application designed to enable communication b
 
 ## Availability
 
-The tools is in development. The code is available at [https://github.com/pd2af](https://github.com/pd2af).
+The tools is available at [http://pd2af.lcsb.uni.lu](http://pd2af.lcsb.uni.lu/). The code is available at [http://git-r3lab.uni.lu/elixir/pd2af](http://git-r3lab.uni.lu/elixir/pd2af).
 
 <!--
 ## Availability
