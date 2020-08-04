@@ -12,9 +12,9 @@ This page outlines the features of the current version of the converter.
 
 The implemented logic takes into account on the work by Vogt and coauthors (Vogt et al., 2013, [doi: 10.1186/1752-0509-7-115](https://doi.org/10.1186/1752-0509-7-115)) and further develops the logic to minimise the number of complexes in AF version and to introduce pattern recognition functionalities. In particular, the PD2AF tool inlcudes pattern recognition functionality for removing "intermediate" complexes that do not add new information to the AF representation and the corresponding Boolean models. There is also an advnanced functuionality for identifying so-called "hidden" inhibition when inhibition mechanisms is represented without using the _inhibition_ arc.  
 
-For convenient implementation and testing of  the converter functions, we have developed an infrastructure around it (see the figure below).  
+For convenient implementation and testing of  the converter functions, we have developed an infrastructure around it.  
 
-![Figure 1](/images/development/components.png)
+![Figure 2](/images/development/components.png)
 
 This infrustructure includes the following modules:  
 
