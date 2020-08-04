@@ -14,7 +14,7 @@ The implemented logic takes into account on the work by Vogt and coauthors (Vogt
 
 For convenient implementation and testing of  the converter functions, we have developed an infrastructure around it (see the figure below).  
 
-![Figure 1](..images/development/application_components.png)
+![Figure 1](..images/development/components.png)
 
 This infrustructure includes the following modules:  
 
