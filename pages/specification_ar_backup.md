@@ -1,8 +1,10 @@
 ---
 layout: default
 title: Specification
-permalink: /specification_draft_backup
+permalink: /specification_ar_backup
 ---
+
+Comments from Adrien Rougny
 
 <span style="color:red">I have three main comments:</span>
 <ol>
