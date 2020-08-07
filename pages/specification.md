@@ -1534,12 +1534,7 @@ Associated terms: [SBO:0000185](https://identifiers.org/sbo/SBO:0000185) tranloc
 </table><br />
 	
 
-	
-
-
    <h4 style="color:black">4.2 Transport</h4>
-
-<span style="color:red">Renamed to transport.</span>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1564,12 +1559,7 @@ Associated terms: [SBO:0000185](https://identifiers.org/sbo/SBO:0000185) tranloc
 
 
 
-
-
 ## 8. Hidden inhibition
-	
-<span style="color:red">Could not find any associated terms for this category.</span>
-	
 
 
    <h4 style="color:black">6.1 Hidden inhibition 1</h4>
