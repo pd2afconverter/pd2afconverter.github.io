@@ -1024,8 +1024,7 @@ Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degrada
 
 Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-covalent binding, [SBO:0000180](https://identifiers.org/sbo/SBO:0000180) dissociation, [GO:0005488](https://identifiers.org/quickgo/GO:0005488) binding
 	
-<span style="color:red">We may use the term "heterocomplex" to differentiate from oligomers</span>
-
+	
    <h4 style="color:black">5.1 Heterocomplex association (named complex)</h4>
 
 <table class="rules-table">
@@ -1507,8 +1506,6 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 
 
 ## 7. Translocation and transport
-
-<span style="color:red">Renamed to "Translocation and transport", because "regulated translocation" is a transport following the SBO.</span>
 	
 Associated terms: [SBO:0000185](https://identifiers.org/sbo/SBO:0000185) tranlocation reaction, [SBO:0000655](https://identifiers.org/quickgo/SBO:0000655) transport reaction, [GO:0006810](https://identifiers.org/quickgo/GO:0006810) transport
 	
