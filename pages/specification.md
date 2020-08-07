@@ -4,7 +4,7 @@ title: Specification
 permalink: /specification
 ---
 
-# Specification of the PD2AF converter version 1.0
+# PD2AF 1.0 Specification
 
 1. [Rules for finding active EPNs](rules-for-finding-active-epns)
 1. [Activation and deactivation](activation-and-deactivation)
