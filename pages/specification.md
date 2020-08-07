@@ -11,12 +11,9 @@ permalink: /specification
 [3. Metabolic reactions](#3-metabolic-reactions)  
 [4. Production and degradation (empty set)](#4-production-and-degradation)  
 [5. Heterocomplex association and dissociation](#5-heterocomplex-association-and-dissociation)  
-[6. Multimerisation](#6-multimerisation)
-[Complexes](#complexes)  
-[Translocation](#translocation)  
-[Hidden inhibition](#hidden-inhibition)  
-[Simple schemes](#simple-schemes)  
-[New schemes](#new-schemes)  
+[6. Multimerisation](#6-multimerisation)  
+[7. Translocation and transport](7-ranslocation-and-transport)  
+[8. Hidden inhibition](#8-hidden-inhibition)  
 
 This page offers the specification of the conversion rules. That includes identification of active entities and the translation of Process Description (PD) expressions to Activity Flow (AF) expressions. For each case we ensured that the converter translates exactly as shown: each left-hand diagram (PD) transforms into the corresponding right-hand diagram (AF).
 
@@ -1704,42 +1701,4 @@ Associated terms: [SBO:0000185](https://identifiers.org/sbo/SBO:0000185) tranloc
 		</td>
 	</tr>
 </table><br /><br /><br />
-
-      
-
-
-
-
-## 9. New schemes
-
-	
-
-	
-
-
-   <h4 style="color:black">9.3 Regulation combining 1</h4>
-
-<span style="color:red">Is this a unique rule, implemented in the converter? It could be a rule among others that allow transforming logical operators (for example this rule could also work with an "AND" operator).</span>
-
-<table class="rules-table">
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/regulation_combining_1/pd.png" width="232px" /></div>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/regulation_combining_1/af.png" width="229.6px" />
-		</td>
-	</tr>
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/regulation_combining_1/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/regulation_combining_1/pd.sbgn" target="_blank">Newt</a>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/regulation_combining_1/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/regulation_combining_1/af.sbgn" target="_blank">Newt</a>
-		</td>
-	</tr>
-</table>
-
 
