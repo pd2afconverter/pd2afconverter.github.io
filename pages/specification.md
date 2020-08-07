@@ -1141,6 +1141,17 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 
 ## 6. Multimerisation
 
+### 6.1 PD2AF:MULTIM
+
+| X = Y            | X = Y            | X = Y            | X = Y            |
+|------------------|------------------|------------------|------------------|
+| 2 = dimer        | 7 = hexadecamer | 12 = hexadecamer | 17 = hexadecamer |
+| 3 = trimer       | 8 = hexadecamer | 13 = hexadecamer | 18 = hexadecamer |
+| 4 = tetramer     | 9 = hexadecamer | 14 = hexadecamer | 19 = hexadecamer |
+| 5 = pentamer     | 10 = hexadecamer | 15 = hexadecamer | 20 = hexadecamer |
+| 6 = hexamer      | 11 = hexadecamer | 16 = hexadecamer | 21 = 21-mer |
+
+
 <span style="color:red">All the following rules could be grouped into a unique entry for the sake of succintness: we could rename the section to "Homo-multimerisation", write the label of the unit of information on the multimer as "N:X", the label of the target biological activity as "A-Y", and add a table like the following one, for example:</span>
 
 <table style="color:red">
