@@ -6,16 +6,16 @@ permalink: /specification
 
 # PD2AF 1.0 Specification
 
-1. [Rules for finding active EPNs](rules-for-finding-active-epns)
-1. [Activation and deactivation](activation-and-deactivation)
-1. [Metabolic reactions](#metabolic-reactions)
-1. [Source and sink](#source-and-sink)
-1. [Oligomerisation](#oligomerisation)
-1. [Complexes](#complexes)
-1. [Translocation](#translocation)
-1. [Hidden inhibition](#hidden-inhibition)
-1. [Simple schemes](#simple-schemes)
-1. [New schemes](#new-schemes)
+[Rules for finding active EPNs](rules-for-finding-active-epns)  
+[Activation and deactivation (posttranslational modifications)](activation-and-deactivation)  
+[Metabolic reactions](#metabolic-reactions)  
+[Source and sink](#source-and-sink)  
+[Oligomerisation](#oligomerisation)  
+[Complexes](#complexes)  
+[Translocation](#translocation)  
+[Hidden inhibition](#hidden-inhibition)  
+[Simple schemes](#simple-schemes)  
+[New schemes](#new-schemes)  
 
 This page offers the specification of the conversion rules. That includes identification of active entities and the translation of Process Description (PD) expressions to Activity Flow (AF) expressions. For each case we ensured that the converter translates exactly as shown: each left-hand diagram (PD) transforms into the corresponding right-hand diagram (AF).
 
@@ -23,9 +23,8 @@ This page offers the specification of the conversion rules. That includes identi
 
 Following are the rules that define which EPNs are active.
 
-#### 1.1 PD2AF1:ACT
 
-   <h4 style="color:black">1.1 (earlier 0.1) PD2AF1:ACT (act)</h4>
+   <h4 style="color:black">1.1 PD2AF:ACT (0.1 act)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -38,9 +37,8 @@ Following are the rules that define which EPNs are active.
 	</tr>
 </table>
 
-#### 1.2 PD2AF1:MOD
 
-   <h4 style="color:black">1.2 (earlier 0.2) PD2AF1:MOD (mod)</h4>
+   <h4 style="color:black">1.2 PD2AF:MOD (0.2 mod)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -53,9 +51,8 @@ Following are the rules that define which EPNs are active.
 	</tr>
 </table>
 
-#### 1.3 PD2AF1:STIM
 
-   <h4 style="color:black">1.3 (earlier 0.3) PD2AF1:STIM (stim)</h4>
+   <h4 style="color:black">1.3 PD2AF:STIM (0.3 stim)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -68,9 +65,8 @@ Following are the rules that define which EPNs are active.
 	</tr>
 </table>
 
-#### 1.4 PD2AF1:CAT
 
-   <h4 style="color:black">0.4 cat</h4>
+   <h4 style="color:black">1.4 PD2AF:CAT (0.4 cat)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -83,7 +79,7 @@ Following are the rules that define which EPNs are active.
 	</tr>
 </table>
 
-   <h4 style="color:black">0.5 inh</h4>
+   <h4 style="color:black">1.5 PD2AF:INH (0.5 inh)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -96,7 +92,7 @@ Following are the rules that define which EPNs are active.
 	</tr>
 </table>
 
-   <h4 style="color:black">0.6 nstim</h4>
+   <h4 style="color:black">1.6 PD2AF:NSTIM (0.6 nstim)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -114,7 +110,7 @@ Following are the rules that define which EPNs are active.
 
 Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) conversion, [GO:0036211](https://identifiers.org/quickgo/GO:0036211) protein modification process, [GO:0140096](https://identifiers.org/quickgo/GO:0140096) catalytic activity, acting on a protein
 
-   <h4 style="color:black">1.1 i-sti-i</h4>
+   <h4 style="color:black">2.1 PD2AF:I-STI-I (1.1 i-sti-i)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -141,7 +137,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 
 	
 
-   <h4 style="color:black">1.2 i-cat-i</h4>
+   <h4 style="color:black">2.2 PD2AF:I-CAT-I (1.2 i-cat-i)</h4>
 
 <table class="rules-table">
 	<tr>
