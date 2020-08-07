@@ -20,19 +20,20 @@ This page offers the specification of the conversion rules. That includes identi
 
 <!--Letter code:  
 A - Active  
-ACT -   
+ACT - Active   
 ES - Empty set  
 CURM - Currency metabolites  
 CAT - Catalysis  
 CATR - Catalysis, reversible process  
 I - Incactive  
-INH -   
+INH - Inhibition  
 INHR - Inhibition, reverisible process  
 HIDINH - Hidden inhibition  
-MOD -   
+M - Metabolite
+MOD - Modulation  
 NCURM - Noncurrency metabolites  
-NSTI -    
-STI -   
+NSTI - Necessery stimulation   
+STI - Stimulation  
 TRANS - Transport  
 -->
 
@@ -70,7 +71,7 @@ Following are the rules that define which EPNs are active.
 </table>
 
 
-   <h4 style="color:black">1.3 PD2AF:STIM (0.3 stim)</h4>
+   <h4 style="color:black">1.3 PD2AF:STI (0.3 stim)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -110,7 +111,7 @@ Following are the rules that define which EPNs are active.
 	</tr>
 </table>
 
-   <h4 style="color:black">1.6 PD2AF:NSTIM (0.6 nstim)</h4>
+   <h4 style="color:black">1.6 PD2AF:NSTI (0.6 nstim)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -738,31 +739,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metabolic process
 
 
-   <h4 style="color:black">3.1 PD2AF:M-STI-M (1.21 m-sti-m)</h4>
-
-<table class="rules-table">
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/m-sti-m/pd.png" width="229.6px" /></div>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/m-sti-m/af.png" width="229.6px" />
-		</td>
-	</tr>
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/m-sti-m/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/m-sti-m/pd.sbgn" target="_blank">Newt</a>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/m-sti-m/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/m-sti-m/af.sbgn" target="_blank">Newt</a>
-		</td>
-	</tr>
-</table><br />
-
-
-   <h4 style="color:black">1.22 m-cat-m</h4>
+   <h4 style="color:black">3.1 PD2AF:M-CAT-M (1.22 m-cat-m)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -786,11 +763,35 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 </table><br />
 
 
-	
+   <h4 style="color:black">3.2 PD2AF:M-STI-M* (1.21 m-sti-m)</h4>
+   
+<p>*Unlikely or wrong representation of a metabolic event.</p>
 
-	
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<div><img src="/images/specification/m-sti-m/pd.png" width="229.6px" /></div>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<img src="/images/specification/m-sti-m/af.png" width="229.6px" />
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<a href="/images/specification/m-sti-m/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/m-sti-m/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<a href="/images/specification/m-sti-m/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/m-sti-m/af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
+</table><br />
 
-   <h4 style="color:black">1.23 m-nsti-m</h4>
+
+   <h4 style="color:black">3.3 PD2AF:M-NSTI-M* (1.23 m-nsti-m)</h4>
+   
+<p>*Unlikely or wrong representation of a metabolic event.</p>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -812,13 +813,11 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 		</td>
 	</tr>
 </table><br />
-
-
 	
 
-	
-
-   <h4 style="color:black">1.24 m-mod-m</h4>
+   <h4 style="color:black">3.4 PD2AF:M-MOD-M (1.24 m-mod-m)</h4>
+   
+<p>*Unlikely or wrong representation of a metabolic event.</p>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -840,13 +839,9 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 		</td>
 	</tr>
 </table><br />
-
-
 	
 
-	
-
-   <h4 style="color:black">1.25 m-inh-m</h4>
+   <h4 style="color:black">3.5 PD2AF:M-INH-M (1.25 m-inh-m)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -869,11 +864,8 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 	</tr>
 </table><br />
 
-	
 
-	
-
-   <h4 style="color:black">1.30 m-catr-m</h4>
+   <h4 style="color:black">3.6 PD2AF:M-CATR-M (1.30 m-catr-m)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -895,14 +887,9 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 		</td>
 	</tr>
 </table><br />
-
-
-
 	
 
-	
-
-   <h4 style="color:black">1.31 m-inhr-m</h4>
+   <h4 style="color:black">3.7 M-INHR-M (1.31 m-inhr-m)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -925,15 +912,28 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 	</tr>
 </table><br />
    
-   
-   
-   
+
    
 ## 4. Production and degradation
 
+<span style="color:red">AM: Missing ES-STI-A, ES-NSTI-A, etc.? Active/Inactive does not matter for conversion here? All considered active? Then we need to remove all incactive? We need to add the common gene expression events with nucleic acid features and test if the converter handles them, simply a diagram with a couple of events.</span>
+
 Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degradation
+
+   <h4 style="color:black">4.? PD2AF:ES-NSTI-RNAA/I Trancscription</h4>
+   
+   <h4 style="color:black">4.? PD2AF:ES-NSTI-IRNA Trancscription</h4>
+   
+   <h4 style="color:black">4.? PD2AF:ES-NSTI-A/I Translation</h4> 
+   
+   <h4 style="color:black">4.? PD2AF:ES-NSTI-I Translation</h4>
+   
+   <h4 style="color:black">4.? PD2AF:ES-STI-A/I</h4>
+   
+   
+   
 	
-   <h4 style="color:black">2.1 ss-sti-i</h4>
+   <h4 style="color:black">4.1 PD2AF:ES-STI-I (2.1 ss-sti-i)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -955,12 +955,9 @@ Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degrada
 		</td>
 	</tr>
 </table><br />
-
 	
 
-	
-
-   <h4 style="color:black">2.2 i-sti-ss</h4>
+   <h4 style="color:black">4.2 PD2AF:I-STI-ES (2.2 i-sti-ss)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -983,11 +980,8 @@ Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degrada
 	</tr>
 </table><br />
 
-	
 
-	
-
-   <h4 style="color:black">2.3 a-cat-ss</h4>
+   <h4 style="color:black">4.3 PD2AF:A-CAT-ES (2.3 a-cat-ss)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1010,11 +1004,8 @@ Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degrada
 	</tr>
 </table><br />
 
-	
 
-	
-
-   <h4 style="color:black">2.4 a-inh-ss</h4>
+   <h4 style="color:black">4.4 PD2AF:A-INH-ES (2.4 a-inh-ss)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1045,7 +1036,7 @@ Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degrada
 Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-covalent binding, [SBO:0000180](https://identifiers.org/sbo/SBO:0000180) dissociation, [GO:0005488](https://identifiers.org/quickgo/GO:0005488) binding
 	
 	
-   <h4 style="color:black">5.1 Heterocomplex association (named complex)</h4>
+   <h4 style="color:black">5.1 PD2AF:COMPX-AS(N) (5.1 Heterocomplex association (named complex))</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1069,10 +1060,7 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 </table><br />
 	
 
-	
-
-
-   <h4 style="color:black">5.2 Heterocomplex association (unnamed complex)</h4>
+   <h4 style="color:black">5.2 PD2AF:COMPX-AS(UN) (5.2 Heterocomplex association (unnamed complex))</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1095,13 +1083,9 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 	</tr>
 </table><br />
 	
+   <h4 style="color:black">5.3 PD2AF:COMPX-AS-STI</h4>
 
-	
-
-
-   <h4 style="color:black">5.3 Regulated heterocomplex association</h4>
-
-<span style="color:red">Generally, shouldn't associations be regulated via stimulations rather than catalyses?</span>
+   <h4 style="color:black">5.4 PD2AF:COMPX-AS-CAT (5.3 Regulated heterocomplex association)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1124,9 +1108,8 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 	</tr>
 </table><br />
 	
-
 	
-   <h4 style="color:black">5.4 Heterocomplex dissociation</h4>
+   <h4 style="color:black">5.5 PD2AF:COMPX-DIS (5.4 Heterocomplex dissociation)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1147,7 +1130,14 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/complex_dissociation/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
-</table><br /><br /><br />
+</table><br />
+
+   <h4 style="color:black">5.6 PD2AF:COMPX-DIS-STI</h4>
+
+   <h4 style="color:black">5.7 PD2AF:COMPX-DIS-CAT</h4>
+
+<br /><br />
+
 
 ## 6. Multimerisation
 
@@ -1222,9 +1212,6 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 		</td>
 	</tr>
 </table><br />
-	
-
-	
 
 
    <h4 style="color:black">3.2 Oligomerisation x3</h4>
@@ -1249,9 +1236,6 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 		</td>
 	</tr>
 </table><br />
-	
-
-	
 
 
    <h4 style="color:black">3.3 Oligomerisation x4</h4>
@@ -1276,9 +1260,6 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 		</td>
 	</tr>
 </table><br />
-	
-
-	
 
 
    <h4 style="color:black">3.4 Oligomerisation x5</h4>
@@ -1303,9 +1284,6 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 		</td>
 	</tr>
 </table><br />
-	
-
-	
 
 
    <h4 style="color:black">3.5 Oligomerisation x6</h4>
@@ -1330,9 +1308,6 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 		</td>
 	</tr>
 </table><br />
-	
-
-	
 
 
    <h4 style="color:black">3.6 Oligomerisation x7</h4>
@@ -1357,9 +1332,6 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 		</td>
 	</tr>
 </table><br />
-	
-
-	
 
 
    <h4 style="color:black">3.7 Oligomerisation x8</h4>
@@ -1384,9 +1356,6 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 		</td>
 	</tr>
 </table><br />
-	
-
-	
 
 
    <h4 style="color:black">3.8 Oligomerisation x9</h4>
@@ -1411,9 +1380,6 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 		</td>
 	</tr>
 </table><br />
-	
-
-	
 
 
    <h4 style="color:black">3.9 Oligomerisation x10</h4>
@@ -1438,9 +1404,6 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 		</td>
 	</tr>
 </table><br />
-	
-
-	
 
 
    <h4 style="color:black">3.10 Multimerization 1</h4>
@@ -1465,9 +1428,6 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 		</td>
 	</tr>
 </table><br />
-	
-
-	
 
 
    <h4 style="color:black">3.11 Multimerization 2</h4>
@@ -1492,9 +1452,6 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 		</td>
 	</tr>
 </table><br />
-	
-
-	
 
 
    <h4 style="color:black">3.12 Oligomerisation x6 r</h4>
@@ -1522,15 +1479,12 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 
 
 
-
-
-
 ## 7. Translocation and transport
 	
 Associated terms: [SBO:0000185](https://identifiers.org/sbo/SBO:0000185) tranlocation reaction, [SBO:0000655](https://identifiers.org/quickgo/SBO:0000655) transport reaction, [GO:0006810](https://identifiers.org/quickgo/GO:0006810) transport
 	
 
-   <h4 style="color:black">4.1 Translocation 1</h4>
+   <h4 style="color:black">7.1 PD2AF:TRANS1 (4.1 Translocation 1)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1554,7 +1508,7 @@ Associated terms: [SBO:0000185](https://identifiers.org/sbo/SBO:0000185) tranloc
 </table><br />
 	
 
-   <h4 style="color:black">4.2 Transport</h4>
+   <h4 style="color:black">7.1 PD2AF:TRANS2 (4.2 Transport)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
