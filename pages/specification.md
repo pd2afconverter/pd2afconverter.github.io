@@ -1484,7 +1484,7 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 Associated terms: [SBO:0000185](https://identifiers.org/sbo/SBO:0000185) tranlocation reaction, [SBO:0000655](https://identifiers.org/quickgo/SBO:0000655) transport reaction, [GO:0006810](https://identifiers.org/quickgo/GO:0006810) transport
 	
 
-   <h4 style="color:black">7.1 PD2AF:TRANS1 (4.1 Translocation 1)</h4>
+   <h4 style="color:black">7.1 PD2AF:TRANS (4.1 Translocation 1)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1508,7 +1508,7 @@ Associated terms: [SBO:0000185](https://identifiers.org/sbo/SBO:0000185) tranloc
 </table><br />
 	
 
-   <h4 style="color:black">7.1 PD2AF:TRANS2 (4.2 Transport)</h4>
+   <h4 style="color:black">7.1 PD2AF:TRANS-STI (4.2 Transport)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
