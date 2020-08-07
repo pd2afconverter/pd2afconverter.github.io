@@ -23,6 +23,8 @@ This page offers the specification of the conversion rules. That includes identi
 
 Following are the rules that define which EPNs are active.
 
+### 1.1 PD2AF1:ACT
+
    <h4 style="color:black">1.1 (earlier 0.1) PD2AF1:ACT (act)</h4>
 
 <table class="rules-table">
@@ -35,6 +37,8 @@ Following are the rules that define which EPNs are active.
 		</td>
 	</tr>
 </table>
+
+### 1.2 PD2AF1:MOD
 
    <h4 style="color:black">1.2 (earlier 0.2) PD2AF1:MOD (mod)</h4>
 
@@ -49,6 +53,8 @@ Following are the rules that define which EPNs are active.
 	</tr>
 </table>
 
+### 1.3 PD2AF1:STIM
+
    <h4 style="color:black">1.3 (earlier 0.3) PD2AF1:STIM (stim)</h4>
 
 <table class="rules-table">
@@ -61,6 +67,8 @@ Following are the rules that define which EPNs are active.
 		</td>
 	</tr>
 </table>
+
+### 1.4 PD2AF1:CAT
 
    <h4 style="color:black">0.4 cat</h4>
 
