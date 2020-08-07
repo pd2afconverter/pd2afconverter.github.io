@@ -37,7 +37,7 @@ Following are the rules that define which EPNs are active.
 
 
    <h4 style="color:black">1.2 PD2AF:MOD (0.2 mod)</h4>
-
+   
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
@@ -108,6 +108,7 @@ Following are the rules that define which EPNs are active.
 
 Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) conversion, [GO:0036211](https://identifiers.org/quickgo/GO:0036211) protein modification process, [GO:0140096](https://identifiers.org/quickgo/GO:0140096) catalytic activity, acting on a protein
 
+
    <h4 style="color:black">2.1 PD2AF:I-STI-I (1.1 i-sti-i)</h4>
 
 <table class="rules-table">
@@ -130,9 +131,6 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 		</td>
 	</tr>
 </table><br />
-
-	
-
 	
 
    <h4 style="color:black">2.2 PD2AF:I-CAT-I (1.2 i-cat-i)</h4>
@@ -157,12 +155,9 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 		</td>
         </tr>
 </table><br />
-
 	
 
-	
-
-   <h4 style="color:black">1.3 i-nsti-i</h4>
+   <h4 style="color:black">2.3 PD2AF:I-NSTI-I (1.3 i-nsti-i)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -185,11 +180,8 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 	</tr>
 </table><br />
 
-	
 
-	
-
-   <h4 style="color:black">1.4 i-mod-i</h4>
+   <h4 style="color:black">2.4 PD2AF:I-MOD-I (1.4 i-mod-i)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -215,7 +207,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 
 	
 
-   <h4 style="color:black">1.5 i-inh-i</h4>
+   <h4 style="color:black">2.5 PD2AF:I-INH-I (1.5 i-inh-i)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -239,9 +231,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 </table><br />
 	
 
-	
-
-   <h4 style="color:black">1.6 i-sti-a</h4>
+   <h4 style="color:black">2.6 PD2AF:I-STI-I (1.6 i-sti-a)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -265,9 +255,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 </table><br />
 	
 
-	
-
-   <h4 style="color:black">1.7 i-cat-a</h4>
+   <h4 style="color:black">2.7 PD2AF:I-CAT-A (1.7 i-cat-a)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -291,10 +279,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 </table><br />
 
 	
-
-	
-
-   <h4 style="color:black">1.8 i-nsti-a</h4>
+   <h4 style="color:black">2.8 PD2AF:I-NSTI-A (1.8 i-nsti-a)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -316,12 +301,9 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 		</td>
 	</tr>
 </table><br />
-
 	
 
-	
-
-   <h4 style="color:black">1.9 i-mod-a</h4>
+   <h4 style="color:black">2.9 PD2AF:I-MOD-A (1.9 i-mod-a)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -343,12 +325,9 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 		</td>
 	</tr>
 </table><br />
-
 	
 
-	
-
-   <h4 style="color:black">1.10 i-inh-a</h4>
+   <h4 style="color:black">2.10 PD2AF:I-INH-A (1.10 i-inh-a)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -370,12 +349,9 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 		</td>
 	</tr>
 </table><br />
-
 	
 
-	
-
-   <h4 style="color:black">1.11 a-sti-i</h4>
+   <h4 style="color:black">2.11 PD2AF:A-STI-I (1.11 a-sti-i)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -396,12 +372,10 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-sti-i/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
-</table><br />
+</table><br />	
 	
 
-	
-
-   <h4 style="color:black">1.12 a-cat-i</h4>
+   <h4 style="color:black">2.12 PD2AF:A-CAT-I (1.12 a-cat-i)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -423,12 +397,9 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 		</td>
 	</tr>
 </table><br />
-
 	
 
-	
-
-   <h4 style="color:black">11.13 a-nsti-i</h4>
+   <h4 style="color:black">2.13 PD2AF:A-NSTI-I (1.13 a-nsti-i)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -451,11 +422,8 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 	</tr>
 </table><br />
 
-	
 
-	
-
-   <h4 style="color:black">1.14 a-mod-i</h4>
+   <h4 style="color:black">2.14 PD2AF:A-MOD-I (1.14 a-mod-i)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -480,9 +448,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 
 	
 
-	
-
-   <h4 style="color:black">1.15 a-inh-i</h4>
+   <h4 style="color:black">2.15 PD2AF:A-INH-I (1.15 a-inh-i)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -504,12 +470,9 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 		</td>
 	</tr>
 </table><br />
-
 	
 
-	
-
-   <h4 style="color:black">1.16 a-sti-a</h4>
+   <h4 style="color:black">2.16 PD2AF:A-STI-A (1.16 a-sti-a)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -533,9 +496,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 </table><br />
 	
 
-	
-
-   <h4 style="color:black">1.17 a-cat-a</h4>
+   <h4 style="color:black">2.17 PD2AF:A-CAT-A (1.17 a-cat-a)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -558,11 +519,8 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 	</tr>
 </table><br />
 
-	
 
-	
-
-   <h4 style="color:black">1.18 a-nsti-a</h4>
+   <h4 style="color:black">2.18 PD2AF:A-NSTI-A (1.18 a-nsti-a)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -584,12 +542,9 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 		</td>
 	</tr>
 </table><br />
-
 	
 
-	
-
-   <h4 style="color:black">1.19 a-mod-a</h4>
+   <h4 style="color:black">2.19 PD2AF:A-MOD-A (1.19 a-mod-a)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -611,12 +566,9 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 		</td>
 	</tr>
 </table><br />
-
 	
 
-	
-
-   <h4 style="color:black">1.20 a-inh-a</h4>
+   <h4 style="color:black">2.20 PD2AF:A-INH-A (1.20 a-inh-a)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -640,11 +592,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 </table><br />
 
 
-
-
-
-
-   <h4 style="color:black">1.27 a-catr-a</h4>
+   <h4 style="color:black">2.21 PD2AF:A-CATR-A (1.27 a-catr-a)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -666,13 +614,9 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 		</td>
 	</tr>
 </table><br />
-
-
 	
 
-	
-
-   <h4 style="color:black">1.28 a-catr-i</h4>
+   <h4 style="color:black">2.22 PD2AF:A-CATR-I (1.28 a-catr-i)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -696,11 +640,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 </table><br />
 
 
-	
-
-	
-
-   <h4 style="color:black">1.29 i-inhr-a</h4>
+   <h4 style="color:black">2.23 PD2AF:I-INHR-A (1.29 i-inhr-a)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -724,11 +664,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 </table><br />
 
 
-
-
-
-
-   <h4 style="color:black">9.1 Currency metabolites 1</h4>
+   <h4 style="color:black">2.24 PD2AF:CURM Currency metabolites (9.1 Currency metabolites 1)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -749,13 +685,10 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/currency_metabolites_1/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
-</table><br />
-	
-
-	
+</table><br />	
 
 
-   <h4 style="color:black">9.2 Noncurrency metabolites 1</h4>
+   <h4 style="color:black">2.25 PD2AF:NCURM Noncurrency metabolites (9.2 Noncurrency metabolites 1)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -780,16 +713,12 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 
 
 
-
-
 ## 3. Metabolic reactions
 
 Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metabolic process
 
-<span style="color:red">There is a problem with the drawings of the reversible processes. We should redraw them. (Also for 1.27, 1.28, 1.29)</span>
 
-
-   <h4 style="color:black">1.21 m-sti-m</h4>
+   <h4 style="color:black">3.1 PD2AF:M-STI-M (1.21 m-sti-m)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -812,10 +741,6 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 	</tr>
 </table><br />
 
-
-	
-
-	
 
    <h4 style="color:black">1.22 m-cat-m</h4>
 
