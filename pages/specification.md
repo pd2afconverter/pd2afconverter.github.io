@@ -29,7 +29,7 @@ Following are the rules that define which EPNs are active.
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/active/active1_left.png" width="68px" /></div>
+			<div><img src="/images/specification/active/active1_left.png" width="140px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
 			<img src="/images/specification/active/active_right.png" width="68px" />
