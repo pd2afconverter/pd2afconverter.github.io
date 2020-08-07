@@ -6,11 +6,11 @@ permalink: /specification
 
 # PD2AF 1.0 Specification
 
-[Rules for finding active EPNs](rules-for-finding-active-epns)  
-[Activation and deactivation (posttranslational modifications)](activation-and-deactivation)  
-[Metabolic reactions](#metabolic-reactions)  
-[Source and sink](#source-and-sink)  
-[Oligomerisation](#oligomerisation)  
+[1. Rules for finding active EPNs](#rules-for-finding-active-epns)  
+[2. Activation and deactivation (posttranslational modifications)](#activation-and-deactivation)  
+[3. Metabolic reactions](#metabolic-reactions)  
+[4. Production and degradation (empty set)](#production-and-degradation)  
+[5. Heterocomplex association and dissociation](#5.heterocomplex-association-and-dissociation)  
 [Complexes](#complexes)  
 [Translocation](#translocation)  
 [Hidden inhibition](#hidden-inhibition)  
@@ -784,7 +784,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 
 
 
-## 4. Metabolic reactions
+## 3. Metabolic reactions
 
 Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metabolic process
 
@@ -986,7 +986,7 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
    
    
    
-## 5. Production and degradation
+## 4. Production and degradation
 
 Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degradation
 	
@@ -1097,7 +1097,7 @@ Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degrada
    
 
 
-## 6. Heterocomplex association and dissociation
+## 5. Heterocomplex association and dissociation
 
 Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-covalent binding, [SBO:0000180](https://identifiers.org/sbo/SBO:0000180) dissociation, [GO:0005488](https://identifiers.org/quickgo/GO:0005488) binding
 	
@@ -1207,7 +1207,7 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 	</tr>
 </table><br /><br /><br />
 
-## 7. Multimerisation
+## 6. Multimerisation
 
 <span style="color:red">All the following rules could be grouped into a unique entry for the sake of succintness: we could rename the section to "Homo-multimerisation", write the label of the unit of information on the multimer as "N:X", the label of the target biological activity as "A-Y", and add a table like the following one, for example:</span>
 
@@ -1583,7 +1583,7 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 
 
 
-## Translocation and transport
+## 7. Translocation and transport
 
 <span style="color:red">Renamed to "Translocation and transport", because "regulated translocation" is a transport following the SBO.</span>
 	
@@ -1646,7 +1646,7 @@ Associated terms: [SBO:0000185](https://identifiers.org/sbo/SBO:0000185) tranloc
 
 
 
-## Hidden inhibition
+## 8. Hidden inhibition
 	
 <span style="color:red">Could not find any associated terms for this category.</span>
 	
@@ -1709,7 +1709,7 @@ Associated terms: [SBO:0000185](https://identifiers.org/sbo/SBO:0000185) tranloc
 
 
 
-## New schemes
+## 9. New schemes
 
 	
 
