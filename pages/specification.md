@@ -1562,7 +1562,7 @@ Associated terms: [SBO:0000185](https://identifiers.org/sbo/SBO:0000185) tranloc
 ## 8. Hidden inhibition
 
 
-   <h4 style="color:black">6.1 Hidden inhibition 1</h4>
+   <h4 style="color:black">8.1 PD2AF:HIDINH1 (6.1 Hidden inhibition 1)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1584,14 +1584,12 @@ Associated terms: [SBO:0000185](https://identifiers.org/sbo/SBO:0000185) tranloc
 		</td>
 	</tr>
 </table><br />
-   
-
 
 
 	
-   <h4 style="color:black">6.2 Hidden inhibition 2</h4>
+   <h4 style="color:black">8.2 PD2AF:HIDINH2 (6.2 Hidden inhibition 2)</h4>
 
-<span style="color:red">I think this one can be deleted since it is a combination of 6.1 and 1.7.</span>
+This is a combination of rules 8.1 and 2.7
 
 <table class="rules-table">
 	<tr style="font-size:90%">
