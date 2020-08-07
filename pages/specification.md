@@ -9,7 +9,7 @@ permalink: /specification
 [1. Rules for finding active EPNs](#rules-for-finding-active-epns)  
 [2. Activation and deactivation (posttranslational modifications)](#activation-and-deactivation)  
 [3. Metabolic reactions](#metabolic-reactions)  
-[4. Production and degradation (empty set)](#production-and-degradation)  
+[4. Production and degradation (empty set)](#4.-production-and-degradation)  
 [5. Heterocomplex association and dissociation](#5-heterocomplex-association-and-dissociation)  
 [6. Multimerisation](#6.multimerisation)
 [Complexes](#complexes)  
