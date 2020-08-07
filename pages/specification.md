@@ -4,21 +4,26 @@ title: Specification
 permalink: /specification
 ---
 
-<span style="color:red">I have three main comments:</span>
-<ol>
-    <li><span style="color:red">In all the following we use macromolecules in the rules. In the converter, does the nature of the entities matter? Or is it sufficient to know they are active/inactive, regardless of their nature? If their nature does not matter, could we replace the macromolecules with unspecified entities, and explain that in the following an unspecidied entity stands for any EPN?</span></li>
-    <li><span style="color:red">Also I would suggest not using state variables to indicate whether the EPNs are active/inactive, because this suggests the EPNs actually carry those state variables in the input PD map. We could maybe use a color code to indicate which EPNs are active (and leave inactive EPNs uncolored, as it is the default). Finally if we keep state variables, we should maybe change them to stadiums (PD L1V2.0).</span></li>
-    <li><span style="color:red">In each rule we use some kind of "bricks", that is patterns that are valid full SBGN (sub)-maps (e.g. modulated processes with reactants and products). We could rather use "half" bricks (e.g. modulated processes with only products for example). That would allow avoiding the combinatorics due to considering full bricks, significanly reducing the number of rules, while keeping the exact same result at the end.</span></li>
-</ol>
+# Specification of the PD2AF converter version 1.0
 
-<span style="color:red">In the next section I added the rules for finding active EPNs. I used unspecified entities and a color code for active EPNs (green for active), as an example of my previous comments.</span>
+1. [Rules for finding active EPNs](rules-for-finding-active-epns)
+1. [Activation and deactivation](activation-and-deactivation)
+1. [Metabolic reactions](#metabolic-reactions)
+1. [Source and sink](#source-and-sink)
+1. [Oligomerisation](#oligomerisation)
+1. [Complexes](#complexes)
+1. [Translocation](#translocation)
+1. [Hidden inhibition](#hidden-inhibition)
+1. [Simple schemes](#simple-schemes)
+1. [New schemes](#new-schemes)
 
+This page offers the specification of the conversion rules. That includes identification of active entities and the translation of Process Description (PD) expressions to Activity Flow (AF) expressions. For each case we ensured that the converter translates exactly as shown: each left-hand diagram (PD) transforms into the corresponding right-hand diagram (AF).
 
-# Rules for finding active EPNs
+## 1. Rules for finding active EPNs
 
 Following are the rules that define which EPNs are active.
 
-   <h4 style="color:black">0.1 act</h4>
+   <h4 style="color:black">1.1 (earlier 0.1) PD2AF1:ACT (act)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -31,7 +36,7 @@ Following are the rules that define which EPNs are active.
 	</tr>
 </table>
 
-   <h4 style="color:black">0.2 mod</h4>
+   <h4 style="color:black">1.2 (earlier 0.2) PD2AF1:MOD (mod)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -44,7 +49,7 @@ Following are the rules that define which EPNs are active.
 	</tr>
 </table>
 
-   <h4 style="color:black">0.3 stim</h4>
+   <h4 style="color:black">1.3 (earlier 0.3) PD2AF1:STIM (stim)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -97,26 +102,9 @@ Following are the rules that define which EPNs are active.
 </table><br />
 
 
-# Transformation rules specification
-	
-Here is the specification for the transformation rules. We start from most elementary patterns and follow with increasingly complex ones. All these patterns are also test cases for regression testing of the Converter program. With each case we ensure that converter code translates left-hand diagram exactly to the right-hand diagram, while both being considered as standalone schemes.
-
-* [Posttranslational modification](#posttranslational-modification)
-* [Metabolic reactions](#metabolic-reactions)
-* [Source and sink](#source-and-sink)
-* [Oligomerisation](#oligomerisation)
-* [Complexes](#complexes)
-* [Translocation](#translocation)
-* [Hidden inhibition](#hidden-inhibition)
-* [Simple schemes](#simple-schemes)
-* [New schemes](#new-schemes)
-
-	    
-## Posttranslational modification
+## 2. Activation and deactivation
 
 Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) conversion, [GO:0036211](https://identifiers.org/quickgo/GO:0036211) protein modification process, [GO:0140096](https://identifiers.org/quickgo/GO:0140096) catalytic activity, acting on a protein
-
-<span style="color:red">What is described here is not really posttranslational modifications per se, but rather some kind of activation/deactivation processes (not sure for the rules of the form i-X-i though). Could we rename the section by "Activation and deactivation", for example?</span>
 
    <h4 style="color:black">1.1 i-sti-i</h4>
 
@@ -792,7 +780,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 
 
 
-## Metabolic reactions
+## 4. Metabolic reactions
 
 Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metabolic process
 
@@ -994,7 +982,7 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
    
    
    
-## Production and degradation
+## 5. Production and degradation
 
 Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degradation
 	
@@ -1103,18 +1091,11 @@ Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degrada
 </table><br /><br /><br />
    
    
-   
-   
-   
 
-## Complex association and dissocitation
 
-<span style="color:red">New section to regroup "Oligomerisation" and "Complexes".</span>
+## 6. Heterocomplex association and dissociation
 
 Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-covalent binding, [SBO:0000180](https://identifiers.org/sbo/SBO:0000180) dissociation, [GO:0005488](https://identifiers.org/quickgo/GO:0005488) binding
-
-### Heterocomplex association and dissociation
-	
 	
 <span style="color:red">We may use the term "heterocomplex" to differentiate from oligomers</span>
 
@@ -1222,9 +1203,7 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 	</tr>
 </table><br /><br /><br />
 
-### Multimerisation
-	
-<span style="color:red">In the same section we have multimerisation so couldn't we simply rename the section by "Multimerisation"?</span>
+## 7. Multimerisation
 
 <span style="color:red">All the following rules could be grouped into a unique entry for the sake of succintness: we could rename the section to "Homo-multimerisation", write the label of the unit of information on the multimer as "N:X", the label of the target biological activity as "A-Y", and add a table like the following one, for example:</span>
 
