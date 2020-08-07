@@ -920,15 +920,15 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 
 Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degradation
 
-   <h4 style="color:black">4.? PD2AF:ES-NSTI-RNAA/I Trancscription</h4>
+   <h4 style="color:black">4.? PD2AF:ES-NSTI-RNAA/I Trancscription (NEW)</h4>
    
-   <h4 style="color:black">4.? PD2AF:ES-NSTI-IRNA Trancscription</h4>
+   <h4 style="color:black">4.? PD2AF:ES-NSTI-IRNA Trancscription (NEW)</h4>
    
-   <h4 style="color:black">4.? PD2AF:ES-NSTI-A/I Translation</h4> 
+   <h4 style="color:black">4.? PD2AF:ES-NSTI-A/I Translation (NEW)</h4> 
    
-   <h4 style="color:black">4.? PD2AF:ES-NSTI-I Translation</h4>
+   <h4 style="color:black">4.? PD2AF:ES-NSTI-I Translation (NEW)</h4>
    
-   <h4 style="color:black">4.? PD2AF:ES-STI-A/I</h4>
+   <h4 style="color:black">4.? PD2AF:ES-STI-A/I (NEW)</h4>
    
    
    
@@ -1083,7 +1083,7 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 	</tr>
 </table><br />
 	
-   <h4 style="color:black">5.3 PD2AF:COMPX-AS-STI</h4>
+   <h4 style="color:black">5.3 PD2AF:COMPX-AS-STI (NEW)</h4>
 
    <h4 style="color:black">5.4 PD2AF:COMPX-AS-CAT (5.3 Regulated heterocomplex association)</h4>
 
@@ -1132,9 +1132,9 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 	</tr>
 </table><br />
 
-   <h4 style="color:black">5.6 PD2AF:COMPX-DIS-STI</h4>
+   <h4 style="color:black">5.6 PD2AF:COMPX-DIS-STI (NEW)</h4>
 
-   <h4 style="color:black">5.7 PD2AF:COMPX-DIS-CAT</h4>
+   <h4 style="color:black">5.7 PD2AF:COMPX-DIS-CAT (NEW)</h4>
 
 <br /><br />
 
