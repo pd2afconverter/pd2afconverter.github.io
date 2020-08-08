@@ -1144,14 +1144,6 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 
 ### 6.1 PD2AF:MULT
 
-| X = Y            | X = Y            | X = Y             | X = Y             |
-|------------------|------------------|-------------------|-------------------|
-| 2 = dimer        | 7 = heptamer     | 12 = dodecamer    | 17 = heptadecamer |
-| 3 = trimer       | 8 = octamer      | 13 = tridecamer   | 18 = octadecamer  |
-| 4 = tetramer     | 9 = nonamer      | 14 = tetradecamer | 19 = nonadecamer  |
-| 5 = pentamer     | 10 = decamer     | 15 = pentadecamer | 20 = eicosamer    |
-| 6 = hexamer      | 11 = undecamer   | 16 = hexadecamer  | 21 = 21-mer       |
-
 
 <table>
 <tr>
@@ -1159,9 +1151,24 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 <td style="width: 160px;"><p style="margin:4px;">14 = tetradecamer</td>
 <td style="width: 160px;"><p style="margin:4px;">14 = tetradecamer</td>
 <td style="width: 160px;"><p style="margin:4px;">14 = tetradecamer</td>
+</tr>
+<tr>
+<td style="width: 160px;"><p style="margin:4px;">14 = tetradecamer</td>
+<td style="width: 160px;"><p style="margin:4px;">14 = tetradecamer</td>
+<td style="width: 160px;"><p style="margin:4px;">14 = tetradecamer</td>
 <td style="width: 160px;"><p style="margin:4px;">14 = tetradecamer</td>
 </tr>
 </table>
+
+
+
+| X = Y            | X = Y            | X = Y             | X = Y             |
+|------------------|------------------|-------------------|-------------------|
+| 2 = dimer        | 7 = heptamer     | 12 = dodecamer    | 17 = heptadecamer |
+| 3 = trimer       | 8 = octamer      | 13 = tridecamer   | 18 = octadecamer  |
+| 4 = tetramer     | 9 = nonamer      | 14 = tetradecamer | 19 = nonadecamer  |
+| 5 = pentamer     | 10 = decamer     | 15 = pentadecamer | 20 = eicosamer    |
+| 6 = hexamer      | 11 = undecamer   | 16 = hexadecamer  | 21 = 21-mer       |
 
 
 
