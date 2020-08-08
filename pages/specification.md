@@ -1147,71 +1147,39 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 <font size="2">
 <table>
 <tr>
-<td style="width: 200px;">X = 2; Y = dimer</td>
-<td style="width: 200px;">X = 3; Y = trimer</td>
-<td style="width: 200px;">X = 4; Y = tetramer</td>
-<td style="width: 200px;">X = 5; Y = pentamer</td>
-<td style="width: 200px;">X = 6; Y = hexamer</td>
+<td style="width: 180px;">X = 2; Y = dimer</td>
+<td style="width: 180px;">X = 7; Y = heptamer</td>
+<td style="width: 180px;">X = 12; Y = dodecamer</td>
+<td style="width: 180px;">X = 17; Y = heptadecamer</td>
 </tr>
 <tr>
-<td style="width: 200px;">X = 7; Y = heptamer</td>
-<td style="width: 200px;">X = 8; Y = octamer</td>
-<td style="width: 200px;">X = 9; Y = nonamer</td>
-<td style="width: 200px;">X = 10; Y = decamer</td>
-<td style="width: 200px;">X = 11; Y = undecamer</td>
+<td style="width: 180px;">X = 3; Y = trimer</td>
+<td style="width: 180px;">X = 8; Y = octamer</td>
+<td style="width: 180px;">X = 13; Y = tridecamer</td>
+<td style="width: 180px;">X = 18; Y = octadecamer</td>
 </tr>
 <tr>
-<td style="width: 200px;">X = 12; Y = dodecamer</td>
-<td style="width: 200px;">X = 13; Y = tridecamer</td>
-<td style="width: 200px;">X = 14; Y = tetradecamer</td>
-<td style="width: 200px;">X = 15; Y = pentadecamer</td>
-<td style="width: 200px;">X = 16; Y = hexadecamer</td>
+<td style="width: 180px;">X = 4; Y = tetramer</td>
+<td style="width: 180px;">X = 9; Y = nonamer</td>
+<td style="width: 180px;">X = 14; Y = tetradecamer</td>
+<td style="width: 180px;">X = 19; Y = nonadecamer</td>
 </tr>
 <tr>
-<td style="width: 200px;">X = 17; Y = heptadecamer</td>
-<td style="width: 200px;">X = 18; Y = octadecamer</td>
-<td style="width: 200px;">X = 19; Y = nonadecamer</td>
-<td style="width: 200px;">X = 20; Y = eicosamer</td>
-<td style="width: 200px;">X = 21; Y = 21-mer</td>
+<td style="width: 180px;">X = 5; Y = pentamer</td>
+<td style="width: 180px;">X = 10; Y = decamer</td>
+<td style="width: 180px;">X = 15; Y = pentadecamer</td>
+<td style="width: 180px;">X = 20; Y = eicosamer</td>
+</tr>
+<tr>
+<td style="width: 180px;">X = 6; Y = hexamer</td>
+<td style="width: 180px;">X = 11; Y = undecamer</td>
+<td style="width: 180px;">X = 16; Y = hexadecamer</td>
+<td style="width: 180px;">X = 21; Y = 21-mer</td>
 </tr>
 </table>
 </font>
 
-<br /><br />
-
-
-<table>
-<tr>
-<td style="width: 200px;">X = 2; Y = dimer</td>
-<td style="width: 200px;">X = 7; Y = heptamer</td>
-<td style="width: 200px;">X = 12; Y = dodecamer</td>
-<td style="width: 200px;">X = 17; Y = heptadecamer</td>
-</tr>
-<tr>
-<td style="width: 200px;">X = 3; Y = trimer</td>
-<td style="width: 200px;">X = 8; Y = octamer</td>
-<td style="width: 200px;">X = 13; Y = tridecamer</td>
-<td style="width: 200px;">X = 18; Y = octadecamer</td>
-</tr>
-<tr>
-<td style="width: 200px;">X = 4; Y = tetramer</td>
-<td style="width: 200px;">X = 9; Y = nonamer</td>
-<td style="width: 200px;">X = 14; Y = tetradecamer</td>
-<td style="width: 200px;">X = 19; Y = nonadecamer</td>
-</tr>
-<tr>
-<td style="width: 200px;">X = 5; Y = pentamer</td>
-<td style="width: 200px;">X = 10; Y = decamer</td>
-<td style="width: 200px;">X = 15; Y = pentadecamer</td>
-<td style="width: 200px;">X = 20; Y = eicosamer</td>
-</tr>
-<tr>
-<td style="width: 200px;">X = 6; Y = hexamer</td>
-<td style="width: 200px;">X = 11; Y = undecamer</td>
-<td style="width: 200px;">X = 16; Y = hexadecamer</td>
-<td style="width: 200px;">X = 21; Y = 21-mer</td>
-</tr>
-</table><br />
+<br />
 
 
 <table class="rules-table">
