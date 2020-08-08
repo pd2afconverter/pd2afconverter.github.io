@@ -253,7 +253,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 </table><br />
 	
 
-   <h4 style="color:black">2.6 PD2AF:I-STI-I (1.6 i-sti-a)</h4>
+   <h4 style="color:black">2.6 PD2AF:I-STI-A (1.6 i-sti-a)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
