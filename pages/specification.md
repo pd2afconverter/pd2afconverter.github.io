@@ -1181,6 +1181,7 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 
 <br />
 
+<span style="color:red">AM: new image with N:X and A-Y</span>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
