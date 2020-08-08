@@ -1147,16 +1147,16 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 
 <table>
 <tr>
-<td style="width: 160px;">14 = tetradecamer</td>
-<td style="width: 160px;">14 = tetradecamer</td>
-<td style="width: 160px;">14 = tetradecamer</td>
-<td style="width: 160px;">14 = tetradecamer</td>
+<td style="width: 200px;">14 = tetradecamer</td>
+<td style="width: 200px;">14 = tetradecamer</td>
+<td style="width: 200px;">14 = tetradecamer</td>
+<td style="width: 200px;">14 = tetradecamer</td>
 </tr>
 <tr>
-<td style="width: 160px;">X = 14; Y = tetradecamer</td>
-<td style="width: 160px;">X = 14; Y = tetradecamer</td>
-<td style="width: 160px;">X = 14; Y = tetradecamer</td>
-<td style="width: 160px;">X = 14; Y = tetradecamer</td>
+<td style="width: 200px;">X = 14; Y = tetradecamer</td>
+<td style="width: 200px;">X = 14; Y = tetradecamer</td>
+<td style="width: 200px;">X = 14; Y = tetradecamer</td>
+<td style="width: 200px;">X = 14; Y = tetradecamer</td>
 </tr>
 </table>
 
