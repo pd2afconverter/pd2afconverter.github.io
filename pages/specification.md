@@ -1177,6 +1177,8 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 </table>
 </font>
 
+<br /><br />
+
 
 <table class="rules-table">
 	<tr style="font-size:90%">
