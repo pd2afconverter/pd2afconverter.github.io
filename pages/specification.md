@@ -1180,7 +1180,6 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 <br /><br />
 
 
-<font size="2">
 <table>
 <tr>
 <td style="width: 200px;">X = 2; Y = dimer</td>
@@ -1212,10 +1211,9 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 <td style="width: 200px;">X = 16; Y = hexadecamer</td>
 <td style="width: 200px;">X = 21; Y = 21-mer</td>
 </tr>
-</table>
-</font>
+</table><br />
 
-<br /><br />
+
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
