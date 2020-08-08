@@ -30,7 +30,8 @@ INH - Inhibition
 INHR - Inhibition, reverisible process  
 HIDINH - Hidden inhibition  
 M - Metabolite
-MOD - Modulation  
+MOD - Modulation
+MULT - Multimerisation
 NCURM - Noncurrency metabolites  
 NSTI - Necessery stimulation   
 STI - Stimulation  
@@ -1141,7 +1142,7 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 
 ## 6. Multimerisation
 
-### 6.1 PD2AF:MULTIM
+### 6.1 PD2AF:MULT
 
 | X = Y            | X = Y            | X = Y             | X = Y             |
 |------------------|------------------|-------------------|-------------------|
@@ -1150,6 +1151,19 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 | 4 = tetramer     | 9 = nonamer      | 14 = tetradecamer | 19 = nonadecamer  |
 | 5 = pentamer     | 10 = decamer     | 15 = pentadecamer | 20 = eicosamer    |
 | 6 = hexamer      | 11 = undecamer   | 16 = hexadecamer  | 21 = 21-mer       |
+
+
+<table>
+<tr>
+<td style="width: 160px;"><p style="margin:4px;">14 = tetradecamer</td>
+<td style="width: 160px;"><p style="margin:4px;">14 = tetradecamer</td>
+<td style="width: 160px;"><p style="margin:4px;">14 = tetradecamer</td>
+<td style="width: 160px;"><p style="margin:4px;">14 = tetradecamer</td>
+<td style="width: 160px;"><p style="margin:4px;">14 = tetradecamer</td>
+</tr>
+</table>
+
+
 
 
 <span style="color:red">All the following rules could be grouped into a unique entry for the sake of succintness: we could rename the section to "Homo-multimerisation", write the label of the unit of information on the multimer as "N:X", the label of the target biological activity as "A-Y", and add a table like the following one, for example:</span>
