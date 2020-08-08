@@ -1147,271 +1147,34 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 
 <table>
 <tr>
-<td style="width: 200px;">14 = tetradecamer</td>
-<td style="width: 200px;">14 = tetradecamer</td>
-<td style="width: 200px;">14 = tetradecamer</td>
-<td style="width: 200px;">14 = tetradecamer</td>
+<td style="width: 200px;">X = 2; Y = dimer</td>
+<td style="width: 200px;">X = 3; Y = trimer</td>
+<td style="width: 200px;">X = 4; Y = tetramer</td>
+<td style="width: 200px;">X = 5; Y = pentamer</td>
+<td style="width: 200px;">X = 6; Y = hexamer</td>
 </tr>
 <tr>
+<td style="width: 200px;">X = 7; Y = heptamer</td>
+<td style="width: 200px;">X = 8; Y = octamer</td>
+<td style="width: 200px;">X = 9; Y = nonamer</td>
+<td style="width: 200px;">X = 10; Y = decamer</td>
+<td style="width: 200px;">X = 11; Y = undecamer</td>
+</tr>
+<tr>
+<td style="width: 200px;">X = 12; Y = dodecamer</td>
+<td style="width: 200px;">X = 13; Y = tridecamer</td>
 <td style="width: 200px;">X = 14; Y = tetradecamer</td>
-<td style="width: 200px;">X = 14; Y = tetradecamer</td>
-<td style="width: 200px;">X = 14; Y = tetradecamer</td>
-<td style="width: 200px;">X = 14; Y = tetradecamer</td>
+<td style="width: 200px;">X = 15; Y = pentadecamer</td>
+<td style="width: 200px;">X = 16; Y = hexadecamer</td>
+</tr>
+<tr>
+<td style="width: 200px;">X = 17; Y = heptadecamer</td>
+<td style="width: 200px;">X = 18; Y = octadecamer</td>
+<td style="width: 200px;">X = 19; Y = nonadecamer</td>
+<td style="width: 200px;">X = 20; Y = eicosamer</td>
+<td style="width: 200px;">X = 21; Y = 21-mer</td>
 </tr>
 </table>
-
-
-
-| X = Y            | X = Y            | X = Y             | X = Y             |
-|------------------|------------------|-------------------|-------------------|
-| 2 = dimer        | 7 = heptamer     | 12 = dodecamer    | 17 = heptadecamer |
-| 3 = trimer       | 8 = octamer      | 13 = tridecamer   | 18 = octadecamer  |
-| 4 = tetramer     | 9 = nonamer      | 14 = tetradecamer | 19 = nonadecamer  |
-| 5 = pentamer     | 10 = decamer     | 15 = pentadecamer | 20 = eicosamer    |
-| 6 = hexamer      | 11 = undecamer   | 16 = hexadecamer  | 21 = 21-mer       |
-
-
-
-
-<span style="color:red">All the following rules could be grouped into a unique entry for the sake of succintness: we could rename the section to "Homo-multimerisation", write the label of the unit of information on the multimer as "N:X", the label of the target biological activity as "A-Y", and add a table like the following one, for example:</span>
-
-<table style="color:red">
-    <tr>
-        <th>X</th>
-        <th>Y</th>
-    </tr>
-    <tr>
-        <td>2</td>
-        <td>dimer</td>
-    </tr>
-    <tr>
-        <td>3</td>
-        <td>trimer</td>
-    </tr>
-    <tr>
-        <td>4</td>
-        <td>tetramer</td>
-    </tr>
-    <tr>
-        <td>5</td>
-        <td>pentamer</td>
-    </tr>
-    <tr>
-        <td>6</td>
-        <td>hexamer</td>
-    </tr>
-    <tr>
-        <td>7</td>
-        <td>heptamer</td>
-    </tr>
-    <tr>
-        <td>8</td>
-        <td>octamer</td>
-    </tr>
-    <tr>
-        <td>9</td>
-        <td>enneamer</td>
-    </tr>
-    <tr>
-        <td>10</td>
-        <td>decamer</td>
-    </tr>
-    <tr>
-        <td>>11</td>
-        <td>multimer</td>
-    </tr>
-</table>
-	
-   <h4 style="color:black">3.1 Dimerisation x2</h4>
-
-<table class="rules-table">
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/dimerization_x2/pd.png" width="78.4px" /></div>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/dimerization_x2/af.png" width="69.6px" />
-		</td>
-	</tr>
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/dimerization_x2/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/dimerization_x2/pd.sbgn" target="_blank">Newt</a>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/dimerization_x2/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/dimerization_x2/af.sbgn" target="_blank">Newt</a>
-		</td>
-	</tr>
-</table><br />
-
-
-   <h4 style="color:black">3.2 Oligomerisation x3</h4>
-
-<table class="rules-table">
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/oligomerization_x3/pd.png" width="78.4px" /></div>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/oligomerization_x3/af.png" width="69.6px" />
-		</td>
-	</tr>
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/oligomerization_x3/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/oligomerization_x3/pd.sbgn" target="_blank">Newt</a>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/oligomerization_x3/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/oligomerization_x3/af.sbgn" target="_blank">Newt</a>
-		</td>
-	</tr>
-</table><br />
-
-
-   <h4 style="color:black">3.3 Oligomerisation x4</h4>
-
-<table class="rules-table">
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/oligomerization_x4/pd.png" width="78.4px" /></div>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/oligomerization_x4/af.png" width="69.6px" />
-		</td>
-	</tr>
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/oligomerization_x4/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/oligomerization_x4/pd.sbgn" target="_blank">Newt</a>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/oligomerization_x4/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/oligomerization_x4/af.sbgn" target="_blank">Newt</a>
-		</td>
-	</tr>
-</table><br />
-
-
-   <h4 style="color:black">3.4 Oligomerisation x5</h4>
-
-<table class="rules-table">
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/oligomerization_x5/pd.png" width="78.4px" /></div>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/oligomerization_x5/af.png" width="69.6px" />
-		</td>
-	</tr>
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/oligomerization_x5/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/oligomerization_x5/pd.sbgn" target="_blank">Newt</a>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/oligomerization_x5/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/oligomerization_x5/af.sbgn" target="_blank">Newt</a>
-		</td>
-	</tr>
-</table><br />
-
-
-   <h4 style="color:black">3.5 Oligomerisation x6</h4>
-
-<table class="rules-table">
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/oligomerization_x6/pd.png" width="78.4px" /></div>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/oligomerization_x6/af.png" width="69.6px" />
-		</td>
-	</tr>
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/oligomerization_x6/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/oligomerization_x6/pd.sbgn" target="_blank">Newt</a>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/oligomerization_x6/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/oligomerization_x6/af.sbgn" target="_blank">Newt</a>
-		</td>
-	</tr>
-</table><br />
-
-
-   <h4 style="color:black">3.6 Oligomerisation x7</h4>
-
-<table class="rules-table">
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/oligomerization_x7/pd.png" width="78.4px" /></div>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/oligomerization_x7/af.png" width="69.6px" />
-		</td>
-	</tr>
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/oligomerization_x7/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/oligomerization_x7/pd.sbgn" target="_blank">Newt</a>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/oligomerization_x7/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/oligomerization_x7/af.sbgn" target="_blank">Newt</a>
-		</td>
-	</tr>
-</table><br />
-
-
-   <h4 style="color:black">3.7 Oligomerisation x8</h4>
-
-<table class="rules-table">
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/oligomerization_x8/pd.png" width="78.4px" /></div>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/oligomerization_x8/af.png" width="69.6px" />
-		</td>
-	</tr>
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/oligomerization_x8/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/oligomerization_x8/pd.sbgn" target="_blank">Newt</a>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/oligomerization_x8/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/oligomerization_x8/af.sbgn" target="_blank">Newt</a>
-		</td>
-	</tr>
-</table><br />
-
-
-   <h4 style="color:black">3.8 Oligomerisation x9</h4>
-
-<table class="rules-table">
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/oligomerization_x9/pd.png" width="78.4px" /></div>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/oligomerization_x9/af.png" width="69.6px" />
-		</td>
-	</tr>
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/oligomerization_x9/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/oligomerization_x9/pd.sbgn" target="_blank">Newt</a>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/oligomerization_x9/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/oligomerization_x9/af.sbgn" target="_blank">Newt</a>
-		</td>
-	</tr>
-</table><br />
 
 
    <h4 style="color:black">3.9 Oligomerisation x10</h4>
@@ -1438,55 +1201,7 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 </table><br />
 
 
-   <h4 style="color:black">3.10 Multimerization 1</h4>
-
-<table class="rules-table">
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/multimerization_1/pd.png" width="78.4px" /></div>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/multimerization_1/af.png" width="69.6px" />
-		</td>
-	</tr>
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/multimerization_1/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/multimerization_1/pd.sbgn" target="_blank">Newt</a>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/multimerization_1/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/multimerization_1/af.sbgn" target="_blank">Newt</a>
-		</td>
-	</tr>
-</table><br />
-
-
-   <h4 style="color:black">3.11 Multimerization 2</h4>
-
-<table class="rules-table">
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/multimerization_2/pd.png" width="78.4px" /></div>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/multimerization_2/af.png" width="69.6px" />
-		</td>
-	</tr>
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/multimerization_2/pd.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/multimerization_2/pd.sbgn" target="_blank">Newt</a>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/multimerization_2/af.sbgn">SBGN-ML</a>&ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/multimerization_2/af.sbgn" target="_blank">Newt</a>
-		</td>
-	</tr>
-</table><br />
-
-
-   <h4 style="color:black">3.12 Oligomerisation x6 r</h4>
+   <h4 style="color:black">6.2 MULT-STI (3.12 Oligomerisation x6 r)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
