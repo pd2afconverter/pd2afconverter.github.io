@@ -20,11 +20,12 @@ This page offers the specification of the conversion rules. That includes identi
 
 Letter code used for human-readable rule identifiers: 
 A - Active; 
-ACT - Active; 
+AEPN - Active entity pool node; 
 ES - Empty set; 
 CURM - Currency metabolites; 
 CAT - Catalysis; 
 CATR - Catalysis reversible process; 
+CONS - Consumption; 
 I - Incactive; 
 INH - Inhibition; 
 INHR - Inhibition reverisible process; 
@@ -38,6 +39,106 @@ STI - Stimulation;
 TRANS - Transport.
 
 Light green used to highlight _active entities_.
+
+## 1. Rules for identifying active entity pool nodes
+
+The following rules are used to find _active entities_ in the context of Process Description maps. Then, in other rules, the status of the entities _active_ vs. _inactive_ is used for adequate conversion.
+
+   <h4 style="color:black">1.1 PD2AF:AEPN-A (0.1 act)</h4>
+
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<div><img src="/images/specification/active/active1_left.png" width="140px" /></div>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<img src="/images/specification/active/active_right.png" width="68px" />
+		</td>
+	</tr>
+</table>
+
+
+   <h4 style="color:black">1.2 PD2AF:AEPN-MOD (0.2 mod)</h4>
+   
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<div><img src="/images/specification/active/active2_left.png" width="140px" /></div>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<img src="/images/specification/active/active_right.png" width="68px" />
+		</td>
+	</tr>
+</table>
+
+
+   <h4 style="color:black">1.3 PD2AF:AEPN-STI (0.3 stim)</h4>
+
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<div><img src="/images/specification/active/active3_left.png" width="140px" /></div>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<img src="/images/specification/active/active_right.png" width="68px" />
+		</td>
+	</tr>
+</table>
+
+
+   <h4 style="color:black">1.4 PD2AF:AEPN-CAT (0.4 cat)</h4>
+
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<div><img src="/images/specification/active/active4_left.png" width="140px" /></div>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<img src="/images/specification/active/active_right.png" width="68px" />
+		</td>
+	</tr>
+</table>
+
+   <h4 style="color:black">1.5 PD2AF:AEPN-INH (0.5 inh)</h4>
+
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<div><img src="/images/specification/active/active5_left.png" width="140px" /></div>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<img src="/images/specification/active/active_right.png" width="68px" />
+		</td>
+	</tr>
+</table>
+
+   <h4 style="color:black">1.6 PD2AF:AEPN-NSTI (0.6 nstim)</h4>
+
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<div><img src="/images/specification/active/active6_left.png" width="140px" /></div>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<img src="/images/specification/active/active_right.png" width="68px" />
+		</td>
+	</tr>
+</table>
+
+<h4 style="color:black">1.7 PD2AF:AEPN-CONS (NEW)</h4>
+
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<div><img src="/images/specification/active/active6_left.png" width="140px" /></div>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<img src="/images/specification/active/active_right.png" width="68px" />
+		</td>
+	</tr>
+</table>
+
+<br />
 
 ## 1. Rules for finding active EPNs
 
