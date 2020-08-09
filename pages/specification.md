@@ -47,7 +47,7 @@ NSTI - Necessery stimulation;
 STI - Stimulation; 
 TRANS - Transport.
 
-Colour code used to highlight _active_ and _inactive entities_: green for _active entities_ and light grey for _inactive enitities_.
+Light green used to highlight _active entities_.
 
 ## 1. Rules for finding active EPNs
 
