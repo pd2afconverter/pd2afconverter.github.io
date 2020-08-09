@@ -19,24 +19,25 @@ This page offers the specification of the conversion rules. That includes identi
 
 
 Letter code used for human-readable rule identifiers: 
-A - Active; 
-AE - Active entity; 
-ES - Empty set; 
-CURM - Currency metabolites; 
-CAT - Catalysis; 
-CATR - Catalysis reversible process; 
-CONS - Consumption; 
-I - Incactive; 
-INH - Inhibition; 
-INHR - Inhibition reverisible process; 
-HIDINH - Hidden inhibition; 
-M - Metabolite; 
-MOD - Modulation; 
-MULT - Multimerisation; 
-NCURM - Noncurrency metabolites; 
-NSTI - Necessery stimulation; 
-STI - Stimulation; 
-TRANS - Transport.
+A - active; 
+AE - active entity; 
+ES - empty set; 
+CURM - currency metabolites; 
+CAT - catalysis; 
+CATR - catalysis, reversible process; 
+CONS - consumption; 
+HIDINH - hidden inhibition; 
+I - incactive; 
+INH - inhibition; 
+INHR - inhibition, reverisible process;
+LO - logical operator; 
+M - metabolite; 
+MOD - modulation; 
+MULT - multimerisation; 
+NCURM - noncurrency metabolites; 
+NSTI - necessery stimulation; 
+STI - stimulation; 
+TRANS - transport.
 
 Light green used to highlight _active entities_.
 
@@ -187,14 +188,14 @@ In graphical visualisatin of these rules we use _unspecified entity_ to show tha
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/ae-and/pd.png" width="152px" /></div>
+			<div><img src="/images/specification/ae-lo/pd.png" width="152px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
 		</td>
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/ae-and/pd.gml">GML</a>
+			<a href="/images/specification/ae-lo/pd.gml">GML</a>
 		</td>
 		<td style="width:300px; text-align:center;">
 		</td>
