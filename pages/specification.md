@@ -18,26 +18,26 @@ permalink: /specification
 This page offers the specification of the conversion rules. That includes identification of active entities and the translation of Process Description (PD) expressions to Activity Flow (AF) expressions. For each case we ensured that the converter translates exactly as shown: each left-hand diagram (PD) transforms into the corresponding right-hand diagram (AF).
 
 
-<!--Letter code:  
-A - Active  
-ACT - Active   
-ES - Empty set  
-CURM - Currency metabolites  
-CAT - Catalysis  
-CATR - Catalysis, reversible process  
-I - Incactive  
-INH - Inhibition  
-INHR - Inhibition, reverisible process  
-HIDINH - Hidden inhibition  
-M - Metabolite
-MOD - Modulation
-MULT - Multimerisation
-NCURM - Noncurrency metabolites  
-NSTI - Necessery stimulation   
-STI - Stimulation  
-TRANS - Transport  
--->
+Letter code used as a human-readable identifier with "PD2AF" prefix: 
+A - Active; 
+ACT - Active; 
+ES - Empty set; 
+CURM - Currency metabolites; 
+CAT - Catalysis; 
+CATR - Catalysis reversible process; 
+I - Incactive; 
+INH - Inhibition; 
+INHR - Inhibition reverisible process; 
+HIDINH - Hidden inhibition; 
+M - Metabolite; 
+MOD - Modulation; 
+MULT - Multimerisation; 
+NCURM - Noncurrency metabolites; 
+NSTI - Necessery stimulation; 
+STI - Stimulation; 
+TRANS - Transport.
 
+Colour code used to highlight _active_ and _inactive entities_: green for _active entities_ and light grey for _inactive enitities_.
 
 ## 1. Rules for finding active EPNs
 
