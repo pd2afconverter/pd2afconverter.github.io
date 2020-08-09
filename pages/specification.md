@@ -54,6 +54,13 @@ The following rules are used to find _active entities_ in the context of Process
 		<td style="width:300px; text-align:center;">
 		</td>
 	</tr>
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<a href="/images/specification/ae-a/pd.gml">GML</a>
+		</td>
+		<td style="width:300px; text-align:center;">
+		</td>
+	</tr>
 </table>
 
 
@@ -63,6 +70,13 @@ The following rules are used to find _active entities_ in the context of Process
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
 			<div><img src="/images/specification/ae-mod/pd.png" width="145px" /></div>
+		</td>
+		<td style="width:300px; text-align:center;">
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<a href="/images/specification/ae-mod/pd.gml">GML</a>
 		</td>
 		<td style="width:300px; text-align:center;">
 		</td>
@@ -80,6 +94,13 @@ The following rules are used to find _active entities_ in the context of Process
 		<td style="width:300px; text-align:center;">
 		</td>
 	</tr>
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<a href="/images/specification/ae-sti/pd.gml">GML</a>
+		</td>
+		<td style="width:300px; text-align:center;">
+		</td>
+	</tr>
 </table>
 
 
@@ -89,6 +110,13 @@ The following rules are used to find _active entities_ in the context of Process
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
 			<div><img src="/images/specification/ae-cat/pd.png" width="145px" /></div>
+		</td>
+		<td style="width:300px; text-align:center;">
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<a href="/images/specification/ae-cat/pd.gml">GML</a>
 		</td>
 		<td style="width:300px; text-align:center;">
 		</td>
@@ -105,6 +133,13 @@ The following rules are used to find _active entities_ in the context of Process
 		<td style="width:300px; text-align:center;">
 		</td>
 	</tr>
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<a href="/images/specification/ae-inh/pd.gml">GML</a>
+		</td>
+		<td style="width:300px; text-align:center;">
+		</td>
+	</tr>
 </table>
 
    <h4 style="color:black">1.6 PD2AF:AE-NSTI (0.6 nstim)</h4>
@@ -113,6 +148,13 @@ The following rules are used to find _active entities_ in the context of Process
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
 			<div><img src="/images/specification/ae-nsti/pd.png" width="145px" /></div>
+		</td>
+		<td style="width:300px; text-align:center;">
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<a href="/images/specification/ae-nsti/pd.gml">GML</a>
 		</td>
 		<td style="width:300px; text-align:center;">
 		</td>
