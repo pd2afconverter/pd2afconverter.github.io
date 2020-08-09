@@ -52,7 +52,6 @@ The following rules are used to find _active entities_ in the context of Process
 			<div><img src="/images/specification/active/active1_left.png" width="140px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/active/active_right.png" width="68px" />
 		</td>
 	</tr>
 </table>
@@ -66,7 +65,6 @@ The following rules are used to find _active entities_ in the context of Process
 			<div><img src="/images/specification/active/active2_left.png" width="140px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/active/active_right.png" width="68px" />
 		</td>
 	</tr>
 </table>
@@ -80,7 +78,6 @@ The following rules are used to find _active entities_ in the context of Process
 			<div><img src="/images/specification/active/active3_left.png" width="140px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/active/active_right.png" width="68px" />
 		</td>
 	</tr>
 </table>
@@ -94,7 +91,6 @@ The following rules are used to find _active entities_ in the context of Process
 			<div><img src="/images/specification/active/active4_left.png" width="140px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/active/active_right.png" width="68px" />
 		</td>
 	</tr>
 </table>
@@ -107,7 +103,6 @@ The following rules are used to find _active entities_ in the context of Process
 			<div><img src="/images/specification/active/active5_left.png" width="140px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/active/active_right.png" width="68px" />
 		</td>
 	</tr>
 </table>
@@ -120,7 +115,6 @@ The following rules are used to find _active entities_ in the context of Process
 			<div><img src="/images/specification/active/active6_left.png" width="140px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/active/active_right.png" width="68px" />
 		</td>
 	</tr>
 </table>
@@ -133,7 +127,6 @@ The following rules are used to find _active entities_ in the context of Process
 			<div><img src="/images/specification/active/active6_left.png" width="140px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/active/active_right.png" width="68px" />
 		</td>
 	</tr>
 </table>
