@@ -1002,18 +1002,7 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 
 Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degradation
 
-   <h4 style="color:black">4.? PD2AF:ES-NSTI-RNAA/I Trancscription (NEW)</h4>
-   
-   <h4 style="color:black">4.? PD2AF:ES-NSTI-IRNA Trancscription (NEW)</h4>
-   
-   <h4 style="color:black">4.? PD2AF:ES-NSTI-A/I Translation (NEW)</h4> 
-   
-   <h4 style="color:black">4.? PD2AF:ES-NSTI-I Translation (NEW)</h4>
-   
-   <h4 style="color:black">4.? PD2AF:ES-STI-A/I (NEW)</h4>
-   
-   
-   
+  
 	
    <h4 style="color:black">4.1 PD2AF:ES-STI-I (2.1 ss-sti-i)</h4>
 
@@ -1108,10 +1097,19 @@ Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degrada
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-inh-ss/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
-</table><br /><br /><br />
+</table><br />
    
+   <h4 style="color:black">4.? PD2AF:ES-NSTI-RNAA/I Trancscription (NEW)</h4>
    
+   <h4 style="color:black">4.? PD2AF:ES-NSTI-IRNA Trancscription (NEW)</h4>
+   
+   <h4 style="color:black">4.? PD2AF:ES-NSTI-A/I Translation (NEW)</h4> 
+   
+   <h4 style="color:black">4.? PD2AF:ES-NSTI-I Translation (NEW)</h4>
+   
+   <h4 style="color:black">4.? PD2AF:ES-STI-A/I (NEW)</h4>
 
+<br /><br />
 
 ## 5. Heterocomplex association and dissociation
 
