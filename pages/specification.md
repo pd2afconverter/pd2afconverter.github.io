@@ -694,81 +694,8 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 </table><br />
 
 
-   <h4 style="color:black">2.21 PD2AF:A-CATR-A (1.27 a-catr-a)</h4>
 
-<table class="rules-table">
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/a-catr-a/pd.png" width="240px" /></div>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/a-catr-a/af.png" width="240px" />
-		</td>
-	</tr>
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/a-catr-a/pd.gml">GML</a>&ensp; &ensp;
-			<a href="/images/specification/a-catr-a/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-catr-a/pd.sbgn" target="_blank">Newt</a>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/a-catr-a/af.gml">GML</a>&ensp; &ensp;
-			<a href="/images/specification/a-catr-a/af.sbgn">SBGN-ML</a>&ensp; &ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-catr-a/af.sbgn" target="_blank">Newt</a>
-		</td>
-	</tr>
-</table><br />
-	
-
-   <h4 style="color:black">2.22 PD2AF:A-CATR-I (1.28 a-catr-i)</h4>
-
-<table class="rules-table">
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/a-catr-i/pd.png" width="236px" /></div>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/a-catr-i/af.png" width="229.6px" />
-		</td>
-	</tr>
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/a-catr-i/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-catr-i/pd.sbgn" target="_blank">Newt</a>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/a-catr-i/af.sbgn">SBGN-ML</a>&ensp; &ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-catr-i/af.sbgn" target="_blank">Newt</a>
-		</td>
-	</tr>
-</table><br />
-
-
-   <h4 style="color:black">2.23 PD2AF:I-INHR-A (1.29 i-inhr-a)</h4>
-
-<table class="rules-table">
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/i-inhr-a/pd.png" width="232px" /></div>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/i-inhr-a/af.png" width="261.6px" />
-		</td>
-	</tr>
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/i-inhr-a/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/i-inhr-a/pd.sbgn" target="_blank">Newt</a>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/i-inhr-a/af.sbgn">SBGN-ML</a>&ensp; &ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/i-inhr-a/af.sbgn" target="_blank">Newt</a>
-		</td>
-	</tr>
-</table><br />
-
-
-   <h4 style="color:black">2.24 PD2AF:CURM Currency metabolites (9.1 Currency metabolites 1)</h4>
+   <h4 style="color:black">2.21 PD2AF:CURM Currency metabolites (9.1 Currency metabolites 1)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -792,7 +719,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 </table><br />	
 
 
-   <h4 style="color:black">2.25 PD2AF:NCURM Noncurrency metabolites (9.2 Noncurrency metabolites 1)</h4>
+   <h4 style="color:black">2.22 PD2AF:NCURM Noncurrency metabolites (9.2 Noncurrency metabolites 1)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -815,6 +742,78 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 	</tr>
 </table><br /><br /><br />
 
+
+
+<h4 style="color:black">2.23 PD2AF:A-CATR-A (1.27 a-catr-a)</h4>
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<div><img src="/images/specification/a-catr-a/pd.png" width="240px" /></div>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<img src="/images/specification/a-catr-a/af.png" width="240px" />
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<a href="/images/specification/a-catr-a/pd.gml">GML</a>&ensp; &ensp;
+			<a href="/images/specification/a-catr-a/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-catr-a/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<a href="/images/specification/a-catr-a/af.gml">GML</a>&ensp; &ensp;
+			<a href="/images/specification/a-catr-a/af.sbgn">SBGN-ML</a>&ensp; &ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-catr-a/af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
+</table><br />
+
+
+
+   <h4 style="color:black">2.24 PD2AF:A-CATR-I (1.28 a-catr-i)</h4>
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<div><img src="/images/specification/a-catr-i/pd.png" width="236px" /></div>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<img src="/images/specification/a-catr-i/af.png" width="229.6px" />
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<a href="/images/specification/a-catr-i/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-catr-i/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<a href="/images/specification/a-catr-i/af.sbgn">SBGN-ML</a>&ensp; &ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-catr-i/af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
+</table><br />
+
+
+   <h4 style="color:black">2.25 PD2AF:I-INHR-A (1.29 i-inhr-a)</h4>
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<div><img src="/images/specification/i-inhr-a/pd.png" width="232px" /></div>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<img src="/images/specification/i-inhr-a/af.png" width="261.6px" />
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<a href="/images/specification/i-inhr-a/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/i-inhr-a/pd.sbgn" target="_blank">Newt</a>
+		</td>
+		<td style="width:300px; text-align:center;">
+			<a href="/images/specification/i-inhr-a/af.sbgn">SBGN-ML</a>&ensp; &ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/i-inhr-a/af.sbgn" target="_blank">Newt</a>
+		</td>
+	</tr>
+</table><br />
 
 
 ## 3. Metabolic reactions
