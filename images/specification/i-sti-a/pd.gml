@@ -1,4 +1,4 @@
-# generated with VANTED V2.6.5 at Sun Aug 09 06:37:22 CEST 2020
+# generated with VANTED V2.7.2 at Sun Aug 09 06:50:57 CEST 2020
 graph [
   graphbackgroundcolor "#ffffff"
   sbgn [
@@ -7,42 +7,6 @@ graph [
   directed 1
   node [
     id 1
-    zlevel -1
-
-    graphics [
-      x 150.0
-      y 30.0
-      w 80.0
-      h 40.0
-      fill "#FFFFFF"
-      outline "#000000"
-      frameThickness 2.0
-      gradient 0.0
-      opacity 1.0
-      rounding 15.0
-      type "rectangle"
-    ]
-    label "C"
-    labelgraphics [
-      alignment "center"
-      anchor "c"
-      color "#000000"
-      fontName "Arial"
-      fontSize 14
-      fontStyle "plain"
-      labelOffset [
-        x 0.0
-        y 0.0
-      ]
-      type "text"
-    ]
-    sbgn [
-      glyphid "C"
-      role "MACROMOLECULE"
-    ]
-  ]
-  node [
-    id 2
     zlevel -1
 
     graphics [
@@ -78,7 +42,7 @@ graph [
       color "#000000"
       fontName "Arial"
       fontSize 10
-      fontStyle "circle"
+      fontStyle "plain,oval"
       labelOffset [
         x 0.0
         y 0.0
@@ -88,7 +52,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text " s1"
+      text "s1"
       type "text"
     ]
     sbgn [
@@ -97,7 +61,7 @@ graph [
     ]
   ]
   node [
-    id 3
+    id 2
     zlevel -1
 
     graphics [
@@ -105,12 +69,12 @@ graph [
       y 130.0
       w 80.0
       h 40.0
-      fill "#A0D98F"
+      fill "#FFFFFF"
       outline "#000000"
       frameThickness 2.0
       gradient 0.0
       opacity 1.0
-      rounding 20.0
+      rounding 15.0
       type "rectangle"
     ]
     label "A"
@@ -133,7 +97,7 @@ graph [
       color "#000000"
       fontName "Arial"
       fontSize 10
-      fontStyle "circle"
+      fontStyle "plain,oval"
       labelOffset [
         x 0.0
         y 0.0
@@ -148,6 +112,42 @@ graph [
     ]
     sbgn [
       glyphid "A2"
+      role "MACROMOLECULE"
+    ]
+  ]
+  node [
+    id 3
+    zlevel -1
+
+    graphics [
+      x 150.0
+      y 30.0
+      w 80.0
+      h 40.0
+      fill "#FFFFFF"
+      outline "#000000"
+      frameThickness 2.0
+      gradient 0.0
+      opacity 1.0
+      rounding 15.0
+      type "rectangle"
+    ]
+    label "C"
+    labelgraphics [
+      alignment "center"
+      anchor "c"
+      color "#000000"
+      fontName "Arial"
+      fontSize 14
+      fontStyle "plain"
+      labelOffset [
+        x 0.0
+        y 0.0
+      ]
+      type "text"
+    ]
+    sbgn [
+      glyphid "C"
       role "MACROMOLECULE"
     ]
   ]
@@ -175,7 +175,7 @@ graph [
   ]
   edge [
     id 5
-    source 2
+    source 1
     target 4
     SBGN [
       BendIn "126.0;130.0"
@@ -204,7 +204,7 @@ graph [
   edge [
     id 6
     source 4
-    target 3
+    target 2
     SBGN [
       BendOut "174.0;130.0"
     ]
@@ -231,7 +231,7 @@ graph [
   ]
   edge [
     id 7
-    source 1
+    source 3
     target 4
     graphics [
       fill "#000000"
