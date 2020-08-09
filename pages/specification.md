@@ -144,11 +144,11 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/i-sti-i/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/i-sti-i/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/i-sti-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/i-sti-i/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/i-sti-i/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/i-sti-i/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -168,11 +168,11 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 	</tr>
         <tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/i-cat-i/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/i-cat-i/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/i-cat-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/i-cat-i/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/i-cat-i/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/i-cat-i/af.sbgn" target="_blank">Newt</a>
 		</td>
         </tr>
@@ -192,11 +192,11 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/i-nsti-i/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/i-nsti-i/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/i-nsti-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/i-nsti-i/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/i-nsti-i/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/i-nsti-i/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -216,11 +216,11 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/i-mod-i/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/i-mod-i/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/i-mod-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/i-mod-i/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/i-mod-i/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/i-mod-i/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -242,11 +242,11 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/i-inh-i/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/i-inh-i/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/i-inh-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/i-inh-i/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/i-inh-i/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/i-inh-i/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -266,12 +266,12 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/i-sti-a/pd.gml">GML</a>&ensp; &ensp;
-			<a href="/images/specification/i-sti-a/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
+			<a href="/images/specification/i-sti-a/pd.gml">GML</a>&ensp; &ensp; &ensp; &ensp;
+			<a href="/images/specification/i-sti-a/pd.sbgn">SBGN-ML</a>&ensp; &ensp; &ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/i-sti-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/i-sti-a/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/i-sti-a/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/i-sti-a/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -291,11 +291,11 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/i-cat-a/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/i-cat-a/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/i-cat-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/i-cat-a/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/i-cat-a/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/i-cat-a/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -315,11 +315,11 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/i-nsti-a/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/i-nsti-a/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/i-nsti-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/i-nsti-a/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/i-nsti-a/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/i-nsti-a/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -339,11 +339,11 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/i-mod-a/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/i-mod-a/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/i-mod-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/i-mod-a/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/i-mod-a/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/i-mod-a/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -363,11 +363,11 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/i-inh-a/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/i-inh-a/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/i-inh-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/i-inh-a/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/i-inh-a/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/i-inh-a/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -387,11 +387,11 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/a-sti-i/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/a-sti-i/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-sti-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/a-sti-i/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/a-sti-i/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-sti-i/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -411,11 +411,11 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/a-cat-i/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/a-cat-i/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-cat-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/a-cat-i/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/a-cat-i/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-cat-i/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -435,11 +435,11 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/a-nsti-i/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/a-nsti-i/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-nsti-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/a-nsti-i/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/a-nsti-i/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-nsti-i/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -459,11 +459,11 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/a-mod-i/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/a-mod-i/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-mod-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/a-mod-i/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/a-mod-i/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-mod-i/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -484,11 +484,11 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/a-inh-i/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/a-inh-i/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-inh-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/a-inh-i/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/a-inh-i/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-inh-i/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -508,11 +508,11 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/a-sti-a/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/a-sti-a/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-sti-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/a-sti-a/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/a-sti-a/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-sti-a/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -532,11 +532,11 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/a-cat-a/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/a-cat-a/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-cat-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/a-cat-a/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/a-cat-a/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-cat-a/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -556,11 +556,11 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/a-nsti-a/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/a-nsti-a/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-nsti-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/a-nsti-a/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/a-nsti-a/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-nsti-a/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -580,11 +580,11 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/a-mod-a/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/a-mod-a/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-mod-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
 	<td style="width:300px; text-align:center;">
-			<a href="/images/specification/a-mod-a/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/a-mod-a/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-mod-a/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -604,11 +604,11 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/a-inh-a/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/a-inh-a/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-inh-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/a-inh-a/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/a-inh-a/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-inh-a/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -628,11 +628,11 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/a-catr-a/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/a-catr-a/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-catr-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/a-catr-a/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/a-catr-a/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-catr-a/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -652,11 +652,11 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/a-catr-i/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/a-catr-i/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-catr-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/a-catr-i/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/a-catr-i/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-catr-i/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -676,11 +676,11 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/i-inhr-a/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/i-inhr-a/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/i-inhr-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/i-inhr-a/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/i-inhr-a/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/i-inhr-a/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -700,11 +700,11 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/currency_metabolites_1/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/currency_metabolites_1/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/currency_metabolites_1/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/currency_metabolites_1/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/currency_metabolites_1/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/currency_metabolites_1/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -724,11 +724,11 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/noncurrency_metabolites_1/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/noncurrency_metabolites_1/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/noncurrency_metabolites_1/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/noncurrency_metabolites_1/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/noncurrency_metabolites_1/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/noncurrency_metabolites_1/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -754,11 +754,11 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/m-cat-m/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/m-cat-m/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/m-cat-m/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/m-cat-m/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/m-cat-m/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/m-cat-m/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -780,11 +780,11 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/m-sti-m/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/m-sti-m/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/m-sti-m/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/m-sti-m/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/m-sti-m/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/m-sti-m/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -806,11 +806,11 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/m-nsti-m/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/m-nsti-m/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/m-nsti-m/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/m-nsti-m/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/m-nsti-m/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/m-nsti-m/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -832,11 +832,11 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/m-mod-m/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/m-mod-m/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/m-mod-m/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/m-mod-m/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/m-mod-m/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/m-mod-m/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -856,11 +856,11 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/m-inh-m/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/m-inh-m/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/m-inh-m/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/m-inh-m/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/m-inh-m/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/m-inh-m/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -880,11 +880,11 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/m-catr-m/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/m-catr-m/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/m-catr-m/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/m-catr-m/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/m-catr-m/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/m-catr-m/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -904,11 +904,11 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/m-inhr-m/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/m-inhr-m/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/m-inhr-m/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/m-inhr-m/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/m-inhr-m/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/m-inhr-m/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -948,11 +948,11 @@ Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degrada
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/ss-sti-i/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/ss-sti-i/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/ss-sti-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/ss-sti-i/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/ss-sti-i/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/ss-sti-i/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -972,11 +972,11 @@ Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degrada
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/i-sti-ss/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/i-sti-ss/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/i-sti-ss/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/i-sti-ss/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/i-sti-ss/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/i-sti-ss/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -996,11 +996,11 @@ Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degrada
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/a-cat-ss/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/a-cat-ss/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-cat-ss/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/a-cat-ss/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/a-cat-ss/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-cat-ss/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -1020,11 +1020,11 @@ Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degrada
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/a-inh-ss/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/a-inh-ss/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-inh-ss/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/a-inh-ss/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/a-inh-ss/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-inh-ss/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -1051,11 +1051,11 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/complex_association_with_complex_name/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/complex_association_with_complex_name/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/complex_association_with_complex_name/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/complex_association_with_complex_name/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/complex_association_with_complex_name/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/complex_association_with_complex_name/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -1075,11 +1075,11 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/complex_association/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/complex_association/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/complex_association/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/complex_association/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/complex_association/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/complex_association/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -1100,11 +1100,11 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/complex_association_regulated/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/complex_association_regulated/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/complex_association_regulated/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/complex_association_regulated/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/complex_association_regulated/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/complex_association_regulated/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -1124,11 +1124,11 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/complex_dissociation/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/complex_dissociation/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/complex_dissociation/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/complex_dissociation/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/complex_dissociation/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/complex_dissociation/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -1195,11 +1195,11 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/oligomerization_x10/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/oligomerization_x10/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/oligomerization_x10/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/oligomerization_x10/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/oligomerization_x10/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/oligomerization_x10/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -1219,11 +1219,11 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/oligomerization_x6_r/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/oligomerization_x6_r/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/oligomerization_x6_r/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/oligomerization_x6_r/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/oligomerization_x6_r/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/oligomerization_x6_r/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -1249,11 +1249,11 @@ Associated terms: [SBO:0000185](https://identifiers.org/sbo/SBO:0000185) tranloc
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/translocation_1/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/translocation_1/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/translocation_1/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/translocation_1/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/translocation_1/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/translocation_1/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -1273,11 +1273,11 @@ Associated terms: [SBO:0000185](https://identifiers.org/sbo/SBO:0000185) tranloc
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/translocation_2/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/translocation_2/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/translocation_2/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/translocation_2/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/translocation_2/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/translocation_2/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -1301,11 +1301,11 @@ Associated terms: [SBO:0000185](https://identifiers.org/sbo/SBO:0000185) tranloc
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/hidden_inhibition_1/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/hidden_inhibition_1/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/hidden_inhibition_1/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/hidden_inhibition_1/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/hidden_inhibition_1/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/hidden_inhibition_1/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
@@ -1328,11 +1328,11 @@ This is a combination of rules 8.1 and 2.7
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/hidden_inhibition_2/pd.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/hidden_inhibition_2/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/hidden_inhibition_2/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/hidden_inhibition_2/af.sbgn">SBGN-ML</a>&ensp;
+			<a href="/images/specification/hidden_inhibition_2/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/hidden_inhibition_2/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
