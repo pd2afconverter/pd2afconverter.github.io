@@ -1,4 +1,4 @@
-# generated with VANTED V2.7.2 at Sun Aug 09 16:29:55 CEST 2020
+# generated with VANTED V2.7.2 at Sun Aug 09 16:44:54 CEST 2020
 graph [
   graphbackgroundcolor "#ffffff"
   sbgn [
@@ -28,7 +28,7 @@ graph [
     ]
   ]
   node [
-    id 5
+    id 2
     zlevel -1
 
     graphics [
@@ -41,10 +41,10 @@ graph [
       frameThickness 2.0
       gradient 0.0
       opacity 1.0
-      rounding 15.0
-      type "rectangle"
+      rounding 0.0
+      type "oval"
     ]
-    label "A"
+    label "C"
     labelgraphics [
       alignment "center"
       anchor "c"
@@ -63,8 +63,8 @@ graph [
       anchor "btc"
       color "#000000"
       fontName "Arial"
-      fontSize 10
-      fontStyle "capsule"
+      fontSize 12
+      fontStyle "plain,capsule"
       labelOffset [
         x 0.0
         y 0.0
@@ -78,7 +78,8 @@ graph [
       type "text"
     ]
     sbgn [
-      role "MACROMOLECULE"
+      glyphid "A1"
+      role "UNSPECIFIEDENTITY"
     ]
   ]
 ]
