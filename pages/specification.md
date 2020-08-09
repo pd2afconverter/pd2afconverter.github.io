@@ -49,7 +49,7 @@ The following rules are used to find _active entities_ in the context of Process
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/ae-sti/pd.png" width="145px" /></div>
+			<div><img src="/images/specification/ae-a/pd.png" width="145px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
 		</td>
@@ -62,7 +62,7 @@ The following rules are used to find _active entities_ in the context of Process
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/ae-sti/pd.png" width="145px" /></div>
+			<div><img src="/images/specification/ae-mod/pd.png" width="145px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
 		</td>
@@ -88,7 +88,7 @@ The following rules are used to find _active entities_ in the context of Process
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/ae-sti/pd.png" width="145px" /></div>
+			<div><img src="/images/specification/ae-cat/pd.png" width="145px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
 		</td>
@@ -100,7 +100,7 @@ The following rules are used to find _active entities_ in the context of Process
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/ae-sti/pd.png" width="145px" /></div>
+			<div><img src="/images/specification/ae-inh/pd.png" width="145px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
 		</td>
@@ -112,7 +112,7 @@ The following rules are used to find _active entities_ in the context of Process
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/ae-sti/pd.png" width="145px" /></div>
+			<div><img src="/images/specification/ae-nsti/pd.png" width="145px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
 		</td>
@@ -129,96 +129,16 @@ The following rules are used to find _active entities_ in the context of Process
 		<td style="width:300px; text-align:center;">
 		</td>
 	</tr>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<a href="/images/specification/ae-cons/pd.gml">GML</a>
+		<td style="width:300px; text-align:center;">
+		</td>
+	</tr>
 </table>
 
 <br />
-
-## 1. Rules for finding active EPNs
-
-Following are the rules that define which EPNs are active.
-
-
-   <h4 style="color:black">1.1 PD2AF:ACT (0.1 act)</h4>
-
-<table class="rules-table">
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/active/active1_left.png" width="140px" /></div>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/active/active_right.png" width="68px" />
-		</td>
-	</tr>
-</table>
-
-
-   <h4 style="color:black">1.2 PD2AF:MOD (0.2 mod)</h4>
-   
-<table class="rules-table">
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/active/active2_left.png" width="140px" /></div>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/active/active_right.png" width="68px" />
-		</td>
-	</tr>
-</table>
-
-
-   <h4 style="color:black">1.3 PD2AF:STI (0.3 stim)</h4>
-
-<table class="rules-table">
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/active/active3_left.png" width="140px" /></div>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/active/active_right.png" width="68px" />
-		</td>
-	</tr>
-</table>
-
-
-   <h4 style="color:black">1.4 PD2AF:CAT (0.4 cat)</h4>
-
-<table class="rules-table">
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/active/active4_left.png" width="140px" /></div>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/active/active_right.png" width="68px" />
-		</td>
-	</tr>
-</table>
-
-   <h4 style="color:black">1.5 PD2AF:INH (0.5 inh)</h4>
-
-<table class="rules-table">
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/active/active5_left.png" width="145px" /></div>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/active/active_right.png" width="68px" />
-		</td>
-	</tr>
-</table>
-
-   <h4 style="color:black">1.6 PD2AF:NSTI (0.6 nstim)</h4>
-
-<table class="rules-table">
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/ae-cons/pd.png" width="145px" /></div>
-		</td>
-		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/active/active_right.png" width="68px" />
-		</td>
-	</tr>
-</table><br />
-
 
 ## 2. Activation and deactivation
 
