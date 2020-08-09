@@ -28,7 +28,7 @@ permalink: /specification
 This page offers the specification of the conversion rules. That includes identification of active entities and the translation of Process Description (PD) expressions to Activity Flow (AF) expressions. For each case we ensured that the converter translates exactly as shown: each left-hand diagram (PD) transforms into the corresponding right-hand diagram (AF).
 
 
-Letter code used as a human-readable identifier with "PD2AF" prefix: 
+Letter code used for human-readable rule identifiers: 
 A - Active; 
 ACT - Active; 
 ES - Empty set; 
