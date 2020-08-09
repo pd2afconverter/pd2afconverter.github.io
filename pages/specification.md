@@ -271,7 +271,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 			<div><img src="/images/specification/i-sti-a/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/i-sti-a/af.png" width="69.6px" />
+			<img src="/images/specification/i-sti-a/af.png" width="78px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
