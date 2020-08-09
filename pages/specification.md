@@ -20,12 +20,15 @@ This page offers the specification of the conversion rules. That includes identi
 
 Letter code used for human-readable rule identifiers: 
 A - active; 
+AS - association; 
 AE - active entity; 
-ES - empty set; 
 CURM - currency metabolites; 
 CAT - catalysis; 
 CATR - catalysis, reversible process; 
+COMPL - complex; 
 CONS - consumption; 
+DIs - dissociation; 
+ES - empty set; 
 HIDINH - hidden inhibition; 
 I - incactive; 
 INH - inhibition; 
@@ -34,6 +37,7 @@ LO - logical operator;
 M - metabolite; 
 MOD - modulation; 
 MULT - multimerisation; 
+N - named;
 NCURM - noncurrency metabolites; 
 NSTI - necessery stimulation; 
 STI - stimulation; 
@@ -1112,7 +1116,7 @@ Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degrada
 Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-covalent binding, [SBO:0000180](https://identifiers.org/sbo/SBO:0000180) dissociation, [GO:0005488](https://identifiers.org/quickgo/GO:0005488) binding
 	
 	
-   <h4 style="color:black">5.1 PD2AF:COMPX-AS(N) (5.1 Heterocomplex association (named complex))</h4>
+   <h4 style="color:black">5.1 PD2AF:COMPL-AS-N (5.1 Heterocomplex association (named complex))</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1136,7 +1140,7 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 </table><br />
 	
 
-   <h4 style="color:black">5.2 PD2AF:COMPX-AS(UN) (5.2 Heterocomplex association (unnamed complex))</h4>
+   <h4 style="color:black">5.2 PD2AF:COMPX-AS (5.2 Heterocomplex association (unnamed complex))</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
