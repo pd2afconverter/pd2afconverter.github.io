@@ -25,11 +25,11 @@
         </glyph>
         <arc target="A1" source="and-725.1" id="positive-influence-728" class="positive influence">
             <start y="86.5" x="48.5"/>
-            <end y="115.0" x="50.0"/>
+            <end y="115.0" x="64.22681"/>
         </arc>
         <arc target="A2" source="and-729.2" id="positive-influence-732" class="positive influence">
             <start y="86.5" x="250.5"/>
-            <end y="115.0" x="250.0"/>
+            <end y="115.0" x="235.36082"/>
         </arc>
         <arc target="and-729.1" source="C" id="arc1" class="logic arc">
             <start y="55.0" x="161.06796"/>
