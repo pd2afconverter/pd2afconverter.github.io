@@ -7,7 +7,7 @@ permalink: /specification
 # PD2AF 1.0 Specification
 
 [1. Rules for identifying active entity pool nodes](#1-rules-for-identifying-active-entity-pool-nodes)  
-[2. Activation and deactivation (posttranslational modifications)](#2-activation-and-deactivation)  
+[2. Activation and deactivation (posttranslational modification)](#2-activation-and-deactivation)  
 [3. Metabolic reactions](#3-metabolic-reactions)  
 [4. Empty set (production, degradation, transcription, translation)](#4-empty-set-production-degradation-transcription-translation)  
 [5. Heterocomplex association and dissociation](#5-heterocomplex-association-and-dissociation)  
