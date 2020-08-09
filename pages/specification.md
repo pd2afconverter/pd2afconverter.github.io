@@ -242,10 +242,10 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 <table class="rules-table">
 	<tr>
 		<td style="width:300px; text-align:center;">
-			<div><img src="/images/specification/i-cat-i/pd.png" width="246.4px" /></div>
+			<div><img src="/images/specification/i-cat-i/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/i-cat-i/af.png" width="69.6px" />
+			<img src="/images/specification/i-cat-i/af.png" width="78px" />
 		</td>
 	</tr>
         <tr style="font-size:90%">
@@ -266,10 +266,10 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/i-nsti-i/pd.png" width="246.4px" /></div>
+			<div><img src="/images/specification/i-nsti-i/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/i-nsti-i/af.png" width="69.6px" />
+			<img src="/images/specification/i-nsti-i/af.png" width="78px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
@@ -290,10 +290,10 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/i-mod-i/pd.png" width="246.4px" /></div>
+			<div><img src="/images/specification/i-mod-i/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/i-mod-i/af.png" width="69.6px" />
+			<img src="/images/specification/i-mod-i/af.png" width="78px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
@@ -316,10 +316,10 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/i-inh-i/pd.png" width="246.4px" /></div>
+			<div><img src="/images/specification/i-inh-i/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/i-inh-i/af.png" width="69.6px" />
+			<img src="/images/specification/i-inh-i/af.png" width="78px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
@@ -368,7 +368,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 			<div><img src="/images/specification/i-cat-a/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/i-cat-a/af.png" width="77.6px" />
+			<img src="/images/specification/i-cat-a/af.png" width="78px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
@@ -392,7 +392,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 			<div><img src="/images/specification/i-nsti-a/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/i-nsti-a/af.png" width="77.6px" />
+			<img src="/images/specification/i-nsti-a/af.png" width="78px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
@@ -416,7 +416,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 			<div><img src="/images/specification/i-mod-a/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/i-mod-a/af.png" width="77.6px" />
+			<img src="/images/specification/i-mod-a/af.png" width="78px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
@@ -440,7 +440,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 			<div><img src="/images/specification/i-inh-a/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/i-inh-a/af.png" width="77.6px" />
+			<img src="/images/specification/i-inh-a/af.png" width="78px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
@@ -461,10 +461,10 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/a-sti-i/pd.png" width="236px" /></div>
+			<div><img src="/images/specification/a-sti-i/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/a-sti-i/af.png" width="77.6px" />
+			<img src="/images/specification/a-sti-i/af.png" width="78px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
@@ -485,10 +485,10 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/a-cat-i/pd.png" width="236px" /></div>
+			<div><img src="/images/specification/a-cat-i/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/a-cat-i/af.png" width="69.6px" />
+			<img src="/images/specification/a-cat-i/af.png" width="78px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
@@ -509,10 +509,10 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/a-nsti-i/pd.png" width="236px" /></div>
+			<div><img src="/images/specification/a-nsti-i/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/a-nsti-i/af.png" width="69.6px" />
+			<img src="/images/specification/a-nsti-i/af.png" width="78px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
@@ -533,10 +533,10 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/a-mod-i/pd.png" width="244px" /></div>
+			<div><img src="/images/specification/a-mod-i/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/a-mod-i/af.png" width="77.6px" />
+			<img src="/images/specification/a-mod-i/af.png" width="78px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
@@ -558,10 +558,10 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/a-inh-i/pd.png" width="236px" /></div>
+			<div><img src="/images/specification/a-inh-i/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/a-inh-i/af.png" width="69.6px" />
+			<img src="/images/specification/a-inh-i/af.png" width="78px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
@@ -607,10 +607,10 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/a-cat-a/pd.png" width="234.4px" /></div>
+			<div><img src="/images/specification/a-cat-a/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/a-cat-a/af.png" width="229.6px" />
+			<img src="/images/specification/a-cat-a/af.png" width="240px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
@@ -631,10 +631,10 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/a-nsti-a/pd.png" width="242.4px" /></div>
+			<div><img src="/images/specification/a-nsti-a/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/a-nsti-a/af.png" width="237.6px" />
+			<img src="/images/specification/a-nsti-a/af.png" width="240px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
@@ -655,10 +655,10 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/a-mod-a/pd.png" width="242.4px" /></div>
+			<div><img src="/images/specification/a-mod-a/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/a-mod-a/af.png" width="237.6px" />
+			<img src="/images/specification/a-mod-a/af.png" width="240px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
@@ -679,10 +679,10 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/a-inh-a/pd.png" width="234.4px" /></div>
+			<div><img src="/images/specification/a-inh-a/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/a-inh-a/af.png" width="229.6px" />
+			<img src="/images/specification/a-inh-a/af.png" width="240px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
@@ -704,10 +704,10 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/currency_metabolites_1/pd.png" width="232px" /></div>
+			<div><img src="/images/specification/currency_metabolites_1/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/currency_metabolites_1/af.png" width="69.6px" />
+			<img src="/images/specification/currency_metabolites_1/af.png" width="78px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
@@ -728,10 +728,10 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/noncurrency_metabolites_1/pd.png" width="232px" /></div>
+			<div><img src="/images/specification/noncurrency_metabolites_1/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/noncurrency_metabolites_1/af.png" width="289.6px" />
+			<img src="/images/specification/noncurrency_metabolites_1/af.png" width="240px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
@@ -778,10 +778,10 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/a-catr-i/pd.png" width="236px" /></div>
+			<div><img src="/images/specification/a-catr-i/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/a-catr-i/af.png" width="229.6px" />
+			<img src="/images/specification/a-catr-i/af.png" width="240px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
@@ -801,10 +801,10 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/i-inhr-a/pd.png" width="232px" /></div>
+			<div><img src="/images/specification/i-inhr-a/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/i-inhr-a/af.png" width="261.6px" />
+			<img src="/images/specification/i-inhr-a/af.png" width="240px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
