@@ -42,7 +42,7 @@ Light green used to highlight _active entities_.
 
 ## 1. Rules for identifying active entity pool nodes
 
-The following rules are used to find _active entities_ in the context of Process Description maps. Then, in other rules, the status of the entities _active_ vs. _inactive_ is used for adequate conversion. An entity is identified as _active_ if it is marked as "active" in a state variable, or has an outgoing regulatory arc (modulation, stimulation, catalysis, inhibition, necessery stimiulation), or has a consumption arc. 
+The following rules are used to find _active entities_ in the context of Process Description maps. Then, in other rules, the status of the entities _active_ vs. _inactive_ is used for adequate conversion. An entity is identified as _active_ if it is marked as "active" in a state variable, or has an outgoing regulatory arc (modulation, stimulation, catalysis, inhibition, necessery stimiulation), or has a consumption arc, or has a logic arc (input to a _logical operator_). 
 
 In graphical visualisatin of these rules we use _unspecified entity_ to show that different types of entities can be in its place such as _macromolecule_ (protein), _simple chemical_ (metabolite), _nucleic acid feature_ (gene, mRNA) or _complex_.
 
