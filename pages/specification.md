@@ -1213,7 +1213,7 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 
 ## 6. Multimerisation
 
-   <h4 style="color:black">6.1 PD2AF:MULT (3.1 - 3.11)</h4>
+
 
 <font size="2">
 <table>
@@ -1251,6 +1251,8 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 </font>
 
 <br />
+
+<h4 style="color:black">6.1 PD2AF:MULT (3.1 - 3.11)</h4>
 
 <span style="color:red">AM: new image with N:X and A-Y</span>
 
