@@ -20,7 +20,7 @@ This page offers the specification of the conversion rules. That includes identi
 
 Letter code used for human-readable rule identifiers: 
 A - Active; 
-AEPN - Active entity pool node; 
+AE - Active entity; 
 ES - Empty set; 
 CURM - Currency metabolites; 
 CAT - Catalysis; 
@@ -44,7 +44,7 @@ Light green used to highlight _active entities_.
 
 The following rules are used to find _active entities_ in the context of Process Description maps. Then, in other rules, the status of the entities _active_ vs. _inactive_ is used for adequate conversion.
 
-   <h4 style="color:black">1.1 PD2AF:AEPN-A (0.1 act)</h4>
+   <h4 style="color:black">1.1 PD2AF:AE-A (0.1 act)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -57,7 +57,7 @@ The following rules are used to find _active entities_ in the context of Process
 </table>
 
 
-   <h4 style="color:black">1.2 PD2AF:AEPN-MOD (0.2 mod)</h4>
+   <h4 style="color:black">1.2 PD2AF:AE-MOD (0.2 mod)</h4>
    
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -70,7 +70,7 @@ The following rules are used to find _active entities_ in the context of Process
 </table>
 
 
-   <h4 style="color:black">1.3 PD2AF:AEPN-STI (0.3 stim)</h4>
+   <h4 style="color:black">1.3 PD2AF:AE-STI (0.3 stim)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -83,7 +83,7 @@ The following rules are used to find _active entities_ in the context of Process
 </table>
 
 
-   <h4 style="color:black">1.4 PD2AF:AEPN-CAT (0.4 cat)</h4>
+   <h4 style="color:black">1.4 PD2AF:AE-CAT (0.4 cat)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -95,7 +95,7 @@ The following rules are used to find _active entities_ in the context of Process
 	</tr>
 </table>
 
-   <h4 style="color:black">1.5 PD2AF:AEPN-INH (0.5 inh)</h4>
+   <h4 style="color:black">1.5 PD2AF:AE-INH (0.5 inh)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -107,7 +107,7 @@ The following rules are used to find _active entities_ in the context of Process
 	</tr>
 </table>
 
-   <h4 style="color:black">1.6 PD2AF:AEPN-NSTI (0.6 nstim)</h4>
+   <h4 style="color:black">1.6 PD2AF:AE-NSTI (0.6 nstim)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -119,7 +119,7 @@ The following rules are used to find _active entities_ in the context of Process
 	</tr>
 </table>
 
-<h4 style="color:black">1.7 PD2AF:AEPN-CONS (NEW)</h4>
+<h4 style="color:black">1.7 PD2AF:AE-CONS (NEW)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
