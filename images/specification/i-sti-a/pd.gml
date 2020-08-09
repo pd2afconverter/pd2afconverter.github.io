@@ -1,4 +1,4 @@
-# generated with VANTED V2.7.2 at Sun Aug 09 06:50:57 CEST 2020
+# generated with VANTED V2.7.2 at Sun Aug 09 06:54:57 CEST 2020
 graph [
   graphbackgroundcolor "#ffffff"
   sbgn [
@@ -52,7 +52,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "s1"
+      text "S1"
       type "text"
     ]
     sbgn [
@@ -69,7 +69,7 @@ graph [
       y 130.0
       w 80.0
       h 40.0
-      fill "#FFFFFF"
+      fill "#B1D992"
       outline "#000000"
       frameThickness 2.0
       gradient 0.0
@@ -97,7 +97,7 @@ graph [
       color "#000000"
       fontName "Arial"
       fontSize 10
-      fontStyle "plain,oval"
+      fontStyle "oval"
       labelOffset [
         x 0.0
         y 0.0
@@ -107,7 +107,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "s2"
+      text "S2"
       type "text"
     ]
     sbgn [
