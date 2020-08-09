@@ -129,7 +129,6 @@ The following rules are used to find _active entities_ in the context of Process
 		<td style="width:300px; text-align:center;">
 		</td>
 	</tr>
-	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
 			<a href="/images/specification/ae-cons/pd.gml">GML</a>
