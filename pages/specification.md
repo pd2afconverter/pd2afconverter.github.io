@@ -182,6 +182,25 @@ In graphical visualisatin of these rules we use _unspecified entity_ to show tha
 	</tr>
 </table>
 
+<h4 style="color:black">1.8 PD2AF:AE-AND (NEW)</h4>
+
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<div><img src="/images/specification/ae-and/pd.png" width="145px" /></div>
+		</td>
+		<td style="width:300px; text-align:center;">
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<a href="/images/specification/ae-and/pd.gml">GML</a>
+		</td>
+		<td style="width:300px; text-align:center;">
+		</td>
+	</tr>
+</table>
+
 <br />
 
 ## 2. Activation and deactivation
