@@ -8,16 +8,6 @@ permalink: /specification
 
 [1. Rules for finding active EPNs](#1-rules-for-finding-active-epns)  
 [2. Activation and deactivation (posttranslational modifications)](#2-activation-and-deactivation)  
-[3. Metabolic reactions](#3-metabolic-reactions)  ---
-layout: default
-title: Specification
-permalink: /specification
----
-
-# PD2AF 1.0 Specification
-
-[1. Rules for finding active EPNs](#1-rules-for-finding-active-epns)  
-[2. Activation and deactivation (posttranslational modifications)](#2-activation-and-deactivation)  
 [3. Metabolic reactions](#3-metabolic-reactions)  
 [4. Production and degradation (empty set)](#4-production-and-degradation)  
 [5. Heterocomplex association and dissociation](#5-heterocomplex-association-and-dissociation)  
