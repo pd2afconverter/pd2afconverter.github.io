@@ -510,10 +510,10 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/a-sti-a/pd.png" width="234.4px" /></div>
+			<div><img src="/images/specification/a-sti-a/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/a-sti-a/af.png" width="237.6px" />
+			<img src="/images/specification/a-sti-a/af.png" width="240px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
