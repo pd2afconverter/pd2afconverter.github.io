@@ -218,10 +218,10 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/i-sti-i/pd.png" width="246.4px" /></div>
+			<div><img src="/images/specification/i-sti-i/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/i-sti-i/af.png" width="69.6px" />
+			<img src="/images/specification/i-sti-i/af.png" width="78px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
