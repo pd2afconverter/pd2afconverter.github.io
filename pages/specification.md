@@ -1099,13 +1099,9 @@ Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degrada
 	</tr>
 </table><br />
    
-   <h4 style="color:black">4.? PD2AF:ES-NSTI-RNAA/I Trancscription (NEW)</h4>
+   <h4 style="color:black">4.? PD2AF:ES-NSTI-RNA Trancscription (NEW)</h4>
    
-   <h4 style="color:black">4.? PD2AF:ES-NSTI-IRNA Trancscription (NEW)</h4>
-   
-   <h4 style="color:black">4.? PD2AF:ES-NSTI-A/I Translation (NEW)</h4> 
-   
-   <h4 style="color:black">4.? PD2AF:ES-NSTI-I Translation (NEW)</h4>
+   <h4 style="color:black">4.? PD2AF:ES-NSTI Translation (NEW)</h4> 
    
    <h4 style="color:black">4.? PD2AF:ES-STI-A/I (NEW)</h4>
 
@@ -1219,7 +1215,7 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 
    <h4 style="color:black">6.1 PD2AF:MULT (3.1 - 3.11)</h4>
 
-<!--<font size="2">-->
+<font size="2">
 <table>
 <tr>
 <td style="width: 180px;">X = 2; Y = dimer</td>
@@ -1252,7 +1248,7 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 <td style="width: 180px;">X = 21; Y = 21-mer</td>
 </tr>
 </table>
-<!--</font>-->
+</font>
 
 <br />
 
