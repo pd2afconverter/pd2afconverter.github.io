@@ -1,4 +1,4 @@
-# generated with VANTED V2.6.5 at Sun Aug 09 06:29:14 CEST 2020
+# generated with VANTED V2.6.5 at Sun Aug 09 06:37:22 CEST 2020
 graph [
   graphbackgroundcolor "#ffffff"
   sbgn [
@@ -88,7 +88,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text " S1"
+      text " s1"
       type "text"
     ]
     sbgn [
@@ -143,7 +143,7 @@ graph [
         relHor 0.0
         relVert 0.0
       ]
-      text "S2"
+      text "s2"
       type "text"
     ]
     sbgn [
