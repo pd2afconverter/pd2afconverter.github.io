@@ -9,7 +9,7 @@ permalink: /specification
 [1. Rules for identifying active entity pool nodes](#1-rules-for-identifying-active-entity-pool-nodes)  
 [2. Activation and deactivation (posttranslational modifications)](#2-activation-and-deactivation)  
 [3. Metabolic reactions](#3-metabolic-reactions)  
-[4. Production and degradation (empty set)](#4-production-and-degradation)  
+[4. Empty set (production, degradation, transcription, translation)](#4-empty-set-production-degradation-transcription-translation)  
 [5. Heterocomplex association and dissociation](#5-heterocomplex-association-and-dissociation)  
 [6. Multimerisation](#6-multimerisation)  
 [7. Translocation and transport](7-ranslocation-and-transport)  
@@ -996,7 +996,7 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
    
 
    
-## 4. Production and degradation
+## 4. Empty set (production, degradation, transcription, translation)
 
 <span style="color:red">AM: Missing ES-STI-A, ES-NSTI-A, etc.? Active/Inactive does not matter for conversion here? All considered active? Then we need to remove all incactive? We need to add the common gene expression events with nucleic acid features and test if the converter handles them, simply a diagram with a couple of events.</span>
 
@@ -1164,10 +1164,9 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 		</td>
 	</tr>
 </table><br />
-	
-   <h4 style="color:black">5.3 PD2AF:COMPX-AS-STI (NEW)</h4>
 
-   <h4 style="color:black">5.4 PD2AF:COMPX-AS-CAT (5.3 Regulated heterocomplex association)</h4>
+
+   <h4 style="color:black">5.3 PD2AF:COMPX-AS-CAT (5.3 Regulated heterocomplex association)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1191,7 +1190,7 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 </table><br />
 	
 	
-   <h4 style="color:black">5.5 PD2AF:COMPX-DIS (5.4 Heterocomplex dissociation)</h4>
+   <h4 style="color:black">5.4 PD2AF:COMPX-DIS (5.4 Heterocomplex dissociation)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1214,9 +1213,6 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 	</tr>
 </table><br />
 
-   <h4 style="color:black">5.6 PD2AF:COMPX-DIS-STI (NEW)</h4>
-
-   <h4 style="color:black">5.7 PD2AF:COMPX-DIS-CAT (NEW)</h4>
 
 <br /><br />
 
