@@ -1,4 +1,4 @@
-# generated with VANTED V2.7.2 at Mon Aug 10 19:57:12 CEST 2020
+# generated with VANTED V2.7.2 at Mon Aug 10 20:38:34 CEST 2020
 graph [
   graphbackgroundcolor "#ffffff"
   sbgn [
@@ -10,8 +10,8 @@ graph [
     zlevel -1
 
     graphics [
-      x 150.0
-      y 35.0
+      x 100.0
+      y 40.0
       w 80.0
       h 40.0
       fill "#FFFFFF"
@@ -47,7 +47,7 @@ graph [
 
     graphics [
       x 50.0
-      y 135.0
+      y 135.5
       w 80.0
       h 40.0
       fill "#FFFFFF"
@@ -101,8 +101,8 @@ graph [
     zlevel -1
 
     graphics [
-      x 214.5
-      y 86.5
+      x 144.5
+      y 135.5
       w 36.0
       h 36.0
       fill "#FFFFFF"
@@ -138,7 +138,7 @@ graph [
 
     graphics [
       x 250.0
-      y 135.0
+      y 135.5
       w 80.0
       h 40.0
       fill "#FFFFFF"
@@ -188,47 +188,18 @@ graph [
     ]
   ]
   edge [
-    id 7
-    source 3
-    target 4
-    SBGN [
-      BendOut "250.5;86.5"
-    ]
-    graphics [
-      fill "#000000"
-      outline "#000000"
-      Line [
-        point [ x 0.0 y 0.0 ]
-        point [ x 250.5 y 86.5 ]
-        point [ x 0.0 y 0.0 ]
-      ]
-      arrow "last"
-      arrowheadstyle "stimulation"
-      frameThickness 1.5
-      gradient 0.0
-      opacity 1.0
-      rounding 5.0
-      type "org.graffiti.plugins.views.defaults.PolyLineEdgeShape"
-      thickness 15.0
-    ]
-    sbgn [
-      glyphid "positive-influence-732"
-      role "POSITIVEINFLUENCE"
-    ]
-  ]
-  edge [
-    id 8
+    id 5
     source 1
     target 3
     SBGN [
-      BendIn "178.5;86.5"
+      BendIn "108.5;135.5"
     ]
     graphics [
       fill "#000000"
       outline "#000000"
       Line [
         point [ x 0.0 y 0.0 ]
-        point [ x 178.5 y 86.5 ]
+        point [ x 108.5 y 135.5 ]
         point [ x 0.0 y 0.0 ]
       ]
       arrow "none"
@@ -245,18 +216,18 @@ graph [
     ]
   ]
   edge [
-    id 10
+    id 6
     source 2
     target 3
     SBGN [
-      BendIn "178.5;86.5"
+      BendIn "108.5;135.5"
     ]
     graphics [
       fill "#000000"
       outline "#000000"
       Line [
         point [ x 0.0 y 0.0 ]
-        point [ x 178.5 y 86.5 ]
+        point [ x 108.5 y 135.5 ]
         point [ x 0.0 y 0.0 ]
       ]
       arrow "none"
@@ -270,6 +241,34 @@ graph [
     sbgn [
       glyphid "arc3"
       role "LOGICARC"
+    ]
+  ]
+  edge [
+    id 10
+    source 3
+    target 4
+    SBGN [
+      BendOut "180.5;135.5"
+    ]
+    graphics [
+      fill "#000000"
+      outline "#000000"
+      Line [
+        point [ x 0.0 y 0.0 ]
+        point [ x 180.5 y 135.5 ]
+        point [ x 0.0 y 0.0 ]
+      ]
+      arrow "last"
+      arrowheadstyle "stimulation"
+      frameThickness 1.5
+      gradient 0.0
+      opacity 1.0
+      rounding 5.0
+      type "org.graffiti.plugins.views.defaults.PolyLineEdgeShape"
+      thickness 15.0
+    ]
+    sbgn [
+      role "STIMULATION"
     ]
   ]
 ]
