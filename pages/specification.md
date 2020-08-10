@@ -54,7 +54,7 @@ In graphical visualisatin of these rules we use _unspecified entity_ to show tha
    
 
 <table class="rules-table">
-	<tr style="font-size:90%">
+	<tr>
 		<td style="width:400px;">
 			<p style="font-size:110%;"><strong>1.1 PD2AF:AE-A (0.1 act)</strong></p>
 		</td>
@@ -62,7 +62,7 @@ In graphical visualisatin of these rules we use _unspecified entity_ to show tha
 			<p style="font-size:110%;"><strong>1.2 PD2AF:AE-MOD (0.2 mod)</strong>
 		</td>
 	</tr>
-	<tr style="font-size:90%">
+	<tr>
 		<td style="width:400px; text-align:center;">
 			<div><img src="/images/specification/ae-a/pd.png" width="145px" /></div>
 		</td>
@@ -70,7 +70,7 @@ In graphical visualisatin of these rules we use _unspecified entity_ to show tha
 			<div><img src="/images/specification/ae-mod/pd.png" width="145px" /></div>
 		</td>
 	</tr>
-	<tr style="font-size:90%">
+	<tr>
 		<td style="width:400px; text-align:center;">
 			<a href="/images/specification/ae-a/pd.gml">GML</a>
 		</td>
@@ -79,8 +79,8 @@ In graphical visualisatin of these rules we use _unspecified entity_ to show tha
 		</td>
 	</tr>
 </table>
-
 <br /><br />
+
 
 <h4 style="color:black">1.1 PD2AF:AE-A (0.1 act)</h4>
 
