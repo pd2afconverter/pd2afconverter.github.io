@@ -851,10 +851,10 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/m-cat-m/pd.png" width="229.6px" /></div>
+			<div><img src="/images/specification/m-cat-m/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/m-cat-m/af.png" width="229.6px" />
+			<img src="/images/specification/m-cat-m/af.png" width="240px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
@@ -870,18 +870,15 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 </table><br />
 
 
-   <h4 style="color:black">3.2 PD2AF:M-STI-M* (1.21 m-sti-m)</h4>
-   
-<span style="color:red">WARNING: Rare or wrong representation of a metabolic event.</span>
-
+   <h4 style="color:black">3.2 PD2AF:M-STI-M (1.21 m-sti-m)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/m-sti-m/pd.png" width="229.6px" /></div>
+			<div><img src="/images/specification/m-sti-m/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/m-sti-m/af.png" width="229.6px" />
+			<img src="/images/specification/m-sti-m/af.png" width="240px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
@@ -897,17 +894,17 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 </table><br />
 
 
-   <h4 style="color:black">3.3 PD2AF:M-NSTI-M* (1.23 m-nsti-m)</h4>
+   <h4 style="color:black">3.3 PD2AF:M-NSTI-M (1.23 m-nsti-m)</h4>
    
 <span style="color:red">WARNING: Rare or wrong representation of a metabolic event.</span>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/m-nsti-m/pd.png" width="229.6px" /></div>
+			<div><img src="/images/specification/m-nsti-m/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/m-nsti-m/af.png" width="229.6px" />
+			<img src="/images/specification/m-nsti-m/af.png" width="240px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
@@ -930,10 +927,10 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/m-mod-m/pd.png" width="229.6px" /></div>
+			<div><img src="/images/specification/m-mod-m/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/m-mod-m/af.png" width="229.6px" />
+			<img src="/images/specification/m-mod-m/af.png" width="240px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
