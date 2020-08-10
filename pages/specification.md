@@ -859,6 +859,7 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
+			<a href="/images/specification/m-cat-m/pd.gml">GML</a>&ensp; &ensp;
 			<a href="/images/specification/m-cat-m/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/m-cat-m/pd.sbgn" target="_blank">Newt</a>
 		</td>
@@ -942,6 +943,7 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/m-mod-m/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
+			<a href="/images/specification/m-mod-m/af.gml">GML</a>&ensp; &ensp;
 			<a href="/images/specification/m-mod-m/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/m-mod-m/af.sbgn" target="_blank">Newt</a>
 		</td>
@@ -979,10 +981,10 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/m-catr-m/pd.png" width="229.6px" /></div>
+			<div><img src="/images/specification/m-catr-m/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/m-catr-m/af.png" width="293.6px" />
+			<img src="/images/specification/m-catr-m/af.png" width="240px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
@@ -1004,10 +1006,10 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/m-inhr-m/pd.png" width="229.6px" /></div>
+			<div><img src="/images/specification/m-inhr-m/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/m-inhr-m/af.png" width="281.6px" />
+			<img src="/images/specification/m-inhr-m/af.png" width="240px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
@@ -1016,6 +1018,7 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/m-inhr-m/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
+			<a href="/images/specification/m-inhr-m/af.gml">GMLensp; &ensp;
 			<a href="/images/specification/m-inhr-m/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/m-inhr-m/af.sbgn" target="_blank">Newt</a>
 		</td>
