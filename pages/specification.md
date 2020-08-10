@@ -1173,7 +1173,7 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 </table><br />
 	
 
-   <h4 style="color:black">5.2 PD2AF:COMPX-AS (5.2 Heterocomplex association (unnamed complex))</h4>
+   <h4 style="color:black">5.2 PD2AF:COMPL-AS Heterocomplex association (unnamed complex)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
