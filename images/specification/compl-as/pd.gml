@@ -1,4 +1,4 @@
-# generated with VANTED V2.7.2 at Mon Aug 10 22:15:57 CEST 2020
+# generated with VANTED V2.7.2 at Mon Aug 10 22:23:36 CEST 2020
 graph [
   graphbackgroundcolor "#ffffff"
   sbgn [
@@ -10,7 +10,7 @@ graph [
     zlevel -1
 
     graphics [
-      x 230.0
+      x 245.0
       y 83.0
       w 100.0
       h 120.0
@@ -46,7 +46,7 @@ graph [
     zlevel -1
 
     graphics [
-      x 230.0
+      x 245.0
       y 60.0
       w 80.0
       h 40.0
@@ -82,7 +82,7 @@ graph [
     zlevel -1
 
     graphics [
-      x 230.0
+      x 245.0
       y 110.0
       w 80.0
       h 40.0
@@ -190,7 +190,7 @@ graph [
     zlevel -1
 
     graphics [
-      x 120.0
+      x 135.0
       y 83.0
       w 24.0
       h 24.0
@@ -212,14 +212,14 @@ graph [
     source 6
     target 1
     SBGN [
-      BendOut "144.0;83.0"
+      BendOut "159.0;83.0"
     ]
     graphics [
       fill "#000000"
       outline "#000000"
       Line [
         point [ x 0.0 y 0.0 ]
-        point [ x 144.0 y 83.0 ]
+        point [ x 159.0 y 83.0 ]
         point [ x 0.0 y 0.0 ]
       ]
       arrow "last"
@@ -243,14 +243,14 @@ graph [
     source 4
     target 6
     SBGN [
-      BendIn "96.0;83.0"
+      BendIn "111.0;83.0"
     ]
     graphics [
       fill "#000000"
       outline "#000000"
       Line [
         point [ x 0.0 y 0.0 ]
-        point [ x 96.0 y 83.0 ]
+        point [ x 111.0 y 83.0 ]
         point [ x 0.0 y 0.0 ]
       ]
       arrow "none"
@@ -271,14 +271,14 @@ graph [
     source 5
     target 6
     SBGN [
-      BendIn "96.0;83.0"
+      BendIn "111.0;83.0"
     ]
     graphics [
       fill "#000000"
       outline "#000000"
       Line [
         point [ x 0.0 y 0.0 ]
-        point [ x 96.0 y 83.0 ]
+        point [ x 111.0 y 83.0 ]
         point [ x 0.0 y 0.0 ]
       ]
       arrow "none"
