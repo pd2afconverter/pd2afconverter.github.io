@@ -1178,10 +1178,10 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/compl-as/pd.png" width="257.6px" /></div>
+			<div><img src="/images/specification/compl-as/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/compl-as/af.png" width="229.6px" />
+			<img src="/images/specification/compl-as/af.png" width="240px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
@@ -1204,10 +1204,10 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/complex_association_regulated/pd.png" width="245.6px" /></div>
+			<div><img src="/images/specification/complex_association_regulated/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/complex_association_regulated/af.png" width="189.6px" />
+			<img src="/images/specification/complex_association_regulated/af.png" width="240px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
@@ -1228,10 +1228,10 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/complex_dissociation/pd.png" width="229.6px" /></div>
+			<div><img src="/images/specification/complex_dissociation/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/complex_dissociation/af.png" width="229.6px" />
+			<img src="/images/specification/complex_dissociation/af.png" width="240px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
