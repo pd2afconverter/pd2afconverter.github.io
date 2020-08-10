@@ -1002,7 +1002,7 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
    
 ## 4. Empty set (production, degradation, transcription, translation)
 
-This section describes processes with _empty set_ that represents an external pool of entities and is used when we do not need or wish or have enough information to represent specific entities. For example for a production of a protein we do not represent all the amino acids and other metabolites used. 
+This section describes processes with an _empty set_ that represents an external pool of entities and is used when we do not need or wish or have enough information to represent specific entities. For example, for the production of a protein, we do not represent all the amino acids and other metabolites used. 
 
 Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degradation
 
