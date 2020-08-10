@@ -807,7 +807,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 </table><br />
 
 
-   <h4 style="color:black">2.25 PD2AF:I-INHR-A (CORRECTED AF OUTPUT) (1.29 i-inhr-a)</h4>
+   <h4 style="color:black">2.25 PD2AF:I-INHR-A (AF OUTPUT CORRECTED) (1.29 i-inhr-a)</h4>
    
 <span style="color:red">WARNING: Rare or wrong representation of a signalling event.</span>
 
