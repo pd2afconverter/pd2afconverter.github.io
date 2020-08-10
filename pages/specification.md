@@ -1142,7 +1142,7 @@ Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degrada
 			<div><img src="/images/specification/es-nsti/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/es-nsti/af.png" width="240px" />
+			<img src="/images/specification/es-nsti/af.png" width="78px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
@@ -1168,7 +1168,7 @@ Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degrada
 			<div><img src="/images/specification/es-nsti/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/es-nsti/af.png" width="240px" />
+			<img src="/images/specification/es-nsti/af.png" width="78px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
