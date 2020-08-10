@@ -1343,10 +1343,10 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/mult/pd.png" width="78.4px" /></div>
+			<div><img src="/images/specification/mult/pd.png" width="78px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/mult/af.png" width="69.6px" />
+			<img src="/images/specification/mult/af.png" width="78px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
@@ -1368,10 +1368,10 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/mult-sti/pd.png" width="153.6px" /></div>
+			<div><img src="/images/specification/mult-sti/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/mult-sti/af.png" width="165.6px" />
+			<img src="/images/specification/mult-sti/af.png" width="163px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
