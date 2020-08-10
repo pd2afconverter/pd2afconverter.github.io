@@ -1147,25 +1147,27 @@ Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degrada
 Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-covalent binding, [SBO:0000180](https://identifiers.org/sbo/SBO:0000180) dissociation, [GO:0005488](https://identifiers.org/quickgo/GO:0005488) binding
 	
 	
-   <h4 style="color:black">5.1 PD2AF:COMPL-AS-N (5.1 Heterocomplex association (named complex))</h4>
+   <h4 style="color:black">5.1 PD2AF:COMPL-AS-N Heterocomplex association (named complex)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/complex_association_with_complex_name/pd.png" width="245.6px" /></div>
+			<div><img src="/images/specification/compl-as-n/pd.png" width="245.6px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/complex_association_with_complex_name/af.png" width="229.6px" />
+			<img src="/images/specification/compl-as-n/af.png" width="229.6px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/complex_association_with_complex_name/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/complex_association_with_complex_name/pd.sbgn" target="_blank">Newt</a>
+			<a href="/images/specification/compl-as-n/pd.gml">GML</a>&ensp; &ensp;
+			<a href="/images/specification/compl-as-n/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/compl-as-n/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/complex_association_with_complex_name/af.sbgn">SBGN-ML</a>&ensp; &ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/complex_association_with_complex_name/af.sbgn" target="_blank">Newt</a>
+			<a href="/images/specification/compl-as-n/af.gml">GML</a>&ensp; &ensp;
+			<a href="/images/specification/compl-as-n/af.sbgn">SBGN-ML</a>&ensp; &ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/compl-as-n/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 </table><br />
