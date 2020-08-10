@@ -51,25 +51,6 @@ The following rules are used to find _active entities_ in the context of Process
 
 In graphical visualisatin of these rules we use _unspecified entity_ to show that different types of entities can be in its place such as _macromolecule_ (protein), _simple chemical_ (metabolite), _nucleic acid feature_ (gene, mRNA) or _complex_.
 
-
-
-<table class="rules-table">
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/ae-a/pd.png" width="145px" /></div>
-		</td>
-		<td style="width:300px; text-align:center;">
-		</td>
-	</tr>
-	<tr style="font-size:90%">
-		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/ae-a/pd.gml">GML</a>
-		</td>
-		<td style="width:300px; text-align:center;">
-		</td>
-	</tr>
-</table>
-
    <h4 style="color:black">1.1 PD2AF:AE-A (0.1 act)</h4>
 
 <table class="rules-table">
@@ -95,6 +76,26 @@ In graphical visualisatin of these rules we use _unspecified entity_ to show tha
 		</td>
 		<td style="width:400px; text-align:center;">
 			<a href="/images/specification/ae-mod/pd.gml">GML</a>
+		</td>
+	</tr>
+</table>
+
+<br /><br />
+
+
+<table class="rules-table">
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<div><img src="/images/specification/ae-a/pd.png" width="145px" /></div>
+		</td>
+		<td style="width:300px; text-align:center;">
+		</td>
+	</tr>
+	<tr style="font-size:90%">
+		<td style="width:400px; text-align:center;">
+			<a href="/images/specification/ae-a/pd.gml">GML</a>
+		</td>
+		<td style="width:300px; text-align:center;">
 		</td>
 	</tr>
 </table>
