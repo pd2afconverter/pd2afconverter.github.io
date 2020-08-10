@@ -51,7 +51,7 @@ The following rules are used to find _active entities_ in the context of Process
 
 In graphical visualisatin of these rules we use _unspecified entity_ to show that different types of entities can be in its place such as _macromolecule_ (protein), _simple chemical_ (metabolite), _nucleic acid feature_ (gene, mRNA) or _complex_.
 
-   <h4 style="color:black">1.1 PD2AF:AE-A (0.1 act)</h4>
+   
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -64,10 +64,10 @@ In graphical visualisatin of these rules we use _unspecified entity_ to show tha
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<img src="/images/specification/ae-a/pd.png" width="145px" />
+			<div><img src="/images/specification/ae-a/pd.png" width="145px" /></div>
 		</td>
 		<td style="width:400px; text-align:center;">
-			<img src="/images/specification/ae-mod/pd.png" width="145px" />
+			<div><img src="/images/specification/ae-mod/pd.png" width="145px" /></div>
 		</td>
 	</tr>
 	<tr style="font-size:90%">
@@ -82,6 +82,7 @@ In graphical visualisatin of these rules we use _unspecified entity_ to show tha
 
 <br /><br />
 
+<h4 style="color:black">1.1 PD2AF:AE-A (0.1 act)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
