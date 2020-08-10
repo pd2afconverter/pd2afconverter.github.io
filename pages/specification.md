@@ -509,6 +509,8 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 	
 
    <h4 style="color:black">2.13 PD2AF:A-NSTI-I (1.13 a-nsti-i)</h4>
+   
+<span style="color:red">WARNING: Rare or wrong representation of a signalling event.</span>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
