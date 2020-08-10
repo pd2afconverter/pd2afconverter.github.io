@@ -751,6 +751,9 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 
 
 <h4 style="color:black">2.23 PD2AF:A-CATR-A (1.27 a-catr-a)</h4>
+
+<span style="color:red">Unlikely or wrong representation of a signalling event.</span>
+
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
@@ -777,6 +780,9 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 
 
    <h4 style="color:black">2.24 PD2AF:I-CATR-A (1.28 a-catr-i)</h4>
+   
+<span style="color:red">Unlikely or wrong representation of a signalling event.</span>
+
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
@@ -802,6 +808,9 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 
 
    <h4 style="color:black">2.25 PD2AF:I-INHR-A (1.29 i-inhr-a)</h4>
+   
+<span style="color:red">Unlikely or wrong representation of a signalling event.</span>
+
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
