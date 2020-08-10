@@ -1152,10 +1152,10 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/compl-as-n/pd.png" width="245.6px" /></div>
+			<div><img src="/images/specification/compl-as-n/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/compl-as-n/af.png" width="229.6px" />
+			<img src="/images/specification/compl-as-n/af.png" width="240px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
