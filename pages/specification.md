@@ -943,7 +943,7 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 </table><br />
 	
 
-   <h4 style="color:black">3.5 PD2AF:M-INH-M (1.25 m-inh-m)</h4>
+   <h4 style="color:black">3.5 PD2AF:M-INH-M (AF OUTPUT CORRECTED) (1.25 m-inh-m)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -960,6 +960,7 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/m-inh-m/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
+			<a href="/images/specification/m-inh-m/af.gml">GML</a>&ensp; &ensp;
 			<a href="/images/specification/m-inh-m/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/m-inh-m/af.sbgn" target="_blank">Newt</a>
 		</td>
