@@ -34,7 +34,7 @@
             <start y="135.5" x="90.0"/>
             <end y="135.5" x="108.5"/>
         </arc>
-        <arc target="A2" source="and-729.2" id="arc2" class="necessary stimulation">
+        <arc target="A2" source="and-729.2" id="arc2" class="unknown influence">
             <start y="135.5" x="180.5"/>
             <end y="135.5" x="210.0"/>
         </arc>
