@@ -1162,7 +1162,7 @@ Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degrada
 </table><br />
 
    
-   <h4 style="color:black">4.6 PD2AF:ES-TRSL (NEW)</h4> 
+   <h4 style="color:black">4.6 PD2AF:ES-TRSL Translation (NEW)</h4> 
 
 <table class="rules-table">
 	<tr style="font-size:90%">
