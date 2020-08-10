@@ -1039,31 +1039,31 @@ This section describes processes with an _empty set_ that represents an external
 Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degradation
 
 	
-   <h4 style="color:black">4.1 PD2AF:ES-STI-I (2.1 ss-sti-i)</h4>
+   <h4 style="color:black">4.1 PD2AF:ES-STI (2.1 ss-sti-i)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/ss-sti-i/pd.png" width="224px" /></div>
+			<div><img src="/images/specification/es-sti/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/ss-sti-i/af.png" width="69.6px" />
+			<img src="/images/specification/es-sti/af.png" width="78px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/ss-sti-i/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/ss-sti-i/pd.sbgn" target="_blank">Newt</a>
+			<a href="/images/specification/es-sti/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/es-sti/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/ss-sti-i/af.sbgn">SBGN-ML</a>&ensp; &ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/ss-sti-i/af.sbgn" target="_blank">Newt</a>
+			<a href="/images/specification/es-sti/af.sbgn">SBGN-ML</a>&ensp; &ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/es-sti/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 </table><br />
 	
 
-   <h4 style="color:black">4.2 PD2AF:I-STI-ES (2.2 i-sti-ss)</h4>
+   <h4 style="color:black">4.2 PD2AF:STI-ES (2.2 i-sti-ss)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
