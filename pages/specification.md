@@ -776,23 +776,25 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 
 
 
-   <h4 style="color:black">2.24 PD2AF:A-CATR-I (1.28 a-catr-i)</h4>
+   <h4 style="color:black">2.24 PD2AF:I-CATR-A (1.28 a-catr-i)</h4>
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/a-catr-i/pd.png" width="240px" /></div>
+			<div><img src="/images/specification/i-catr-a/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/a-catr-i/af.png" width="240px" />
+			<img src="/images/specification/i-catr-a/af.png" width="240px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/a-catr-i/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
+			<a href="/images/specification/i-catr-a/pd.gml">GML</a>&ensp; &ensp;
+			<a href="/images/specification/i-catr-a/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-catr-i/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/a-catr-i/af.sbgn">SBGN-ML</a>&ensp; &ensp;
+			<a href="/images/specification/i-catr-a/af.gml">GML</a>&ensp; &ensp;
+			<a href="/images/specification/i-catr-a/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/a-catr-i/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
