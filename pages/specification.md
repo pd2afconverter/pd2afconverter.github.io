@@ -1381,6 +1381,7 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/mult-sti/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
+			<a href="/images/specification/mult-sti/af.gml">GML</a>&ensp; &ensp;
 			<a href="/images/specification/mult-sti/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/mult-sti/af.sbgn" target="_blank">Newt</a>
 		</td>
