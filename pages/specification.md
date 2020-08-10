@@ -374,6 +374,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
+			<a href="/images/specification/i-cat-a/pd.gml">GML</a>&ensp; &ensp;
 			<a href="/images/specification/i-cat-a/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/i-cat-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
