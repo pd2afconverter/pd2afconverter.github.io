@@ -1,4 +1,4 @@
-# generated with VANTED V2.7.2 at Mon Aug 10 12:28:24 CEST 2020
+# generated with VANTED V2.7.2 at Mon Aug 10 20:17:45 CEST 2020
 graph [
   graphbackgroundcolor "#ffffff"
   sbgn [
@@ -11,7 +11,7 @@ graph [
 
     graphics [
       x 50.0
-      y 135.0
+      y 135.5
       w 80.0
       h 40.0
       fill "#FFFFFF"
@@ -65,8 +65,8 @@ graph [
     zlevel -1
 
     graphics [
-      x 214.5
-      y 86.5
+      x 154.5
+      y 135.5
       w 36.0
       h 36.0
       fill "#FFFFFF"
@@ -102,7 +102,7 @@ graph [
 
     graphics [
       x 250.0
-      y 135.0
+      y 135.5
       w 80.0
       h 40.0
       fill "#FFFFFF"
@@ -156,8 +156,8 @@ graph [
     zlevel -1
 
     graphics [
-      x 135.0
-      y 35.0
+      x 110.0
+      y 90.0
       w 36.0
       h 36.0
       fill "#FFFFFF"
@@ -191,8 +191,8 @@ graph [
     zlevel -1
 
     graphics [
-      x 50.0
-      y 35.0
+      x 110.0
+      y 30.0
       w 80.0
       h 40.0
       fill "#FFFFFF"
@@ -226,14 +226,14 @@ graph [
     source 2
     target 3
     SBGN [
-      BendOut "250.5;86.5"
+      BendOut "190.5;135.5"
     ]
     graphics [
       fill "#000000"
       outline "#000000"
       Line [
         point [ x 0.0 y 0.0 ]
-        point [ x 250.5 y 86.5 ]
+        point [ x 190.5 y 135.5 ]
         point [ x 0.0 y 0.0 ]
       ]
       arrow "last"
@@ -255,14 +255,14 @@ graph [
     source 1
     target 2
     SBGN [
-      BendIn "178.5;86.5"
+      BendIn "118.5;135.5"
     ]
     graphics [
       fill "#000000"
       outline "#000000"
       Line [
         point [ x 0.0 y 0.0 ]
-        point [ x 178.5 y 86.5 ]
+        point [ x 118.5 y 135.5 ]
         point [ x 0.0 y 0.0 ]
       ]
       arrow "none"
@@ -283,14 +283,14 @@ graph [
     source 5
     target 4
     SBGN [
-      BendIn "99.0;35.0"
+      BendIn "110.0;54.0"
     ]
     graphics [
       fill "#000000"
       outline "#000000"
       Line [
         point [ x 0.0 y 0.0 ]
-        point [ x 99.0 y 35.0 ]
+        point [ x 110.0 y 54.0 ]
         point [ x 0.0 y 0.0 ]
       ]
       arrow "none"
@@ -310,16 +310,16 @@ graph [
     source 4
     target 2
     SBGN [
-      BendIn "178.5;86.5"
-      BendOut "171.0;35.0"
+      BendIn "118.5;135.5"
+      BendOut "110.0;126.0"
     ]
     graphics [
       fill "#000000"
       outline "#000000"
       Line [
         point [ x 0.0 y 0.0 ]
-        point [ x 171.0 y 35.0 ]
-        point [ x 178.5 y 86.5 ]
+        point [ x 110.0 y 126.0 ]
+        point [ x 118.5 y 135.5 ]
         point [ x 0.0 y 0.0 ]
       ]
       arrow "none"
