@@ -1001,7 +1001,7 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 </table><br />
 	
 
-   <h4 style="color:black">3.7 PD2AF:M-INHR-M (1.31 m-inhr-m)</h4>
+   <h4 style="color:black">3.7 PD2AF:M-INHR-M (AF OUTPUT CORRECTED) (1.31 m-inhr-m)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
