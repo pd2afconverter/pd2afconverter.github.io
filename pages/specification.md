@@ -1167,22 +1167,22 @@ Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degrada
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/es-nsti/pd.png" width="240px" /></div>
+			<div><img src="/images/specification/es-trsl/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/es-nsti/af.png" width="78px" />
+			<img src="/images/specification/es-trsl/af.png" width="78px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/es-nsti/pd.gml">GML</a>&ensp; &ensp;
-			<a href="/images/specification/es-nsti/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/es-nsti/pd.sbgn" target="_blank">Newt</a>
+			<a href="/images/specification/es-trsl/pd.gml">GML</a>&ensp; &ensp;
+			<a href="/images/specification/es-trsl/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/es-trsl/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/es-nsti/af.gml">GML</a>&ensp; &ensp;
-			<a href="/images/specification/es-nsti/af.sbgn">SBGN-ML</a>&ensp; &ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/es-nsti/af.sbgn" target="_blank">Newt</a>
+			<a href="/images/specification/es-trsl/af.gml">GML</a>&ensp; &ensp;
+			<a href="/images/specification/es-trsl/af.sbgn">SBGN-ML</a>&ensp; &ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/es-trsl/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 </table><br />
