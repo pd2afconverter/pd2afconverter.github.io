@@ -807,7 +807,7 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 </table><br />
 
 
-   <h4 style="color:black">2.25 PD2AF:I-INHR-A (1.29 i-inhr-a)</h4>
+   <h4 style="color:black">2.25 PD2AF:I-INHR-A (CORRECTED AF OUTPUT) (1.29 i-inhr-a)</h4>
    
 <span style="color:red">WARNING: Rare or wrong representation of a signalling event.</span>
 
@@ -822,10 +822,12 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
+			<a href="/images/specification/i-inhr-a/af.gml">GML</a>&ensp; &ensp;
 			<a href="/images/specification/i-inhr-a/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/i-inhr-a/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
+			<a href="/images/specification/i-inhr-a/af.gml">GML</a>&ensp; &ensp;
 			<a href="/images/specification/i-inhr-a/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/i-inhr-a/af.sbgn" target="_blank">Newt</a>
 		</td>
