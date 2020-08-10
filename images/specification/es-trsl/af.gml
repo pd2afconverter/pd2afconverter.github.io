@@ -1,4 +1,4 @@
-# generated with VANTED V2.7.2 at Mon Aug 10 23:56:55 CEST 2020
+# generated with VANTED V2.7.2 at Tue Aug 11 00:08:34 CEST 2020
 graph [
   graphbackgroundcolor "#ffffff"
   sbgn [
@@ -22,7 +22,7 @@ graph [
       rounding 0.0
       type "rectangle"
     ]
-    label "A"
+    label "A mRNA"
     labelgraphics [
       alignment "center"
       anchor "c"
