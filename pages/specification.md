@@ -1018,7 +1018,7 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/m-inhr-m/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/m-inhr-m/af.gml">GMLensp; &ensp;
+			<a href="/images/specification/m-inhr-m/af.gml">GML</a>&ensp; &ensp;
 			<a href="/images/specification/m-inhr-m/af.sbgn">SBGN-ML</a>&ensp; &ensp;
 			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/m-inhr-m/af.sbgn" target="_blank">Newt</a>
 		</td>
