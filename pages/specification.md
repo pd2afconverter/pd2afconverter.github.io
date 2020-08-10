@@ -1340,25 +1340,24 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 
 <h4 style="color:black">6.1 PD2AF:MULT (3.1 - 3.11)</h4>
 
-<span style="color:red">AM: new image with N:X and A-Y</span>
-
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/oligomerization_x10/pd.png" width="78.4px" /></div>
+			<div><img src="/images/specification/mult/pd.png" width="78.4px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/oligomerization_x10/af.png" width="69.6px" />
+			<img src="/images/specification/mult/af.png" width="69.6px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/oligomerization_x10/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/oligomerization_x10/pd.sbgn" target="_blank">Newt</a>
+			<a href="/images/specification/mult/pd.gml">GML</a>&ensp; &ensp;
+			<a href="/images/specification/mult/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/mult/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/oligomerization_x10/af.sbgn">SBGN-ML</a>&ensp; &ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/oligomerization_x10/af.sbgn" target="_blank">Newt</a>
+			<a href="/images/specification/mult/af.sbgn">SBGN-ML</a>&ensp; &ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/mult/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 </table><br />
