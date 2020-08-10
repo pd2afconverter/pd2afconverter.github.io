@@ -1338,7 +1338,7 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 
 <br />
 
-<h4 style="color:black">6.1 PD2AF:MULT (3.1 - 3.11)</h4>
+<h4 style="color:black">6.1 PD2AF:MULT Multimerisation</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1363,7 +1363,7 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 </table><br />
 
 
-   <h4 style="color:black">6.2 PD2AF:MULT-STI (3.12 Oligomerisation x6 r)</h4>
+   <h4 style="color:black">6.2 PD2AF:MULT-STI Multimerisation regulated</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
