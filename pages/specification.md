@@ -41,7 +41,9 @@ N - named;
 NCURM - noncurrency metabolites; 
 NSTI - necessery stimulation; 
 STI - stimulation; 
-TRANS - transport.
+TRANS - transport;
+TRANSCR - transcription; 
+TRANSL - tranaslation.
 
 Light green used to highlight _active entities_.
 
@@ -1134,7 +1136,7 @@ Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degrada
 	</tr>
 </table><br />
    
-   <h4 style="color:black">4.5 PD2AF:ES-NSTI-RNA Trancscription (NEW)</h4>
+   <h4 style="color:black">4.5 PD2AF:ES-TRANSCR Trancscription (NEW)</h4>
    
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1160,7 +1162,7 @@ Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degrada
 </table><br />
 
    
-   <h4 style="color:black">4.6 PD2AF:ES-NSTI Translation (NEW)</h4> 
+   <h4 style="color:black">4.6 PD2AF:ES-TRANSL (NEW)</h4> 
 
 <table class="rules-table">
 	<tr style="font-size:90%">
