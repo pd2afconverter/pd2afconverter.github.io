@@ -948,10 +948,10 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/m-inh-m/pd.png" width="229.6px" /></div>
+			<div><img src="/images/specification/m-inh-m/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/m-inh-m/af.png" width="185.6px" />
+			<img src="/images/specification/m-inh-m/af.png" width="240px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
