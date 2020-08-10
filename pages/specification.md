@@ -864,7 +864,8 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 
    <h4 style="color:black">3.2 PD2AF:M-STI-M* (1.21 m-sti-m)</h4>
    
-<p>*Unlikely or wrong representation of a metabolic event.</p>
+<span style="color:red">Unlikely or wrong representation of a metabolic event.</span>
+
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -890,7 +891,7 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 
    <h4 style="color:black">3.3 PD2AF:M-NSTI-M* (1.23 m-nsti-m)</h4>
    
-<p>*Unlikely or wrong representation of a metabolic event.</p>
+<span style="color:red">Unlikely or wrong representation of a metabolic event.</span>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -916,7 +917,7 @@ Associated terms: [GO:0008152](https://identifiers.org/quickgo/GO:0008152) metab
 
    <h4 style="color:black">3.4 PD2AF:M-MOD-M (1.24 m-mod-m)</h4>
    
-<p>*Unlikely or wrong representation of a metabolic event.</p>
+<span style="color:red">Unlikely or wrong representation of a metabolic event.</span>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
