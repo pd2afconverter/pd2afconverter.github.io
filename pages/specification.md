@@ -1369,20 +1369,21 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/oligomerization_x6_r/pd.png" width="153.6px" /></div>
+			<div><img src="/images/specification/mult-sti/pd.png" width="153.6px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/oligomerization_x6_r/af.png" width="165.6px" />
+			<img src="/images/specification/mult-sti/af.png" width="165.6px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/oligomerization_x6_r/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/oligomerization_x6_r/pd.sbgn" target="_blank">Newt</a>
+			<a href="/images/specification/mult-sti/pd.gml">GML</a>&ensp; &ensp;
+			<a href="/images/specification/mult-sti/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/mult-sti/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/oligomerization_x6_r/af.sbgn">SBGN-ML</a>&ensp; &ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/oligomerization_x6_r/af.sbgn" target="_blank">Newt</a>
+			<a href="/images/specification/mult-sti/af.sbgn">SBGN-ML</a>&ensp; &ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/mult-sti/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 </table><br /><br /><br />
