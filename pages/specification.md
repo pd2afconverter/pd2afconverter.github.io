@@ -53,7 +53,7 @@ In graphical visualisatin of these rules we use _unspecified entity_ to show tha
 
    
 
-<table class="rules-table">
+<table>
 	<tr>
 		<td style="width:400px;">
 			<p style="font-size:110%;"><strong>1.1 PD2AF:AE-A (0.1 act)</strong></p>
