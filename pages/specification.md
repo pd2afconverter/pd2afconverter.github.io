@@ -78,15 +78,15 @@ In graphical visualisatin of these rules we use _unspecified entity_ to show tha
 			<p style="font-size:110%;"><strong>1.1 PD2AF:AE-A (0.1 act)</strong></p>
 		</td>
 		<td style="width:400px; ">
-			<p>1.2 PD2AF:AE-MOD (0.2 mod)</p>
+			<p style="font-size:110%;"><strong>1.2 PD2AF:AE-MOD (0.2 mod)</strong>
 		</td>
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/ae-a/pd.png" width="145px" /></div>
+			<img src="/images/specification/ae-a/pd.png" width="145px" />
 		</td>
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/ae-mod/pd.png" width="145px" /></div>
+			<img src="/images/specification/ae-mod/pd.png" width="145px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
