@@ -739,20 +739,22 @@ COMMENT: Modified represetnation in Activity Flow: demerging arcs from the logic
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/noncurrency_metabolites_1/pd.png" width="240px" /></div>
+			<div><img src="/images/specification/ncurm/pd.png" width="240px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/noncurrency_metabolites_1/af.png" width="240px" />
+			<img src="/images/specification/ncurm/af.png" width="240px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/noncurrency_metabolites_1/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/noncurrency_metabolites_1/pd.sbgn" target="_blank">Newt</a>
+			<a href="/images/specification/ncurm/pd.gml">GML</a>&ensp; &ensp;
+			<a href="/images/specification/ncurm/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/ncurm/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/noncurrency_metabolites_1/af.sbgn">SBGN-ML</a>&ensp; &ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/noncurrency_metabolites_1/af.sbgn" target="_blank">Newt</a>
+			<a href="/images/specification/ncurm/af.gml">GML</a>&ensp; &ensp;
+			<a href="/images/specification/ncurm/af.sbgn">SBGN-ML</a>&ensp; &ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/ncurm/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 </table><br /><br /><br />
