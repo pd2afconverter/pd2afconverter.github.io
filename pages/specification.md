@@ -720,12 +720,13 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/currency_metabolites_1/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/currency_metabolites_1/pd.sbgn" target="_blank">Newt</a>
+			<a href="/images/specification/curm/pd.gml">SGML</a>&ensp; &ensp;
+			<a href="/images/specification/curm/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/curm/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/currency_metabolites_1/af.sbgn">SBGN-ML</a>&ensp; &ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/currency_metabolites_1/af.sbgn" target="_blank">Newt</a>
+			<a href="/images/specification/curm/af.sbgn">SBGN-ML</a>&ensp; &ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/curm/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 </table><br />	
