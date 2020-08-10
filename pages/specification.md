@@ -733,6 +733,8 @@ Associated terms: [SBO:0000182](https://identifiers.org/sbo/SBO:0000182) convers
 
 
    <h4 style="color:black">2.22 PD2AF:NCURM Noncurrency metabolites (9.2 Noncurrency metabolites 1)</h4>
+   
+COMMENT: Modified represetnation in Activity Flow: demerging arcs from the logic operator (not available in the current version of the SBGN standard).
 
 <table class="rules-table">
 	<tr style="font-size:90%">
