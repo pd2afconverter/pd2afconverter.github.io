@@ -1178,20 +1178,22 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 <table class="rules-table">
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<div><img src="/images/specification/complex_association/pd.png" width="257.6px" /></div>
+			<div><img src="/images/specification/compl-as/pd.png" width="257.6px" /></div>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<img src="/images/specification/complex_association/af.png" width="229.6px" />
+			<img src="/images/specification/compl-as/af.png" width="229.6px" />
 		</td>
 	</tr>
 	<tr style="font-size:90%">
 		<td style="width:400px; text-align:center;">
-			<a href="/images/specification/complex_association/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/complex_association/pd.sbgn" target="_blank">Newt</a>
+			<a href="/images/specification/compl-as/pd.gml">SGML</a>&ensp; &ensp;
+			<a href="/images/specification/compl-as/pd.sbgn">SBGN-ML</a>&ensp; &ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/compl-as/pd.sbgn" target="_blank">Newt</a>
 		</td>
 		<td style="width:300px; text-align:center;">
-			<a href="/images/specification/complex_association/af.sbgn">SBGN-ML</a>&ensp; &ensp;
-			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/complex_association/af.sbgn" target="_blank">Newt</a>
+			<a href="/images/specification/compl-as/af.gml">GML</a>&ensp; &ensp;
+			<a href="/images/specification/compl-as/af.sbgn">SBGN-ML</a>&ensp; &ensp;
+			<a href="http://web.newteditor.org/?URL=https://www.pd2af.org//images/specification/compl-as/af.sbgn" target="_blank">Newt</a>
 		</td>
 	</tr>
 </table><br />
