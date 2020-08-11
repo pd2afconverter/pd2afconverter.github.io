@@ -1065,7 +1065,7 @@ Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degrada
 </table><br />
 	
 
-   <h4 style="color:black">4.2 PD2AF:STI-ES (2.2 i-sti-ss)</h4>
+   <h4 style="color:black">4.2 PD2AF:ES-DEGR-STI (2.2 i-sti-ss)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1089,7 +1089,7 @@ Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degrada
 </table><br />
 
 
-   <h4 style="color:black">4.3 PD2AF:A-CAT-ES (2.3 a-cat-ss)</h4>
+   <h4 style="color:black">4.3 PD2AF:ES-DEGR-CAT (2.3 a-cat-ss)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1113,7 +1113,7 @@ Associated terms: [SBO:0000179](https://identifiers.org/sbo/SBO:0000179) degrada
 </table><br />
 
 
-   <h4 style="color:black">4.4 PD2AF:A-INH-ES (2.4 a-inh-ss)</h4>
+   <h4 style="color:black">4.4 PD2AF:ES-DEGR-INH (2.4 a-inh-ss)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
