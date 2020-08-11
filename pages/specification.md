@@ -6,7 +6,7 @@ permalink: /specification
 
 # PD2AF 1.0 Specification
 
-[1. Rules for identifying active entity pool nodes](#1-rules-for-identifying-active-entity-pool-nodes)  
+[1. Identifying active entities](#1-identifying-active-entities)  
 [2. Posttranslational modification (activation and deactivation)](#2-posttranslational-modification-activation-and-deactivation)  
 [3. Metabolic reactions](#3-metabolic-reactions)  
 [4. Empty set (production, degradation, transcription, translation)](#4-empty-set-production-degradation-transcription-translation)  
@@ -47,7 +47,7 @@ TRSL - tranaslation.
 
 Light green used to highlight _active entities_.
 
-## 1. Rules for identifying active entity pool nodes
+## 1. Identifying active entities
 
 The following rules are used to find _active entities_ in the context of Process Description maps. Then, in other rules, the status of the entities _active_ vs. _inactive_ is used for adequate conversion. An entity is identified as _active_ if it is marked as "active" in a state variable, or has an outgoing regulatory arc (modulation, stimulation, catalysis, inhibition, necessery stimiulation), or has a consumption arc, or has a logic arc (input to a _logical operator_). 
 
