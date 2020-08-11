@@ -62,7 +62,7 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
 <table>
 <tr>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Vasundra Toure</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Norwegian University of Science and Technology, Trondheim, Norway</font></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><strong>Ilya Mazein</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Applied Mathematics and Control Processes Faculty, Saint Petersburg State University, Petergof, Saint Petersburg, Russia</font></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><strong>Ilya Mazein</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Applied Mathematics and Control Processes, Saint Petersburg State University, Petergof, Saint Petersburg, Russia</font></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Irina Balaur</strong></p><p style="margin:4px; line-height:100%;"><font size="2">European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Ugur Dogrusoz</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Department of Computer Engineering, Bilkent University, Ankara, Turkey</font></p></td>
 </tr>
