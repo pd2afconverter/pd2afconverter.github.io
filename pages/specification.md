@@ -1247,7 +1247,7 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 </table><br />
 
 
-   <h4 style="color:black">5.3 PD2AF:COMPX-AS-CAT (5.3 Regulated heterocomplex association)</h4>
+   <h4 style="color:black">5.3 PD2AF:COMPL-AS-CAT (5.3 Regulated heterocomplex association)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
@@ -1271,7 +1271,7 @@ Associated terms: [SBO:0000177](https://identifiers.org/sbo/SBO:0000177) non-cov
 </table><br />
 	
 	
-   <h4 style="color:black">5.4 PD2AF:COMPX-DIS (5.4 Heterocomplex dissociation)</h4>
+   <h4 style="color:black">5.4 PD2AF:COMPL-DIS (5.4 Heterocomplex dissociation)</h4>
 
 <table class="rules-table">
 	<tr style="font-size:90%">
