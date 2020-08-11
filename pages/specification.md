@@ -27,7 +27,7 @@ CAT - catalysis;
 CATR - catalysis, reversible process; 
 COMPL - complex; 
 CONS - consumption; 
-DIs - dissociation; 
+DIS - dissociation; 
 ES - empty set; 
 HIDINH - hidden inhibition; 
 I - incactive; 
