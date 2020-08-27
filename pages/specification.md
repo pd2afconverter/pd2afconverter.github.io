@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Specification
-permalink: /specification
+permalink: /specification/
 ---
 
 # PD2AF 1.0 Specification
