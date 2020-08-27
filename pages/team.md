@@ -18,27 +18,23 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
 <table>
 <tr>
 <td style="width: 110px;"><a id="AlexanderMazein"><img src="../images/team/AlexanderMazein.jpg" width="105" alt="Alexander Mazein"/></a></td>
-<td><strong>Alexander Mazein</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project; Leader of the Disease Maps Project; Researcher at the Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Luxembourg</p></td>
+<td><strong>Alexander Mazein</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Coordinator of the PD2AF project; Researcher at the Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Luxembourg</p></td>
 </tr>
 <tr>
 <td style="width: 110px;"><a id="MarekOstaszewski"><img src="../images/team/MarekOstaszewski.jpg" width="105" alt="Marek Ostaszewski"/></a></td>
-<td><strong>Marek Ostaszewski</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project; Leader of the Disease Maps Project; Researcher at the Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Luxembourg</p></td>
+<td><strong>Marek Ostaszewski</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Researcher at the Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Luxembourg</p></td>
 </tr>
 <tr>
 <td style="width: 110px;"><a id="AnnaNiarakis"><img src="../images/team/AnnaNiarakis.jpg" width="105" alt="Anna Niarakis"/></a></td>
-<td><strong>Anna Niarakis</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Leader of the Disease Maps Project; PI of the Rheumatoid Arthritis Map project; <br />Associate Professor, University of Evry, University of Paris-Saclay, Evry, France</p></td>
+<td><strong>Anna Niarakis</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Associate Professor, University of Evry, University of Paris-Saclay, Evry, France</p></td>
 </tr>
 <tr>
 <td style="width: 110px;"><a id="CharlesAuffray"><img src="../images/team/CharlesAuffray.jpg" width="105" alt="Charles Auffray"/></a></td>
-<td><strong>Charles Auffray</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project; PI of the Disease Maps Project; <br />Founding Director of the European Institute for Systems Biology and Medicine, France</p></td>
-</tr>
-<tr>
-<td style="width: 110px;"><a id="RudiBalling"><img src="../images/team/RudiBalling.jpg" width="105" alt="Rudi Balling"/></a></td>
-<td><strong>Rudi Balling</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Co-founder of the Disease Maps Project; <br />Director of the Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Luxembourg</p></td>
+<td><strong>Charles Auffray</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Founding Director of the European Institute for Systems Biology and Medicine, France</p></td>
 </tr>
 <tr>
 <td style="width: 110px;"><a id="ReinhardSchneider"><img src="../images/team/ReinhardSchneider.jpg" width="105" alt="Reinhard Schneider"/></a></td>
-<td><strong>Reinhard Schneider</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">PI of the Disease Maps Project; Full professor / Chief Scientist 1 in Bioinformatics, Head of Bioinformatics Core Facility, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Luxembourg</p></td>
+<td><strong>Reinhard Schneider</strong><p style="line-height:150%; margin-top:6px; font-size:14px;">Full professor / Chief Scientist 1 in Bioinformatics, Head of Bioinformatics Core Facility, Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Luxembourg</p></td>
 </tr>
 </table>
 
