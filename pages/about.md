@@ -112,7 +112,7 @@ This work was supported in part by the Innovative Medicines Initiative Joint Und
 
 The PD2AF tool is built on and further develops the logic of the previously published template-based translation from PD to AF (Vogt et al., 2013, [doi:10.1186/1752-0509-7-115](https://doi.org/10.1186/1752-0509-7-115)) which is accessible as a functionality of the SBGN-ED add-on of the VANTED editor.  
 
-The converter and web services are are hosted and supported by [ELIXIR Luxembourg](https://elixir-luxembourg.org/), the Luxembourgish node of [ELIXIR](https://elixir-europe.org/).  
+The converter and web services are hosted and supported by [ELIXIR Luxembourg](https://elixir-luxembourg.org/), the Luxembourgish node of [ELIXIR](https://elixir-europe.org/).  
 
 
 ### License
