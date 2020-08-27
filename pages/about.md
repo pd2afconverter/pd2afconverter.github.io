@@ -30,8 +30,7 @@ To contribute and discuss the project please use this email address: [pd2af@goog
 Lead developer: Denis Shirshov [denis.shirshov@gmail.com](mailto:denis.shirshov@gmail.com)  
 PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein@gmail.com)  
 
-### Project Team
-
+<!--### Project Team
 <table>
 <tr>
 <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/DenisShirshov.jpg" width="160"/></p></td>
@@ -40,7 +39,6 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
 <td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/AnatolySorokin.jpg" width="160"/></p></td>
 </tr>
 </table>
-
 <table>
 <tr>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Denis Shirshov</strong></p><p style="margin:4px; line-height:100%;"><font size="2">European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
@@ -49,7 +47,6 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
 <td style="width: 200px;"><p style="margin:4px;"><strong>Anatoly Sorokin</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Institute of Cell Biophysics, Russian Academy of Science, Pushchino, Russia</font></p></td>
 </tr>
 </table>
-
 <table>
 <tr>
 <td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/VasundraToure.jpg" width="160"/></p></td>
@@ -58,7 +55,6 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
 <td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/UgurDogrusoz.jpg" width="160"/></p></td>
 </tr>
 </table>
-
 <table>
 <tr>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Vasundra Toure</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Norwegian University of Science and Technology, Trondheim, Norway</font></p></td>
@@ -67,7 +63,6 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
 <td style="width: 200px;"><p style="margin:4px;"><strong>Ugur Dogrusoz</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Department of Computer Engineering, Bilkent University, Ankara, Turkey</font></p></td>
 </tr>
 </table>
-
 <table>
 <tr>
 <td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/AnnaNiarakis.jpg" width="160"/></p></td>
@@ -76,7 +71,6 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
 <td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/YohanJarosz.jpg" width="160"/></p></td>
 </tr>
 </table>
-
 <table>
 <tr>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Anna Niarakis</strong></p><p style="margin:4px; line-height:100%;"><font size="2">University of Evry, University of Paris-Saclay, Evry, France</font></p></td>
@@ -85,7 +79,6 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
 <td style="width: 200px;"><p style="margin:4px;"><strong>Yohan Jarosz</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg</font></p></td>
 </tr>
 </table>
-
 <table>
 <tr>
 <td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/CharlesAuffray.jpg" width="160"/></p></td>
@@ -94,7 +87,6 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
 <td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/ReinhardSchneider.jpg" width="160"/></p></td>
 </tr>
 </table>
-
 <table>
 <tr>
 <td style="width: 200px;"><p style="margin:4px;"><strong>Charles Auffray</strong></p><p style="margin:4px; line-height:100%;"><font size="2">European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
@@ -103,6 +95,7 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
 <td style="width: 200px;"><p style="margin:4px;"><strong>Reinhard Schneider</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg</font></p></td>
 </tr>
 </table>
+-->
 
 ### Funding
 
