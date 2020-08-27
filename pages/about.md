@@ -27,8 +27,8 @@ Converter engine: [https://github.com/pd2af/converter](https://github.com/pd2af/
 ### Contact
 
 To contribute and discuss the project please use this email address: [pd2af@googlegroups.com](mailto:pd2af@googlegroups.com)  
-<!--Lead developer: Denis Shirshov [denis.shirshov@gmail.com](mailto:denis.shirshov@gmail.com)  
-Project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein@gmail.com)  -->
+Lead developer: Denis Shirshov [denis.shirshov@gmail.com](mailto:denis.shirshov@gmail.com)  
+Project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein@gmail.com)  
 
 <!--### Project Team
 <table>
