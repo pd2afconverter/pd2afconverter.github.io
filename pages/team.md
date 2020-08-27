@@ -42,28 +42,28 @@ PD2AF project coordinator: Alexander Mazein [a.mazein@gmail.com](mailto:a.mazein
 
 <table>
 <tr>
-<td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/DenisShirshov.jpg" width="160"/></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/AlexanderMazein.jpg" width="160"/></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/AdrienRougny.jpg" width="160"/></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/AnatolySorokin.jpg" width="160"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/DenisShirshov.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/AlexanderMazein.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/AdrienRougny.jpg" width="120"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><img src="/images/team/AnatolySorokin.jpg" width="120"/></p></td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td style="width: 160px;"><p style="margin:4px;"><strong>Denis Shirshov</strong></p><p style="margin:4px; line-height:100%;"><font size="2">European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
-<td style="width: 160px;"><p style="margin:4px;"><strong>Alexander Mazein</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg</font></p></td>
-<td style="width: 160px;"><p style="margin:4px;"><strong>Adrien Rougny</strong></p><p style="margin:4px; line-height:100%;"><font size="2">National Institute of Advanced Industrial Science and Technology, Tokyo, Japan</font></p></td>
-<td style="width: 160px;"><p style="margin:4px;"><strong>Anatoly Sorokin</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Institute of Cell Biophysics, Russian Academy of Science, Pushchino, Russia</font></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><strong>Denis Shirshov</strong></p><p style="margin:4px; line-height:100%;"><font size="2">European Institute for Systems Biology and Medicine, Lyon, France</font></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><strong>Alexander Mazein</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Luxembourg Centre for Systems Biomedicine, University of Luxembourg, Belval, Luxembourg</font></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><strong>Adrien Rougny</strong></p><p style="margin:4px; line-height:100%;"><font size="2">National Institute of Advanced Industrial Science and Technology, Tokyo, Japan</font></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><strong>Anatoly Sorokin</strong></p><p style="margin:4px; line-height:100%;"><font size="2">Institute of Cell Biophysics, Russian Academy of Science, Pushchino, Russia</font></p></td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/VasundraToure.jpg" width="160"/></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/IlyaMazein.jpg" width="160"/></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/IrinaBalaur.jpg" width="160"/></p></td>
-<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/UgurDogrusoz.jpg" width="160"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/VasundraToure.jpg" width="140"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/IlyaMazein.jpg" width="140"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/IrinaBalaur.jpg" width="140"/></p></td>
+<td style="width: 200px;"><p style="margin:4px;"><br /><img src="/images/team/UgurDogrusoz.jpg" width="140"/></p></td>
 </tr>
 </table>
 
